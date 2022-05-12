@@ -15,6 +15,10 @@ def comment_is_song_list(text):
     return "\n" in text and re.search(r"\d:\d\d", text)
 
 
+def clean_filename(filename):
+    return filename.replace("/", "").replace("*", "")
+
+
 def write_video(video: Video):
     try:
         write_file(video.channel,
@@ -33,8 +37,8 @@ def write_file(channel, channel_id, title, video_id, webpage_url, timestamp, com
     if len(comments) == 0:
         return
 
-    channel = channel.replace("/", "")
-    title = title.replace("/", "")
+    channel = clean_filename(channel)
+    title = clean_filename(title)
     folder_name = f"youtube/{channel} - {channel_id}"
     filename = f"{folder_name}/{title} - {video_id}.md"
     Path(folder_name).mkdir(parents=True, exist_ok=True)
@@ -80,7 +84,6 @@ def extract_video(video) -> Video:
 
 def process_video(video):
     video = extract_video(video)
-    print()
     print(video)
     write_video(video)
 
@@ -98,6 +101,7 @@ def extract_channel_or_video(url):
         info = ydl.extract_info(url, download=False)
         info = ydl.sanitize_info(info)
         # json.dump(info, sys.stdout)
+        # print()
 
         if info['_type'] == 'video':
             process_video(info)
