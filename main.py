@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+import json
 import re
 import sys
 
@@ -61,6 +62,10 @@ def extract_comment(comment):
     return Comment(comment["id"], comment["text"])
 
 
+def extract_comments(comments):
+    return [extract_comment(comment) for comment in comments if comment_is_song_list(comment["text"])]
+
+
 def extract_video(video) -> Video:
     return Video(
         video["channel"],
@@ -69,12 +74,11 @@ def extract_video(video) -> Video:
         video["id"],
         video["webpage_url"],
         extract_timestamp(video),
-        [extract_comment(comment) for comment in video["comments"] if comment_is_song_list(comment["text"])]
+        extract_comments(video["comments"])
     )
 
 
 def process_video(video):
-    # json.dump(video, sys.stdout)
     video = extract_video(video)
     print()
     print(video)
@@ -93,6 +97,7 @@ def extract_channel_or_video(url):
     with yt_dlp.YoutubeDL(ydl_opts) as ydl:
         info = ydl.extract_info(url, download=False)
         info = ydl.sanitize_info(info)
+        # json.dump(info, sys.stdout)
 
         if info['_type'] == 'video':
             process_video(info)
