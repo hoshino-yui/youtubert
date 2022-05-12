@@ -1,22 +1,14 @@
 #!/usr/bin/env python3
 import json
-import re
 import sys
 
 import yt_dlp
+import utils
 from datetime import datetime
 from pathlib import Path
 from model.Comment import Comment
 from model.Video import Video
 from typing import List
-
-
-def comment_is_song_list(text):
-    return "\n" in text and re.search(r"\d:\d\d", text)
-
-
-def clean_filename(filename):
-    return re.sub(r'[/\\<>:|?*"]', '', filename)
 
 
 def write_video(video: Video):
@@ -37,8 +29,8 @@ def write_file(channel, channel_id, title, video_id, webpage_url, timestamp, com
     if len(comments) == 0:
         return
 
-    folder_name = f"youtube/{clean_filename(channel)} - {channel_id}"
-    filename = f"{folder_name}/{clean_filename(title)} - {video_id}.md"
+    folder_name = f"youtube/{utils.clean_filename(channel)} - {channel_id}"
+    filename = f"{folder_name}/{utils.clean_filename(title)} - {video_id}.md"
     Path(folder_name).mkdir(parents=True, exist_ok=True)
     with Path(filename).open('w') as file:
         file.write(f"## {title}\n")
@@ -65,7 +57,7 @@ def extract_comment(comment):
 
 
 def extract_comments(comments):
-    return [extract_comment(comment) for comment in comments if comment_is_song_list(comment["text"])]
+    return [extract_comment(comment) for comment in comments if utils.comment_is_song_list(comment["text"])]
 
 
 def extract_video(video) -> Video:
