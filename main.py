@@ -16,7 +16,7 @@ def comment_is_song_list(text):
 
 
 def clean_filename(filename):
-    return filename.replace("/", "").replace("*", "")
+    return re.sub(r'[/\\<>:|?*"]', '', filename)
 
 
 def write_video(video: Video):
@@ -37,10 +37,8 @@ def write_file(channel, channel_id, title, video_id, webpage_url, timestamp, com
     if len(comments) == 0:
         return
 
-    channel = clean_filename(channel)
-    title = clean_filename(title)
-    folder_name = f"youtube/{channel} - {channel_id}"
-    filename = f"{folder_name}/{title} - {video_id}.md"
+    folder_name = f"youtube/{clean_filename(channel)} - {channel_id}"
+    filename = f"{folder_name}/{clean_filename(title)} - {video_id}.md"
     Path(folder_name).mkdir(parents=True, exist_ok=True)
     with Path(filename).open('w') as file:
         file.write(f"## {title}\n")
