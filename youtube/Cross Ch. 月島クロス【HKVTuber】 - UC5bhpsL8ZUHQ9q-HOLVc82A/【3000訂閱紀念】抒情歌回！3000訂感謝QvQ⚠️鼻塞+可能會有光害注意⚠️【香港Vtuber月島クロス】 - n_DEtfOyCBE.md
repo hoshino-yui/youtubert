@@ -1,4 +1,4 @@
-## 【3000訂閱紀念】抒情歌回！3000訂感謝QvQ⚠️鼻塞+可能會有光害注意⚠️【香港Vtuber月島クロス】
+## 【3000訂閱紀念】抒情歌回！3000訂感謝QvQ///⚠️鼻塞+可能會有光害注意⚠️【香港Vtuber/月島クロス】
 ### 2022-02-20 14:03:12
 https://www.youtube.com/watch?v=n_DEtfOyCBE
 #### Ugw8aCu3iAbYkMRyadh4AaABAg

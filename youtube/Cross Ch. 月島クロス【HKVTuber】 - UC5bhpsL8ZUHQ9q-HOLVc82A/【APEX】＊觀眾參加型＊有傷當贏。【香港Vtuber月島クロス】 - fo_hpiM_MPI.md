@@ -1,4 +1,4 @@
-## 【APEX】＊觀眾參加型＊有傷當贏。【香港Vtuber月島クロス】
+## 【APEX】＊觀眾參加型＊有傷當贏。【香港Vtuber/月島クロス】
 ### 2022-04-25 13:29:28
 https://www.youtube.com/watch?v=fo_hpiM_MPI
 #### UgwRO4GiHCjeWSh2eLd4AaABAg
