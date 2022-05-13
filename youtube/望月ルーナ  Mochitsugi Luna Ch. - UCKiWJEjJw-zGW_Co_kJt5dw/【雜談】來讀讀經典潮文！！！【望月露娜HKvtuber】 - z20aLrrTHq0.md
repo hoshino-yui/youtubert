@@ -1,4 +1,4 @@
-## 【雜談】來讀讀經典潮文！！！【望月露娜HKvtuber】
+## 【雜談】來讀讀經典潮文！！！【望月露娜/HKvtuber】
 ### 2021-05-21 06:01:06
 https://www.youtube.com/watch?v=z20aLrrTHq0
 #### Ugyyp4TPkQUkCgEa9sJ4AaABAg

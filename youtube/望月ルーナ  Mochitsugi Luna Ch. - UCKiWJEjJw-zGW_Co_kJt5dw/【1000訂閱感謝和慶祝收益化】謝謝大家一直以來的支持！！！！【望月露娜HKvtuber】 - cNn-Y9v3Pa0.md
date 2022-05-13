@@ -1,4 +1,4 @@
-## 【1000訂閱感謝和慶祝收益化】謝謝大家一直以來的支持！！！！【望月露娜HKvtuber】
+## 【1000訂閱感謝和慶祝收益化】謝謝大家一直以來的支持！！！！【望月露娜/HKvtuber】
 ### 2021-06-06 14:01:42
 https://www.youtube.com/watch?v=cNn-Y9v3Pa0
 #### Ugxf2Jju1XKlCR4mvpR4AaABAg

@@ -1,4 +1,4 @@
-## 【24小時耐久】12個小時過去了！還有12個小時！【望月露娜HKvtuber】
+## 【24小時耐久】12個小時過去了！還有12個小時！【望月露娜/HKvtuber】
 ### 2021-05-31 15:58:58
 https://www.youtube.com/watch?v=t3FR3Z9m3FY
 #### Ugy4z4f6GMjfJJK-jA54AaABAg

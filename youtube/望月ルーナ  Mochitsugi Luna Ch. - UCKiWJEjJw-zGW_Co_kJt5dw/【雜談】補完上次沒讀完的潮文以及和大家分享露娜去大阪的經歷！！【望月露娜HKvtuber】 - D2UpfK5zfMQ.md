@@ -1,4 +1,4 @@
-## 【雜談】補完上次沒讀完的潮文以及和大家分享露娜去大阪的經歷！！【望月露娜HKvtuber】
+## 【雜談】補完上次沒讀完的潮文以及和大家分享露娜去大阪的經歷！！【望月露娜/HKvtuber】
 ### 2021-05-28 06:13:19
 https://www.youtube.com/watch?v=D2UpfK5zfMQ
 #### UgzyuMgi0vllNPxezPx4AaABAg
