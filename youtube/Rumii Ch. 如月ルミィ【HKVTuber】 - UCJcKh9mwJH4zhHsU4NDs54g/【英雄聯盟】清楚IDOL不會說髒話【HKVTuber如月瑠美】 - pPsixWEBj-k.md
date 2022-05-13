@@ -1,4 +1,4 @@
-## 【英雄聯盟】清楚IDOL不會說髒話【HKVTuber如月瑠美】
+## 【英雄聯盟】清楚IDOL不會說髒話【HKVTuber/如月瑠美】
 ### 2021-05-29 13:00:20
 https://www.youtube.com/watch?v=pPsixWEBj-k
 #### UgxdgmhtNsYHivBdag54AaABAg

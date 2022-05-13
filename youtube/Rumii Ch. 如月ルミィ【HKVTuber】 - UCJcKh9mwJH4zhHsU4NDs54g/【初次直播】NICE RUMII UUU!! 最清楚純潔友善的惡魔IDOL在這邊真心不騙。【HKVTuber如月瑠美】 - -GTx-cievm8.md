@@ -1,4 +1,4 @@
-## 【初次直播】NICE RUMII UUU!! 最清楚純潔友善的惡魔IDOL在這邊真心不騙。【HKVTuber如月瑠美】
+## 【初次直播】NICE RUMII UUU!! 最清楚純潔友善的惡魔IDOL在這邊真心不騙。【HKVTuber/如月瑠美】
 ### 2021-01-20 12:00:41
 https://www.youtube.com/watch?v=-GTx-cievm8
 #### Ugy49gq7Bn0VqZ1oIfJ4AaABAg

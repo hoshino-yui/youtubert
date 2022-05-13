@@ -1,4 +1,4 @@
-## 🎀如月瑠美新衣裝展示會🎀＋最後有重大發表～～！！【HKVTuber如月瑠美】
+## 🎀如月瑠美新衣裝展示會🎀＋最後有重大發表～～！！【HKVTuber/如月瑠美】
 ### 2021-08-27 13:00:25
 https://www.youtube.com/watch?v=d9qUhRs2lX4
 #### Ugyg3uepsu8r-2F3Blp4AaABAg

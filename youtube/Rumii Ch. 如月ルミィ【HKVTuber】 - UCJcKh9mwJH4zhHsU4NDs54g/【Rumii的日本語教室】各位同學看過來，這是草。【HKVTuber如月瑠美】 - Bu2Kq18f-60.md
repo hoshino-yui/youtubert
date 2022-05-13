@@ -1,6 +1,11 @@
-## 【Rumii的日本語教室】各位同學看過來，這是草。【HKVTuber如月瑠美】
+## 【Rumii的日本語教室】各位同學看過來，這是草。【HKVTuber/如月瑠美】
 ### 2021-02-20 13:00:15
 https://www.youtube.com/watch?v=Bu2Kq18f-60
+#### UgxTlF6819thoJLmAil4AaABAg
+13:29 動畫中經常聽到"愛しています" 多於 "愛してます"
+
+是我錯覺嗎……??.......求解....ORZ
+
 #### Ugy89_nhn87FSDwabqF4AaABAg
 0:00 OP
 
@@ -217,9 +222,4 @@ https://www.youtube.com/watch?v=Bu2Kq18f-60
 1:14:40 讀完 Superchat，道別
 
 1:14:50 ED
-
-#### UgxTlF6819thoJLmAil4AaABAg
-13:29 動畫中經常聽到"愛しています" 多於 "愛してます"
-
-是我錯覺嗎……??.......求解....ORZ
 

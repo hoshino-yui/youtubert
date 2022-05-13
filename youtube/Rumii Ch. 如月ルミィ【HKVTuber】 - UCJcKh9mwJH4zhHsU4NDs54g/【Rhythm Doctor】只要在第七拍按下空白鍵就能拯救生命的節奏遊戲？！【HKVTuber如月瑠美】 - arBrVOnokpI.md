@@ -1,4 +1,4 @@
-## 【Rhythm Doctor】只要在第七拍按下空白鍵就能拯救生命的節奏遊戲？！【HKVTuber如月瑠美】
+## 【Rhythm Doctor】只要在第七拍按下空白鍵就能拯救生命的節奏遊戲？！【HKVTuber/如月瑠美】
 ### 2021-03-02 14:00:28
 https://www.youtube.com/watch?v=arBrVOnokpI
 #### Ugzo89mHBkNrIyn4w3N4AaABAg

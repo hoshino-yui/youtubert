@@ -1,4 +1,4 @@
-## 【初配信】˙˚ʚ天界最弱天使初登場ɞ˚˙【HKVTuber如月瑠美】
+## 【初配信】˙˚ʚ天界最弱天使初登場ɞ˚˙【HKVTuber/如月瑠美】
 ### 2022-04-01 13:00:10
 https://www.youtube.com/watch?v=eNePKdmjI6g
 #### UgwKu9vAhPmcjcdPK0l4AaABAg

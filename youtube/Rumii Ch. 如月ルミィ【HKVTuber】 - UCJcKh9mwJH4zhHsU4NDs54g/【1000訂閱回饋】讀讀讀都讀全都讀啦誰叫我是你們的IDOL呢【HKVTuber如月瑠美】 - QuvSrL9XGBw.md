@@ -1,4 +1,4 @@
-## 【1000訂閱回饋】讀讀讀都讀全都讀啦誰叫我是你們的IDOL呢【HKVTuber如月瑠美】
+## 【1000訂閱回饋】讀讀讀都讀全都讀啦誰叫我是你們的IDOL呢【HKVTuber/如月瑠美】
 ### 2021-02-06 13:00:19
 https://www.youtube.com/watch?v=QuvSrL9XGBw
 #### UgznpUHKwMZWX-cqSnV4AaABAg

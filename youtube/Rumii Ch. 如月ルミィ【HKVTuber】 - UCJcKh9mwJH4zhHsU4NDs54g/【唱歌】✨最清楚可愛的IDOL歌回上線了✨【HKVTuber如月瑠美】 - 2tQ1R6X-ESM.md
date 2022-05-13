@@ -1,4 +1,4 @@
-## 【唱歌】✨最清楚可愛的IDOL歌回上線了✨【HKVTuber如月瑠美】
+## 【唱歌】✨最清楚可愛的IDOL歌回上線了✨【HKVTuber/如月瑠美】
 ### 2021-08-10 13:00:13
 https://www.youtube.com/watch?v=2tQ1R6X-ESM
 #### Ugxj_Xxl9Adus8zprmZ4AaABAg

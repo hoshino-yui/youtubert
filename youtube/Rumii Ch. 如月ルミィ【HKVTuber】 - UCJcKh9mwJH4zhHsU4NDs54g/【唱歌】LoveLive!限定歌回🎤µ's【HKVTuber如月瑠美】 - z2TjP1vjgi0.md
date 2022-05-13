@@ -1,4 +1,4 @@
-## 【唱歌】LoveLive!限定歌回🎤µ's【HKVTuber如月瑠美】
+## 【唱歌】LoveLive!限定歌回🎤µ's【HKVTuber/如月瑠美】
 ### 2021-04-29 13:01:08
 https://www.youtube.com/watch?v=z2TjP1vjgi0
 #### UgykKMf_sODy66KKi_R4AaABAg

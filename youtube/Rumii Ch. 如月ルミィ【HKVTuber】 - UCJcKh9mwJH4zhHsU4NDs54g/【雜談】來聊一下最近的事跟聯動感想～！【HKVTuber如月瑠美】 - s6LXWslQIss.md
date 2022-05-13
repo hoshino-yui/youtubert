@@ -1,4 +1,4 @@
-## 【雜談】來聊一下最近的事跟聯動感想～！【HKVTuber如月瑠美】
+## 【雜談】來聊一下最近的事跟聯動感想～！【HKVTuber/如月瑠美】
 ### 2021-04-19 14:01:37
 https://www.youtube.com/watch?v=s6LXWslQIss
 #### UgwymD17jIlTPuQHro14AaABAg

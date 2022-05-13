@@ -1,4 +1,4 @@
-## 夜に駆ける -THE HOME TAKE ver.-  covered by 如月瑠美【HKVTuber】
+## 夜に駆ける -THE HOME TAKE ver.- / covered by 如月瑠美【HKVTuber】
 ### 2021-01-21 11:00:10
 https://www.youtube.com/watch?v=LwGED-Me43I
 #### UgxSYQN2Jow7BZOwF9R4AaABAg

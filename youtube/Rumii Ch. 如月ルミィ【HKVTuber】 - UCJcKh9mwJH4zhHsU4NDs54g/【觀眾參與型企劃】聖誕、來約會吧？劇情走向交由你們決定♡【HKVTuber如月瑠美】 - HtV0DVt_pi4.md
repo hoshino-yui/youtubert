@@ -1,4 +1,4 @@
-## 【觀眾參與型企劃】聖誕、來約會吧？劇情走向交由你們決定♡【HKVTuber如月瑠美】
+## 【觀眾參與型企劃】聖誕、來約會吧？劇情走向交由你們決定♡【HKVTuber/如月瑠美】
 ### 2021-12-25 13:01:55
 https://www.youtube.com/watch?v=HtV0DVt_pi4
 #### UgxiiacHQyE6xUGQ1TJ4AaABAg
