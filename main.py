@@ -33,7 +33,7 @@ def write_file(channel, channel_id, title, video_id, webpage_url, timestamp, com
     filename = f"{folder_name}/{utils.clean_filename(title)} - {video_id}.md"
     Path(folder_name).mkdir(parents=True, exist_ok=True)
     with Path(filename).open('w') as file:
-        file.write(f"## {title}\n")
+        file.write(f"# {title}\n")
         file.write(f"## {channel}\n")
         file.write(f"### {timestamp}\n")
         file.write(f"{webpage_url}\n")
