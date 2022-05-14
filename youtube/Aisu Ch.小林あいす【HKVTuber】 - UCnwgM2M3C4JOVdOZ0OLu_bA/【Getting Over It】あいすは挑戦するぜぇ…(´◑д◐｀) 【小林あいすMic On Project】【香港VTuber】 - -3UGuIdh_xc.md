@@ -1,4 +1,4 @@
-## 【Getting Over It】あいすは挑戦するぜぇ…(´◑д◐｀) 【小林あいす/Mic On Project】【香港VTuber】
+# 【Getting Over It】あいすは挑戦するぜぇ…(´◑д◐｀) 【小林あいす/Mic On Project】【香港VTuber】
 ## Aisu Ch.小林あいす【HKVTuber】
 ### 2021-01-15 12:30:15
 https://www.youtube.com/watch?v=-3UGuIdh_xc

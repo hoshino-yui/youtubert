@@ -1,4 +1,4 @@
-## 【塔羅占卜】擅自地為V朋朋占卜！【小林冰/Mic On Project】【香港VTuber】
+# 【塔羅占卜】擅自地為V朋朋占卜！【小林冰/Mic On Project】【香港VTuber】
 ## Aisu Ch.小林あいす【HKVTuber】
 ### 2022-05-12 12:59:46
 https://www.youtube.com/watch?v=DlJ2KShgguE

@@ -1,4 +1,4 @@
-## 【歌枠】アニソン歌枠！りんりんヒットスタジオ / karaoke stream【鈴花ステラ/めがらいと】
+# 【歌枠】アニソン歌枠！りんりんヒットスタジオ / karaoke stream【鈴花ステラ/めがらいと】
 ## 鈴花ステラ Ch. / Suzuka Stella
 ### 2022-02-12 11:30:13
 https://www.youtube.com/watch?v=4zb4QKOaXxA

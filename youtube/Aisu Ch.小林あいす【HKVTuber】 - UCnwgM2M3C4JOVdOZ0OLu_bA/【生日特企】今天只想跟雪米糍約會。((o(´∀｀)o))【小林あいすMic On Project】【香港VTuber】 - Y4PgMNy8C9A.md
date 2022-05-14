@@ -1,4 +1,4 @@
-## 【生日特企】今天只想跟雪米糍約會。((o(´∀｀)o))【小林あいす/Mic On Project】【香港VTuber】
+# 【生日特企】今天只想跟雪米糍約會。((o(´∀｀)o))【小林あいす/Mic On Project】【香港VTuber】
 ## Aisu Ch.小林あいす【HKVTuber】
 ### 2021-05-09 12:30:14
 https://www.youtube.com/watch?v=Y4PgMNy8C9A

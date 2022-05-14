@@ -1,4 +1,4 @@
-## 【AI：夢境檔案】#3 沉迷偶像才沒有不對！☆キラ☆【香港Vtuber/月島クロス】
+# 【AI：夢境檔案】#3 沉迷偶像才沒有不對！☆キラ☆【香港Vtuber/月島クロス】
 ## Cross Ch. 月島クロス【HKVTuber】
 ### 2021-07-25 07:00:17
 https://www.youtube.com/watch?v=ydwJmWwBUzE

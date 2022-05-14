@@ -1,4 +1,4 @@
-## 【初配信】あらためまして、鈴花ステラです！【新人Vtuber】
+# 【初配信】あらためまして、鈴花ステラです！【新人Vtuber】
 ## 鈴花ステラ Ch. / Suzuka Stella
 ### 2021-02-06 11:01:29
 https://www.youtube.com/watch?v=lv5Sw-VtmzM

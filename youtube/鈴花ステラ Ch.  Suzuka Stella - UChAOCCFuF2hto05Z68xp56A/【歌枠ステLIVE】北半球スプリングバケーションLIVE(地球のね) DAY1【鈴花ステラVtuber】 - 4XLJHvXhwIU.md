@@ -1,4 +1,4 @@
-## 【歌枠/ステLIVE】北半球スプリングバケーションLIVE(地球のね) DAY1【鈴花ステラ/Vtuber】
+# 【歌枠/ステLIVE】北半球スプリングバケーションLIVE(地球のね) DAY1【鈴花ステラ/Vtuber】
 ## 鈴花ステラ Ch. / Suzuka Stella
 ### 2021-03-20 11:00:18
 https://www.youtube.com/watch?v=4XLJHvXhwIU

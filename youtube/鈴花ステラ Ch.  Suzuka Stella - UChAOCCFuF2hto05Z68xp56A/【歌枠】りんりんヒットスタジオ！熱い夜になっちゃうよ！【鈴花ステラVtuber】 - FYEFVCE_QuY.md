@@ -1,4 +1,4 @@
-## 【歌枠】りんりんヒットスタジオ！熱い夜になっちゃうよ！【鈴花ステラ/Vtuber】
+# 【歌枠】りんりんヒットスタジオ！熱い夜になっちゃうよ！【鈴花ステラ/Vtuber】
 ## 鈴花ステラ Ch. / Suzuka Stella
 ### 2021-05-08 11:30:12
 https://www.youtube.com/watch?v=FYEFVCE_QuY

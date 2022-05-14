@@ -1,4 +1,4 @@
-## 【歌枠】ザ・ステラ10 ～春うた特集～で春うらら【鈴花ステラ/Vtuber】
+# 【歌枠】ザ・ステラ10 ～春うた特集～で春うらら【鈴花ステラ/Vtuber】
 ## 鈴花ステラ Ch. / Suzuka Stella
 ### 2021-04-21 11:30:23
 https://www.youtube.com/watch?v=egzjUOFx-oU

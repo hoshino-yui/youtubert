@@ -1,4 +1,4 @@
-## 【コメント振り返り】粗茶ですが、どうぞ #04【Vtuber】
+# 【コメント振り返り】粗茶ですが、どうぞ #04【Vtuber】
 ## 鈴花ステラ Ch. / Suzuka Stella
 ### 2021-03-08 00:00:00
 https://www.youtube.com/watch?v=mIoBTbCu0Jk

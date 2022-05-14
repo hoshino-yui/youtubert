@@ -1,4 +1,4 @@
-## 【Osu】4k&Taiko！愉快OSU參！加！者！歡！迎！╭(°ㅂ°)╮╰(°ㅂ°)╯【小林あいす/Mic On Project】【香港VTuber】
+# 【Osu】4k&Taiko！愉快OSU參！加！者！歡！迎！╭(°ㅂ°)╮╰(°ㅂ°)╯【小林あいす/Mic On Project】【香港VTuber】
 ## Aisu Ch.小林あいす【HKVTuber】
 ### 2021-02-16 12:30:25
 https://www.youtube.com/watch?v=3Lib8ENAwN8

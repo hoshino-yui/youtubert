@@ -1,4 +1,4 @@
-## 【trailer】鈴花ステラ デビューまであと・・・【Vtuber】
+# 【trailer】鈴花ステラ デビューまであと・・・【Vtuber】
 ## 鈴花ステラ Ch. / Suzuka Stella
 ### 2021-01-27 00:00:00
 https://www.youtube.com/watch?v=9iltZsqnToY

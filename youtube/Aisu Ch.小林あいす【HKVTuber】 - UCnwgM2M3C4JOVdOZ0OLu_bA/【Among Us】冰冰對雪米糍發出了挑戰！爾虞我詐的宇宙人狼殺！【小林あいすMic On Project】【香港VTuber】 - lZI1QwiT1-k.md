@@ -1,4 +1,4 @@
-## 【Among Us】冰冰對雪米糍發出了挑戰！爾虞我詐的宇宙人狼殺！【小林あいす/Mic On Project】【香港VTuber】
+# 【Among Us】冰冰對雪米糍發出了挑戰！爾虞我詐的宇宙人狼殺！【小林あいす/Mic On Project】【香港VTuber】
 ## Aisu Ch.小林あいす【HKVTuber】
 ### 2021-03-02 12:30:38
 https://www.youtube.com/watch?v=lZI1QwiT1-k

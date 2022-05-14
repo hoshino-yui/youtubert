@@ -1,4 +1,4 @@
-## 【歌枠切り出しMV】ステラカンタービレ「Sincerely」【鈴花ステラ/Vtuber】
+# 【歌枠切り出しMV】ステラカンタービレ「Sincerely」【鈴花ステラ/Vtuber】
 ## 鈴花ステラ Ch. / Suzuka Stella
 ### 2021-05-17 00:00:00
 https://www.youtube.com/watch?v=2qkpeSfn9aI

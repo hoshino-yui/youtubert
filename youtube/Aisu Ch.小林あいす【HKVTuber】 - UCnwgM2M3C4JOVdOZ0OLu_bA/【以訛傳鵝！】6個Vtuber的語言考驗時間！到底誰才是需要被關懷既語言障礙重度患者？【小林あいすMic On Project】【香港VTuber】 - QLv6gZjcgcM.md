@@ -1,4 +1,4 @@
-## 【以訛傳鵝！】6個Vtuber的語言考驗時間！到底誰才是需要被關懷既語言障礙重度患者？【小林あいす/Mic On Project】【香港VTuber】
+# 【以訛傳鵝！】6個Vtuber的語言考驗時間！到底誰才是需要被關懷既語言障礙重度患者？【小林あいす/Mic On Project】【香港VTuber】
 ## Aisu Ch.小林あいす【HKVTuber】
 ### 2022-03-01 12:00:54
 https://www.youtube.com/watch?v=QLv6gZjcgcM

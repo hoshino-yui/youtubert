@@ -1,4 +1,4 @@
-## 【歌枠】本格電音歌會٩(ˊᗜˋ*)و !!! 請聽冰冰的歌聲吧~【小林あいす/Mic On Project】【香港VTuber】
+# 【歌枠】本格電音歌會٩(ˊᗜˋ*)و !!! 請聽冰冰的歌聲吧~【小林あいす/Mic On Project】【香港VTuber】
 ## Aisu Ch.小林あいす【HKVTuber】
 ### 2021-08-14 12:31:23
 https://www.youtube.com/watch?v=-3JrWFkyMRs

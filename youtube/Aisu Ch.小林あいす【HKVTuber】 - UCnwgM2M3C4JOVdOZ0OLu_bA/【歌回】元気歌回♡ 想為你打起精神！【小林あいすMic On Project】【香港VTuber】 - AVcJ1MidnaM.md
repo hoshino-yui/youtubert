@@ -1,4 +1,4 @@
-## 【歌回】元気歌回♡ 想為你打起精神！【小林あいす/Mic On Project】【香港VTuber】
+# 【歌回】元気歌回♡ 想為你打起精神！【小林あいす/Mic On Project】【香港VTuber】
 ## Aisu Ch.小林あいす【HKVTuber】
 ### 2021-11-20 12:30:49
 https://www.youtube.com/watch?v=AVcJ1MidnaM

@@ -1,4 +1,4 @@
-## 【歌枠】ハッピーバレンタイン！みんなもしかして期待してる？ / Happy Valentine karaoke stream【鈴花ステラ/めがらいと】
+# 【歌枠】ハッピーバレンタイン！みんなもしかして期待してる？ / Happy Valentine karaoke stream【鈴花ステラ/めがらいと】
 ## 鈴花ステラ Ch. / Suzuka Stella
 ### 2022-02-14 11:30:11
 https://www.youtube.com/watch?v=GCmf3fZ7src

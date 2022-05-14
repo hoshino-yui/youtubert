@@ -1,4 +1,4 @@
-## 【謎解き配信】MV公開謎解き！ステラが歌ってみたのはなーんだ？【鈴花ステラ/Vtuber】
+# 【謎解き配信】MV公開謎解き！ステラが歌ってみたのはなーんだ？【鈴花ステラ/Vtuber】
 ## 鈴花ステラ Ch. / Suzuka Stella
 ### 2021-04-02 11:00:34
 https://www.youtube.com/watch?v=HVIjWnxvG5k

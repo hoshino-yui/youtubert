@@ -1,4 +1,4 @@
-## 【AI：夢境檔案】#7 以後也別說那些會讓自己悔恨的說話了，好嗎？【香港Vtuber/月島クロス】
+# 【AI：夢境檔案】#7 以後也別說那些會讓自己悔恨的說話了，好嗎？【香港Vtuber/月島クロス】
 ## Cross Ch. 月島クロス【HKVTuber】
 ### 2021-10-03 08:00:54
 https://www.youtube.com/watch?v=6AzTi5G-HzA

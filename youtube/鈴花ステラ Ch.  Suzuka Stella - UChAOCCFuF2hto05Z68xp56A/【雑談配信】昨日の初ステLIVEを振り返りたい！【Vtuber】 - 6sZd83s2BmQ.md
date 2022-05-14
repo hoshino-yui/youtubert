@@ -1,4 +1,4 @@
-## 【雑談配信】昨日の初ステLIVEを振り返りたい！【Vtuber】
+# 【雑談配信】昨日の初ステLIVEを振り返りたい！【Vtuber】
 ## 鈴花ステラ Ch. / Suzuka Stella
 ### 2021-03-06 11:00:11
 https://www.youtube.com/watch?v=6sZd83s2BmQ

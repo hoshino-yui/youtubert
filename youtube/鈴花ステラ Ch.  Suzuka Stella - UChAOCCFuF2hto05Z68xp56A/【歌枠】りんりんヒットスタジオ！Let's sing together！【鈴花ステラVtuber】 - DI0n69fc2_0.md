@@ -1,4 +1,4 @@
-## 【歌枠】りんりんヒットスタジオ！Let's sing together！【鈴花ステラ/Vtuber】
+# 【歌枠】りんりんヒットスタジオ！Let's sing together！【鈴花ステラ/Vtuber】
 ## 鈴花ステラ Ch. / Suzuka Stella
 ### 2021-04-17 11:30:12
 https://www.youtube.com/watch?v=DI0n69fc2_0

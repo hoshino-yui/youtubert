@@ -1,4 +1,4 @@
-## 【歌枠】平成アニソン！りんりんヒットスタジオ！【鈴花ステラ/Vtuber】
+# 【歌枠】平成アニソン！りんりんヒットスタジオ！【鈴花ステラ/Vtuber】
 ## 鈴花ステラ Ch. / Suzuka Stella
 ### 2021-05-29 11:31:43
 https://www.youtube.com/watch?v=-Qds5fGeJjc

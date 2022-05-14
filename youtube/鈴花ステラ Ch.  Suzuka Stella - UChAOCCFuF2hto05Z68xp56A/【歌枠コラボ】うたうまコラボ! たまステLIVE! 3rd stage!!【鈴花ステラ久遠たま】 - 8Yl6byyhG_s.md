@@ -1,4 +1,4 @@
-## 【歌枠コラボ】うたうまコラボ! たまステLIVE! 3rd stage!!【鈴花ステラ/久遠たま】
+# 【歌枠コラボ】うたうまコラボ! たまステLIVE! 3rd stage!!【鈴花ステラ/久遠たま】
 ## 鈴花ステラ Ch. / Suzuka Stella
 ### 2021-10-19 11:00:21
 https://www.youtube.com/watch?v=8Yl6byyhG_s

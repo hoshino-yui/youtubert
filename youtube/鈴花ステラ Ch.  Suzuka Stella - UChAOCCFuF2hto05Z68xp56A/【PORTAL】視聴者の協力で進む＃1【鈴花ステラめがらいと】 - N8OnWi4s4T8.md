@@ -1,4 +1,4 @@
-## 【PORTAL】視聴者の協力で進む＃1【鈴花ステラ/めがらいと】
+# 【PORTAL】視聴者の協力で進む＃1【鈴花ステラ/めがらいと】
 ## 鈴花ステラ Ch. / Suzuka Stella
 ### 2021-07-28 11:30:29
 https://www.youtube.com/watch?v=N8OnWi4s4T8

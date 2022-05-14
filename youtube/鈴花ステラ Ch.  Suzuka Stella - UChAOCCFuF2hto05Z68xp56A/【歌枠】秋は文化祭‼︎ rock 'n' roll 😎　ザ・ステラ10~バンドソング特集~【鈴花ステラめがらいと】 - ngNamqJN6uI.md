@@ -1,4 +1,4 @@
-## 【歌枠】秋は文化祭‼︎ rock 'n' roll 😎　ザ・ステラ10~バンドソング特集~【鈴花ステラ/めがらいと】
+# 【歌枠】秋は文化祭‼︎ rock 'n' roll 😎　ザ・ステラ10~バンドソング特集~【鈴花ステラ/めがらいと】
 ## 鈴花ステラ Ch. / Suzuka Stella
 ### 2021-10-20 11:31:14
 https://www.youtube.com/watch?v=ngNamqJN6uI
