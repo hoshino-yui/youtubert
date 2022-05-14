@@ -2,6 +2,65 @@
 ## 望月ルーナ  Mochitsugi Luna Ch.
 ### 2021-06-06 14:01:42
 https://www.youtube.com/watch?v=cNn-Y9v3Pa0
+#### UgwCexIctpdAWCgVdtt4AaABAg
+戴定頭盔唔知有冇錯, Vtubers可以尋仇用
+
+17:18 多謝Vtubers: 
+
+17:30 紡霊拉比, 
+
+20:08 リーシオン, 如月ルミィ, 
+
+21:17 天葉あり, 
+
+21:49 狛井葵Aoi, 
+
+22:11 Yona Moana, 
+
+22:25 米亞MYA, 
+
+22:55 咪久 Mejiu, 
+
+23:15 Suzuran Ch.花崎すずらん, Shiori Ch. しおり, 
+
+24:10 Aisu Ch.小林あいす, 
+
+27:42 神崎涼子, 
+
+28:07 凱婷, 淡水魚, 
+
+28:34 廻時 祈, 
+
+28:50 加藤小麻雀, 
+
+29:27 卡路 卡諾 Karlo Carno, 
+
+29:47 彼岸るりRuri, 如月兎苺 Kisaragi Ui, 
+
+29:58 8rice 
+
+30:17 Akirarara Ch. 赤紀麗, 
+
+30:43 Emerald Ch. エメラルド, 
+
+30:47 Yuurei Ch.白石幽怜, 
+
+31:11 雪染川⁎夜華, 
+
+31:34 目黑梅利マレー, 
+
+31:44 凌仲, 
+
+32:17 Kaya Ch. 月見カヤ, 
+
+32:41 CheukCat綽貓喵, 
+
+33:01 Cross Ch. 月島クロス, 
+
+33:09 雪見とら YukimiTora 
+
+太多V我諗露娜都唔想唔記得講嘅
+
 #### Ugxf2Jju1XKlCR4mvpR4AaABAg
 Dear Luna,
 
@@ -61,65 +120,6 @@ Dear Luna,
 2:25:35 5wo 5wa 5ma
 
 2:27:01 宵夜係青瓜
-
-#### UgwCexIctpdAWCgVdtt4AaABAg
-戴定頭盔唔知有冇錯, Vtubers可以尋仇用
-
-17:18 多謝Vtubers: 
-
-17:30 紡霊拉比, 
-
-20:08 リーシオン, 如月ルミィ, 
-
-21:17 天葉あり, 
-
-21:49 狛井葵Aoi, 
-
-22:11 Yona Moana, 
-
-22:25 米亞MYA, 
-
-22:55 咪久 Mejiu, 
-
-23:15 Suzuran Ch.花崎すずらん, Shiori Ch. しおり, 
-
-24:10 Aisu Ch.小林あいす, 
-
-27:42 神崎涼子, 
-
-28:07 凱婷, 淡水魚, 
-
-28:34 廻時 祈, 
-
-28:50 加藤小麻雀, 
-
-29:27 卡路 卡諾 Karlo Carno, 
-
-29:47 彼岸るりRuri, 如月兎苺 Kisaragi Ui, 
-
-29:58 8rice 
-
-30:17 Akirarara Ch. 赤紀麗, 
-
-30:43 Emerald Ch. エメラルド, 
-
-30:47 Yuurei Ch.白石幽怜, 
-
-31:11 雪染川⁎夜華, 
-
-31:34 目黑梅利マレー, 
-
-31:44 凌仲, 
-
-32:17 Kaya Ch. 月見カヤ, 
-
-32:41 CheukCat綽貓喵, 
-
-33:01 Cross Ch. 月島クロス, 
-
-33:09 雪見とら YukimiTora 
-
-太多V我諗露娜都唔想唔記得講嘅
 
 #### Ugw-R1I_swGo0FFCs314AaABAg
 1:31:47 道歉信
