@@ -1,4 +1,5 @@
-## 【歌枠】深夜も歌いたい！ミッドナイト歌枠  Midnight singing stream【鈴花ステラめがらいと】
+## 【歌枠】深夜も歌いたい！ミッドナイト歌枠 / Midnight singing stream【鈴花ステラ/めがらいと】
+## 鈴花ステラ Ch. / Suzuka Stella
 ### 2021-10-28 14:00:44
 https://www.youtube.com/watch?v=x-_5hJJsDtg
 #### Ugy0oApyqNCTTdiT6Jh4AaABAg

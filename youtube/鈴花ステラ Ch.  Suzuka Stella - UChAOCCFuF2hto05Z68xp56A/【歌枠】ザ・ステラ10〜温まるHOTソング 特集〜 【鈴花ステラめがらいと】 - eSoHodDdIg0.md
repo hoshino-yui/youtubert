@@ -1,4 +1,5 @@
-## 【歌枠】ザ・ステラ10〜温まるHOTソング 特集〜 【鈴花ステラめがらいと】
+## 【歌枠】ザ・ステラ10〜温まるHOTソング 特集〜 【鈴花ステラ/めがらいと】
+## 鈴花ステラ Ch. / Suzuka Stella
 ### 2022-01-13 11:30:09
 https://www.youtube.com/watch?v=eSoHodDdIg0
 #### UgxauIuyNDgowszR9LF4AaABAg

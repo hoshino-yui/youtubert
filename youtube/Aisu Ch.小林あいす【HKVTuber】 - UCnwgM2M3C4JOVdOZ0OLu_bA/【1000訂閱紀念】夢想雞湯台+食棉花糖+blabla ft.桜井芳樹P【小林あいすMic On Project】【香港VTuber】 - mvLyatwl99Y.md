@@ -1,4 +1,5 @@
-## 【1000訂閱紀念】夢想雞湯台+食棉花糖+blabla ft.桜井芳樹P【小林あいすMic On Project】【香港VTuber】
+## 【1000訂閱紀念】夢想雞湯台+食棉花糖+blabla ft.桜井芳樹P【小林あいす/Mic On Project】【香港VTuber】
+## Aisu Ch.小林あいす【HKVTuber】
 ### 2021-04-10 12:30:22
 https://www.youtube.com/watch?v=mvLyatwl99Y
 #### UgyKoqRyGmD74Zuw6zZ4AaABAg

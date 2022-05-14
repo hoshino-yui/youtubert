@@ -1,4 +1,5 @@
-## 【歌枠】りんりんヒットスタジオ！lalala～♪！【鈴花ステラVtuber】
+## 【歌枠】りんりんヒットスタジオ！lalala～♪！【鈴花ステラ/Vtuber】
+## 鈴花ステラ Ch. / Suzuka Stella
 ### 2021-05-03 11:30:11
 https://www.youtube.com/watch?v=WPtkAbjTpco
 #### Ugzba3i3p46p0qB4KFl4AaABAg

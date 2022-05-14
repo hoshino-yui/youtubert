@@ -1,4 +1,5 @@
-## 【歌枠】アニソン多め！りんりんヒットスタジオ！【鈴花ステラVtuber】
+## 【歌枠】アニソン多め！りんりんヒットスタジオ！【鈴花ステラ/Vtuber】
+## 鈴花ステラ Ch. / Suzuka Stella
 ### 2021-05-22 11:30:20
 https://www.youtube.com/watch?v=XZnwPiEDGM0
 #### UgybPEMeSCgEM8-utSR4AaABAg

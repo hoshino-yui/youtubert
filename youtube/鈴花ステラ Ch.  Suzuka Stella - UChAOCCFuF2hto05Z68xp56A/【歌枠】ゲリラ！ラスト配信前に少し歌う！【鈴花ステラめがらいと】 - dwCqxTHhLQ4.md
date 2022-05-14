@@ -1,4 +1,5 @@
-## 【歌枠】ゲリラ！ラスト配信前に少し歌う！【鈴花ステラめがらいと】
+## 【歌枠】ゲリラ！ラスト配信前に少し歌う！【鈴花ステラ/めがらいと】
+## 鈴花ステラ Ch. / Suzuka Stella
 ### 2022-03-29 11:30:08
 https://www.youtube.com/watch?v=dwCqxTHhLQ4
 #### UgydQedwf5DNyyPdnyp4AaABAg

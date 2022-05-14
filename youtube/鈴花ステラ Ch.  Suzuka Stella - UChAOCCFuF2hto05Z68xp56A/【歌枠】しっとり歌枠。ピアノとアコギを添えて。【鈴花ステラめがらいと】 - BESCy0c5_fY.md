@@ -1,4 +1,5 @@
-## 【歌枠】しっとり歌枠。ピアノとアコギを添えて。【鈴花ステラめがらいと】
+## 【歌枠】しっとり歌枠。ピアノとアコギを添えて。【鈴花ステラ/めがらいと】
+## 鈴花ステラ Ch. / Suzuka Stella
 ### 2021-11-12 11:30:12
 https://www.youtube.com/watch?v=BESCy0c5_fY
 #### Ugzi3kAHdaZk4zhO48V4AaABAg

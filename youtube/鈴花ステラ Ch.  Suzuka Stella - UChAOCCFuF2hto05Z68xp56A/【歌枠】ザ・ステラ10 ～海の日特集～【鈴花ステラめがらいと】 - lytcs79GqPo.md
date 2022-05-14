@@ -1,4 +1,5 @@
-## 【歌枠】ザ・ステラ10 ～海の日特集～【鈴花ステラめがらいと】
+## 【歌枠】ザ・ステラ10 ～海の日特集～【鈴花ステラ/めがらいと】
+## 鈴花ステラ Ch. / Suzuka Stella
 ### 2021-07-21 11:30:12
 https://www.youtube.com/watch?v=lytcs79GqPo
 #### UgyX9lkM40VZIU4zVTx4AaABAg

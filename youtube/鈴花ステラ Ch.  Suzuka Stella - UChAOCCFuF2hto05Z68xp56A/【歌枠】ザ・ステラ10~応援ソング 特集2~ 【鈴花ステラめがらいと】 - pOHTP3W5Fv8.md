@@ -1,4 +1,5 @@
-## 【歌枠】ザ・ステラ10~応援ソング 特集2~ 【鈴花ステラめがらいと】
+## 【歌枠】ザ・ステラ10~応援ソング 特集2~ 【鈴花ステラ/めがらいと】
+## 鈴花ステラ Ch. / Suzuka Stella
 ### 2021-11-18 11:30:09
 https://www.youtube.com/watch?v=pOHTP3W5Fv8
 #### UgygSgrmuAJiECfDA0x4AaABAg

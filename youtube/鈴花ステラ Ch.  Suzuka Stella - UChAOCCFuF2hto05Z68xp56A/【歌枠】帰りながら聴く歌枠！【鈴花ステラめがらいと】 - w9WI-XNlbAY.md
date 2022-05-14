@@ -1,4 +1,5 @@
-## 【歌枠】帰りながら聴く歌枠！【鈴花ステラめがらいと】
+## 【歌枠】帰りながら聴く歌枠！【鈴花ステラ/めがらいと】
+## 鈴花ステラ Ch. / Suzuka Stella
 ### 2021-10-18 08:00:12
 https://www.youtube.com/watch?v=w9WI-XNlbAY
 #### UgxZlNaBBg-8kFeKzt94AaABAg

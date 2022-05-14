@@ -1,4 +1,5 @@
-## 【歌枠】ただいま！オールジャンルで歌うのじゃぁ🔔【鈴花ステラめがらいと】
+## 【歌枠】ただいま！オールジャンルで歌うのじゃぁ🔔【鈴花ステラ/めがらいと】
+## 鈴花ステラ Ch. / Suzuka Stella
 ### 2021-12-07 11:36:25
 https://www.youtube.com/watch?v=VwBkQPV4PsQ
 #### UgyvZp-RBpcHHfAT0np4AaABAg

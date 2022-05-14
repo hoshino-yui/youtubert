@@ -1,4 +1,5 @@
-## 【歌枠コラボ】 お歌つよつよVtuber!!リリステライブ!開演!!【鈴花ステラ凛々咲】
+## 【歌枠コラボ】 お歌つよつよVtuber!!リリステライブ!開演!!【鈴花ステラ/凛々咲】
+## 鈴花ステラ Ch. / Suzuka Stella
 ### 2021-10-14 11:02:17
 https://www.youtube.com/watch?v=z2k3Kp0loII
 #### Ugwrt36SmvdoT1Y_F-N4AaABAg

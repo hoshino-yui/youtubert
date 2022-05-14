@@ -1,4 +1,5 @@
-## 【歌枠】このアニソン歌枠、ツヨイ【鈴花ステラめがらいと】
+## 【歌枠】このアニソン歌枠、ツヨイ【鈴花ステラ/めがらいと】
+## 鈴花ステラ Ch. / Suzuka Stella
 ### 2022-02-15 11:30:11
 https://www.youtube.com/watch?v=k4MSlpcnuIU
 #### UgzuRNhcqU4SUCL2is94AaABAg

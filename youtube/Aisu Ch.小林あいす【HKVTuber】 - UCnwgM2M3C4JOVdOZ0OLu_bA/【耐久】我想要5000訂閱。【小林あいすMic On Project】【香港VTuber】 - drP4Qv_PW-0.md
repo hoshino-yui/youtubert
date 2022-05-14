@@ -1,4 +1,5 @@
-## 【耐久】我想要5000訂閱。【小林あいすMic On Project】【香港VTuber】
+## 【耐久】我想要5000訂閱。【小林あいす/Mic On Project】【香港VTuber】
+## Aisu Ch.小林あいす【HKVTuber】
 ### 2021-06-02 15:10:14
 https://www.youtube.com/watch?v=drP4Qv_PW-0
 #### UgwlizOO0dtooFF-CCt4AaABAg

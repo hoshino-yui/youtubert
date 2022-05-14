@@ -1,4 +1,5 @@
-## 【歌枠】お気に入りの曲たくさん歌うぞぉ！きまぐれ歌枠！【鈴花ステラめがらいと】
+## 【歌枠】お気に入りの曲たくさん歌うぞぉ！きまぐれ歌枠！【鈴花ステラ/めがらいと】
+## 鈴花ステラ Ch. / Suzuka Stella
 ### 2021-10-21 11:30:10
 https://www.youtube.com/watch?v=melIX-J8AXg
 #### UgxIrJlltuCXtaY0U_x4AaABAg

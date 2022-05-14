@@ -1,4 +1,5 @@
-## 【歌枠】眠れないあなたに♪ 睡眠導入子守唄♪【鈴花ステラめがらいと】
+## 【歌枠】眠れないあなたに♪ 睡眠導入子守唄♪【鈴花ステラ/めがらいと】
+## 鈴花ステラ Ch. / Suzuka Stella
 ### 2021-09-10 14:02:24
 https://www.youtube.com/watch?v=VpZaXnfKHmo
 #### UgxoWf4ACUnFurG9llN4AaABAg

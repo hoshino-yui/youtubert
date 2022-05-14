@@ -1,4 +1,5 @@
-## 【歌枠】ザ・ステラ10 ～ウエディングソング特集～【鈴花ステラVtuber】
+## 【歌枠】ザ・ステラ10 ～ウエディングソング特集～【鈴花ステラ/Vtuber】
+## 鈴花ステラ Ch. / Suzuka Stella
 ### 2021-06-16 11:30:11
 https://www.youtube.com/watch?v=B5QG2UbCJ8A
 #### UgwBcRbcRM2FMILNnRh4AaABAg

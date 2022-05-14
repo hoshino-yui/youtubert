@@ -1,4 +1,5 @@
-## 【歌枠】2022初歌枠！ハッピーニューイヤー🔔【鈴花ステラめがらいと】
+## 【歌枠】2022初歌枠！ハッピーニューイヤー🔔【鈴花ステラ/めがらいと】
+## 鈴花ステラ Ch. / Suzuka Stella
 ### 2022-01-02 11:30:16
 https://www.youtube.com/watch?v=VDsjGRAmCe4
 #### UgyUwDXijF-7iTVSaa54AaABAg

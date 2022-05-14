@@ -1,4 +1,5 @@
-## 【歌枠】11月に歌ったお気に入り曲を歌う🔔🔔【鈴花ステラめがらいと】
+## 【歌枠】11月に歌ったお気に入り曲を歌う🔔🔔【鈴花ステラ/めがらいと】
+## 鈴花ステラ Ch. / Suzuka Stella
 ### 2021-11-29 11:30:09
 https://www.youtube.com/watch?v=TkEtXiyl_JE
 #### UgyO1DgginsR6QnSjOB4AaABAg

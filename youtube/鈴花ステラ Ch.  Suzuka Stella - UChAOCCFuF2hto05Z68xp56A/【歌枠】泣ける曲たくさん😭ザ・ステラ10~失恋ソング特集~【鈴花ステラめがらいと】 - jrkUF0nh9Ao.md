@@ -1,4 +1,5 @@
-## 【歌枠】泣ける曲たくさん😭ザ・ステラ10~失恋ソング特集~【鈴花ステラめがらいと】
+## 【歌枠】泣ける曲たくさん😭ザ・ステラ10~失恋ソング特集~【鈴花ステラ/めがらいと】
+## 鈴花ステラ Ch. / Suzuka Stella
 ### 2021-10-13 11:30:08
 https://www.youtube.com/watch?v=jrkUF0nh9Ao
 #### UgzxgAOYmEve8Dfcrwd4AaABAg

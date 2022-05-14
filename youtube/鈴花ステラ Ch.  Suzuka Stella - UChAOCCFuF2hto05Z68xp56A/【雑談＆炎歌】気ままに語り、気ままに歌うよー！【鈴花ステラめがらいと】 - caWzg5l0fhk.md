@@ -1,4 +1,5 @@
-## 【雑談＆炎歌】気ままに語り、気ままに歌うよー！【鈴花ステラめがらいと】
+## 【雑談＆炎歌】気ままに語り、気ままに歌うよー！【鈴花ステラ/めがらいと】
+## 鈴花ステラ Ch. / Suzuka Stella
 ### 2021-07-30 11:30:16
 https://www.youtube.com/watch?v=caWzg5l0fhk
 #### UgxAsj59xhNxuO4GgSN4AaABAg

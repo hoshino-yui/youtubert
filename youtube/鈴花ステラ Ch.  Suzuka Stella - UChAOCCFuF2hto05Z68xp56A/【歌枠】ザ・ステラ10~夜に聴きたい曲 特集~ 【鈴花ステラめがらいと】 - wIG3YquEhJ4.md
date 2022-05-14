@@ -1,4 +1,5 @@
-## 【歌枠】ザ・ステラ10~夜に聴きたい曲 特集~ 【鈴花ステラめがらいと】
+## 【歌枠】ザ・ステラ10~夜に聴きたい曲 特集~ 【鈴花ステラ/めがらいと】
+## 鈴花ステラ Ch. / Suzuka Stella
 ### 2021-12-09 11:30:35
 https://www.youtube.com/watch?v=wIG3YquEhJ4
 #### UgwtwQuabyZF5vpJgtB4AaABAg

@@ -1,4 +1,5 @@
-## 【ミュージカル朗読歌枠？】意外と知らない！？本当の「ラプンツェル」【鈴花ステラVtuber】
+## 【ミュージカル朗読歌枠？】意外と知らない！？本当の「ラプンツェル」【鈴花ステラ/Vtuber】
+## 鈴花ステラ Ch. / Suzuka Stella
 ### 2021-06-11 11:30:18
 https://www.youtube.com/watch?v=hvHVZ2GbQa0
 #### Ugz_PadEwA7RCUSGhQJ4AaABAg

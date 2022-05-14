@@ -1,4 +1,5 @@
-## 【歌枠】ゲリラ歌枠! 重大告知あり？！【鈴花ステラめがらいと】
+## 【歌枠】ゲリラ歌枠! 重大告知あり？！【鈴花ステラ/めがらいと】
+## 鈴花ステラ Ch. / Suzuka Stella
 ### 2021-10-12 09:30:21
 https://www.youtube.com/watch?v=s7Y5aYPDJxA
 #### Ugy9nnszvJWRqR7MWWZ4AaABAg

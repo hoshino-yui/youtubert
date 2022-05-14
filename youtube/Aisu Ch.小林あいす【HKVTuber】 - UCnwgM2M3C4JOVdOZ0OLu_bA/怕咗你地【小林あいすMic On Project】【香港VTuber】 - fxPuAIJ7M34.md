@@ -1,4 +1,5 @@
-## 怕咗你地【小林あいすMic On Project】【香港VTuber】
+## 怕咗你地【小林あいす/Mic On Project】【香港VTuber】
+## Aisu Ch.小林あいす【HKVTuber】
 ### 2021-04-27 16:07:42
 https://www.youtube.com/watch?v=fxPuAIJ7M34
 #### Ugw3kg2WkthHawFJrJF4AaABAg

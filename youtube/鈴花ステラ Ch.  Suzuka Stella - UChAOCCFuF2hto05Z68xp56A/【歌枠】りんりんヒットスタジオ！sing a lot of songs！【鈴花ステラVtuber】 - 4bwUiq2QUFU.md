@@ -1,4 +1,5 @@
-## 【歌枠】りんりんヒットスタジオ！sing a lot of songs！【鈴花ステラVtuber】
+## 【歌枠】りんりんヒットスタジオ！sing a lot of songs！【鈴花ステラ/Vtuber】
+## 鈴花ステラ Ch. / Suzuka Stella
 ### 2021-04-24 11:30:43
 https://www.youtube.com/watch?v=4bwUiq2QUFU
 #### UgzfBgJjJ8NTbpnZd5B4AaABAg

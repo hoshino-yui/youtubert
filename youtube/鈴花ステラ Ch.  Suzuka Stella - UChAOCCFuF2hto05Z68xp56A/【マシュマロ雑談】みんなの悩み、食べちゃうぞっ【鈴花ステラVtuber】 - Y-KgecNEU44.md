@@ -1,4 +1,5 @@
-## 【マシュマロ雑談】みんなの悩み、食べちゃうぞっ【鈴花ステラVtuber】
+## 【マシュマロ雑談】みんなの悩み、食べちゃうぞっ【鈴花ステラ/Vtuber】
+## 鈴花ステラ Ch. / Suzuka Stella
 ### 2021-03-24 11:00:24
 https://www.youtube.com/watch?v=Y-KgecNEU44
 #### Ugz9s7iN3Xu_IApuYit4AaABAg

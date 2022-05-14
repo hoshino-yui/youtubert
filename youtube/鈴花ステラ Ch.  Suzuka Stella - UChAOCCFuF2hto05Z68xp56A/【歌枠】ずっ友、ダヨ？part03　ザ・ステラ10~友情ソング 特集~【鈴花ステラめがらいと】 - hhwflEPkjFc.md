@@ -1,4 +1,5 @@
-## 【歌枠】ずっ友、ダヨ？part03　ザ・ステラ10~友情ソング 特集~【鈴花ステラめがらいと】
+## 【歌枠】ずっ友、ダヨ？part03　ザ・ステラ10~友情ソング 特集~【鈴花ステラ/めがらいと】
+## 鈴花ステラ Ch. / Suzuka Stella
 ### 2021-11-04 13:13:58
 https://www.youtube.com/watch?v=hhwflEPkjFc
 #### Ugw1o06OmuHh8XHdFul4AaABAg

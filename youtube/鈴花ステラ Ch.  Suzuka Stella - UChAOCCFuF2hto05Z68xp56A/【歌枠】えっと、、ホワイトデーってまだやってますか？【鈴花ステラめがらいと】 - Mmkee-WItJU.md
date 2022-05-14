@@ -1,4 +1,5 @@
-## 【歌枠】えっと、、ホワイトデーってまだやってますか？【鈴花ステラめがらいと】
+## 【歌枠】えっと、、ホワイトデーってまだやってますか？【鈴花ステラ/めがらいと】
+## 鈴花ステラ Ch. / Suzuka Stella
 ### 2022-03-15 11:30:18
 https://www.youtube.com/watch?v=Mmkee-WItJU
 #### UgxsY5toT383somEd9B4AaABAg

@@ -1,4 +1,5 @@
-## 【コラボ歌枠】ステまどハロウィンコラボ‼︎【鈴花ステラ火閻まどか】
+## 【コラボ歌枠】ステまどハロウィンコラボ‼︎【鈴花ステラ/火閻まどか】
+## 鈴花ステラ Ch. / Suzuka Stella
 ### 2021-10-23 12:01:36
 https://www.youtube.com/watch?v=SBxYg-DVbOo
 #### Ugzh5j6K8VEYtgOcK3x4AaABAg

@@ -1,4 +1,5 @@
-## 【歌枠】イーカンジ☆ムテキに歌枠【鈴花ステラめがらいと】
+## 【歌枠】イーカンジ☆ムテキに歌枠【鈴花ステラ/めがらいと】
+## 鈴花ステラ Ch. / Suzuka Stella
 ### 2022-01-25 11:30:15
 https://www.youtube.com/watch?v=YS4gevQqVTk
 #### Ugw6doaCJho0WLU4ExB4AaABAg

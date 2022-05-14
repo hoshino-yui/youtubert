@@ -1,4 +1,5 @@
-## 【歌枠】耐久歌枠×NGワード【鈴花ステラめがらいと】
+## 【歌枠】耐久歌枠×NGワード【鈴花ステラ/めがらいと】
+## 鈴花ステラ Ch. / Suzuka Stella
 ### 2021-07-09 11:30:38
 https://www.youtube.com/watch?v=q_7BTudLGC4
 #### Ugy2WWdYw6DQHATJN754AaABAg

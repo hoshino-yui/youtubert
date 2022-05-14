@@ -1,4 +1,5 @@
-## 【歌枠】ぐっすり眠れる！？こもりうた！【鈴花ステラめがらいと】
+## 【歌枠】ぐっすり眠れる！？こもりうた！【鈴花ステラ/めがらいと】
+## 鈴花ステラ Ch. / Suzuka Stella
 ### 2021-10-04 14:00:34
 https://www.youtube.com/watch?v=BzbvqgxLWbc
 #### Ugy9f6ASTsNW0_5Jy7x4AaABAg

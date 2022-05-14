@@ -1,4 +1,5 @@
-## 【歌枠】アニソン・ボカロ！歌うぞぉぉおお！りんりんヒットスタジオ【鈴花ステラVtuber】
+## 【歌枠】アニソン・ボカロ！歌うぞぉぉおお！りんりんヒットスタジオ【鈴花ステラ/Vtuber】
+## 鈴花ステラ Ch. / Suzuka Stella
 ### 2021-06-05 11:30:16
 https://www.youtube.com/watch?v=AP8VQmIop3o
 #### UgwDRovgIgcesz6_mH54AaABAg

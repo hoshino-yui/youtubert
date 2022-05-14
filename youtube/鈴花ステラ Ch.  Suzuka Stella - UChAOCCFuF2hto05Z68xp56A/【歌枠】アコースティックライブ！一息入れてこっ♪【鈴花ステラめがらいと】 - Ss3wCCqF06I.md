@@ -1,4 +1,5 @@
-## 【歌枠】アコースティックライブ！一息入れてこっ♪【鈴花ステラめがらいと】
+## 【歌枠】アコースティックライブ！一息入れてこっ♪【鈴花ステラ/めがらいと】
+## 鈴花ステラ Ch. / Suzuka Stella
 ### 2021-08-09 11:30:09
 https://www.youtube.com/watch?v=Ss3wCCqF06I
 #### UgyNqSS167QxA5cZskB4AaABAg

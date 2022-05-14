@@ -1,4 +1,5 @@
-## 【歌枠】かっこいいからかわいいまで！新曲も歌うよ〜🔔【鈴花ステラめがらいと】
+## 【歌枠】かっこいいからかわいいまで！新曲も歌うよ〜🔔【鈴花ステラ/めがらいと】
+## 鈴花ステラ Ch. / Suzuka Stella
 ### 2021-12-28 11:30:31
 https://www.youtube.com/watch?v=r88Ffo_eYeM
 #### UgyRoJWUcFtKc67axRJ4AaABAg

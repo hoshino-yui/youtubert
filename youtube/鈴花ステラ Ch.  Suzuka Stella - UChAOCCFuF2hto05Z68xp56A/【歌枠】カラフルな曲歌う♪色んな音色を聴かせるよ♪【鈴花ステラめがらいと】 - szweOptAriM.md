@@ -1,4 +1,5 @@
-## 【歌枠】カラフルな曲歌う♪色んな音色を聴かせるよ♪【鈴花ステラめがらいと】
+## 【歌枠】カラフルな曲歌う♪色んな音色を聴かせるよ♪【鈴花ステラ/めがらいと】
+## 鈴花ステラ Ch. / Suzuka Stella
 ### 2021-09-28 11:30:26
 https://www.youtube.com/watch?v=szweOptAriM
 #### UgwyeMm0nA1eONY724F4AaABAg

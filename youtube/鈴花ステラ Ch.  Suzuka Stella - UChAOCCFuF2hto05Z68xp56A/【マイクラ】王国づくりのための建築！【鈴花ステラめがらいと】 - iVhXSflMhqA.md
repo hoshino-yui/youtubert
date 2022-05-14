@@ -1,4 +1,5 @@
-## 【マイクラ】王国づくりのための建築！【鈴花ステラめがらいと】
+## 【マイクラ】王国づくりのための建築！【鈴花ステラ/めがらいと】
+## 鈴花ステラ Ch. / Suzuka Stella
 ### 2021-09-18 04:00:08
 https://www.youtube.com/watch?v=iVhXSflMhqA
 #### UgyBkHDvw_xOKWh3tO94AaABAg

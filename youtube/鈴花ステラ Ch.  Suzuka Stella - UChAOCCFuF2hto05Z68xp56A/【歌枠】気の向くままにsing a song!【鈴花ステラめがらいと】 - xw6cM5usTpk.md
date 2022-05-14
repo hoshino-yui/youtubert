@@ -1,4 +1,5 @@
-## 【歌枠】気の向くままにsing a song!【鈴花ステラめがらいと】
+## 【歌枠】気の向くままにsing a song!【鈴花ステラ/めがらいと】
+## 鈴花ステラ Ch. / Suzuka Stella
 ### 2021-09-17 11:30:55
 https://www.youtube.com/watch?v=xw6cM5usTpk
 #### UgzaBYNZlTDb8oTeWaR4AaABAg

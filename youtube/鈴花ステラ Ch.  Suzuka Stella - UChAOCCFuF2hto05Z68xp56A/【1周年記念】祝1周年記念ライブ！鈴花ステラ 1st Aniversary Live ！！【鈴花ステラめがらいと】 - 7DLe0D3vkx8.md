@@ -1,4 +1,5 @@
-## 【1周年記念】祝1周年記念ライブ！鈴花ステラ 1st Aniversary Live ！！【鈴花ステラめがらいと】
+## 【1周年記念】祝1周年記念ライブ！鈴花ステラ 1st Aniversary Live ！！【鈴花ステラ/めがらいと】
+## 鈴花ステラ Ch. / Suzuka Stella
 ### 2022-02-05 11:30:40
 https://www.youtube.com/watch?v=7DLe0D3vkx8
 #### UgwzSz5VtJmp5oQ1VgF4AaABAg

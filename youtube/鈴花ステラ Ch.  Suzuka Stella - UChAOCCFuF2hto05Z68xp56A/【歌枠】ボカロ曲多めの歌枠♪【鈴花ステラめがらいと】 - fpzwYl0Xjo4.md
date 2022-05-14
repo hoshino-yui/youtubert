@@ -1,4 +1,5 @@
-## 【歌枠】ボカロ曲多めの歌枠♪【鈴花ステラめがらいと】
+## 【歌枠】ボカロ曲多めの歌枠♪【鈴花ステラ/めがらいと】
+## 鈴花ステラ Ch. / Suzuka Stella
 ### 2021-11-08 11:30:10
 https://www.youtube.com/watch?v=fpzwYl0Xjo4
 #### UgzisUE0UhV2johVGKd4AaABAg

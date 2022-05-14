@@ -1,4 +1,5 @@
-## 【歌枠】ザ・ステラ10 ～夏の終わりを感じる曲特集～【鈴花ステラめがらいと】
+## 【歌枠】ザ・ステラ10 ～夏の終わりを感じる曲特集～【鈴花ステラ/めがらいと】
+## 鈴花ステラ Ch. / Suzuka Stella
 ### 2021-08-25 11:30:23
 https://www.youtube.com/watch?v=Zu1GeqTouUU
 #### UgyeuP3G7aq6l6yrEy94AaABAg

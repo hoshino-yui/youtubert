@@ -1,4 +1,5 @@
 ## 【錄音X混音X聲音設定 大！解！畫！！】來解答各位對home studio/錄音/混音/業界的疑問^q^！ft. 楠さん&Uncle B.B.【香港Vtuber/月島クロス】
+## Cross Ch. 月島クロス【HKVTuber】
 ### 2021-12-06 13:01:26
 https://www.youtube.com/watch?v=vOT4MBj_WY8
 #### UgwR4sCfHZWWRHw2jOx4AaABAg

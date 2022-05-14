@@ -1,4 +1,5 @@
-## 【歌枠】1周年前夜！ザ・ステラ10〜みんなで選ぶステラのベストソング〜 【鈴花ステラめがらいと】
+## 【歌枠】1周年前夜！ザ・ステラ10〜みんなで選ぶステラのベストソング〜 【鈴花ステラ/めがらいと】
+## 鈴花ステラ Ch. / Suzuka Stella
 ### 2022-02-04 11:30:09
 https://www.youtube.com/watch?v=w9vqFBjlw8o
 #### Ugxu6XUyT8SomrUrfvh4AaABAg

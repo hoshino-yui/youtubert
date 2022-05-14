@@ -1,4 +1,5 @@
-## 【歌枠】ザ・ステラ10~デュエットソング特集~【鈴花ステラめがらいと】
+## 【歌枠】ザ・ステラ10~デュエットソング特集~【鈴花ステラ/めがらいと】
+## 鈴花ステラ Ch. / Suzuka Stella
 ### 2021-09-22 11:31:10
 https://www.youtube.com/watch?v=zUleUlvnKoQ
 #### UgwvpjNjhYcVwK4UU1N4AaABAg

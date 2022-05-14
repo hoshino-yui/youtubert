@@ -1,4 +1,5 @@
-## 【半週年紀念歌回】清楚系偶像的歌回！全熟希望？？？！(ﾟ∀三ﾟ三∀ﾟ) 【小林あいすMic On Project】【香港VTuber】
+## 【半週年紀念歌回】清楚系偶像的歌回！全熟希望？？？！(ﾟ∀三ﾟ三∀ﾟ) 【小林あいす/Mic On Project】【香港VTuber】
+## Aisu Ch.小林あいす【HKVTuber】
 ### 2021-06-24 12:53:49
 https://www.youtube.com/watch?v=ZvAVofRJe5E
 #### Ugz25qqLusPsjoUQ7rB4AaABAg

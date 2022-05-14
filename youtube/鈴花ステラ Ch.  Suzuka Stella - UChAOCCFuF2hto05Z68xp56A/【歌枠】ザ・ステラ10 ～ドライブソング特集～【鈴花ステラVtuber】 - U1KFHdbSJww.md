@@ -1,4 +1,5 @@
-## 【歌枠】ザ・ステラ10 ～ドライブソング特集～【鈴花ステラVtuber】
+## 【歌枠】ザ・ステラ10 ～ドライブソング特集～【鈴花ステラ/Vtuber】
+## 鈴花ステラ Ch. / Suzuka Stella
 ### 2021-06-02 11:30:13
 https://www.youtube.com/watch?v=U1KFHdbSJww
 #### UgwL56YH-cUs5tssk3p4AaABAg

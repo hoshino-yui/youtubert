@@ -1,4 +1,5 @@
-## 【歌枠】アニソン・ボカロ・Jpopいろいろ歌うぅぅぅ【鈴花ステラめがらいと】
+## 【歌枠】アニソン・ボカロ・Jpopいろいろ歌うぅぅぅ【鈴花ステラ/めがらいと】
+## 鈴花ステラ Ch. / Suzuka Stella
 ### 2021-11-09 11:30:08
 https://www.youtube.com/watch?v=upJoSPcg-k0
 #### UgyxYcJE2wT8N9q6LQh4AaABAg

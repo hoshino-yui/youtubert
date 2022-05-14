@@ -1,4 +1,5 @@
-## 【歌回】μ's限定【小林あいすMic On Project】【香港VTuber】
+## 【歌回】μ's限定【小林あいす/Mic On Project】【香港VTuber】
+## Aisu Ch.小林あいす【HKVTuber】
 ### 2021-10-17 07:08:52
 https://www.youtube.com/watch?v=Uq-8eL3HQsc
 #### Ugwn9MyVx2jt72Hak-Z4AaABAg

@@ -1,4 +1,5 @@
-## 【歌枠】人気曲をオールジャンルで歌っちゃう✨【鈴花ステラめがらいと】
+## 【歌枠】人気曲をオールジャンルで歌っちゃう✨【鈴花ステラ/めがらいと】
+## 鈴花ステラ Ch. / Suzuka Stella
 ### 2021-11-01 11:30:24
 https://www.youtube.com/watch?v=avxbmebQsXA
 #### UgwlpqscL38o4t09N5d4AaABAg

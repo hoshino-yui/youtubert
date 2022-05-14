@@ -1,4 +1,5 @@
-## 【歌枠】カラオケの定番曲を歌っていきたい！【鈴花ステラめがらいと】
+## 【歌枠】カラオケの定番曲を歌っていきたい！【鈴花ステラ/めがらいと】
+## 鈴花ステラ Ch. / Suzuka Stella
 ### 2021-10-25 11:30:36
 https://www.youtube.com/watch?v=s_LHhqer5LI
 #### Ugz88pf0GaJI6wozXcp4AaABAg

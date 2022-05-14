@@ -1,4 +1,5 @@
-## 【卒業配信】いままでいっぱいの愛を、ありがとう【鈴花ステラめがらいと】
+## 【卒業配信】いままでいっぱいの愛を、ありがとう【鈴花ステラ/めがらいと】
+## 鈴花ステラ Ch. / Suzuka Stella
 ### 2022-04-01 11:30:23
 https://www.youtube.com/watch?v=2wK7PcM5Ye8
 #### Ugx3uVYnxyCy3KCef8F4AaABAg
@@ -75,27 +76,6 @@ https://www.youtube.com/watch?v=2wK7PcM5Ye8
 
 Thank you so much.
 
-#### UgzdGyaqjiMdHsv7tXt4AaABAg
-おつステ〜 :_かわいい::_テンキュー::_テンキュー:
-
-
-
-あなたの美しい声と素敵な人柄を見聞きすることができる幸運な人の一人であることを、私はただ嬉しく思っています。これまであなたの旅に同行できたことは幸運でした。私はいつからあなたを応援しているのか自慢したくありませんが、あなたが最初から今日まで成し遂げてきたことをとても嬉しく思っています。あなたが素晴らしいことは知っていたので、いつか有名になって、あなたを応援する人たちを笑顔にするのも不思議ではありません。
-
-私を含め、たくさんの人に笑顔のきっかけを与えてくれたのだから、その事実を喜ぶべきでしょう。あなたは私たちにエンターテイメントを与えただけでなく、このパンデミックの中で私たちに笑顔を与えてくれたのです。多くの人は、何かで被災した後、生き続ける勇気を持てないものです。でも、歌や笑顔や笑い声が、その人の見方を変えるかもしれないんだ。ありがとう、すーちゃん。大好きだよー！！！
-
-
-
-I'm just gonna pretend that she was recruited by another major Idol company and she's on her way to make her dreams come true. And then she'll surprise us by singing on a big stage with the biggest smile on her face. :_テンション:
-
-
-
-I'm gonna miss Stella so much 😭
-
-
-
-2:32:55 superchat well spent:_テンション:
-
 #### UgyBF8bP_NTCQvJsWfB4AaABAg
 2:48:57 最後で流したメッセージ　(English Translation at below)
 
@@ -134,6 +114,27 @@ Suzuka Stella
 
 
 Today's ending MV is a special edit of some of my best MV covers in the past! Stella is watching with you too~♪ Let's keep up your spirit till the very last moment, Everyoneeeeee!!
+
+#### UgzdGyaqjiMdHsv7tXt4AaABAg
+おつステ〜 :_かわいい::_テンキュー::_テンキュー:
+
+
+
+あなたの美しい声と素敵な人柄を見聞きすることができる幸運な人の一人であることを、私はただ嬉しく思っています。これまであなたの旅に同行できたことは幸運でした。私はいつからあなたを応援しているのか自慢したくありませんが、あなたが最初から今日まで成し遂げてきたことをとても嬉しく思っています。あなたが素晴らしいことは知っていたので、いつか有名になって、あなたを応援する人たちを笑顔にするのも不思議ではありません。
+
+私を含め、たくさんの人に笑顔のきっかけを与えてくれたのだから、その事実を喜ぶべきでしょう。あなたは私たちにエンターテイメントを与えただけでなく、このパンデミックの中で私たちに笑顔を与えてくれたのです。多くの人は、何かで被災した後、生き続ける勇気を持てないものです。でも、歌や笑顔や笑い声が、その人の見方を変えるかもしれないんだ。ありがとう、すーちゃん。大好きだよー！！！
+
+
+
+I'm just gonna pretend that she was recruited by another major Idol company and she's on her way to make her dreams come true. And then she'll surprise us by singing on a big stage with the biggest smile on her face. :_テンション:
+
+
+
+I'm gonna miss Stella so much 😭
+
+
+
+2:32:55 superchat well spent:_テンション:
 
 #### UgweleZCMysxKWgeCXl4AaABAg
 本当に行っちゃうんですか。

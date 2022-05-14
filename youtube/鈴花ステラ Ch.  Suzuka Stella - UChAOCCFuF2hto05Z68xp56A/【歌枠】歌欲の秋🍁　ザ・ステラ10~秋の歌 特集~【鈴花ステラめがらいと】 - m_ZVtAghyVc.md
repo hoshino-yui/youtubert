@@ -1,4 +1,5 @@
-## 【歌枠】歌欲の秋🍁　ザ・ステラ10~秋の歌 特集~【鈴花ステラめがらいと】
+## 【歌枠】歌欲の秋🍁　ザ・ステラ10~秋の歌 特集~【鈴花ステラ/めがらいと】
+## 鈴花ステラ Ch. / Suzuka Stella
 ### 2021-10-27 11:30:21
 https://www.youtube.com/watch?v=m_ZVtAghyVc
 #### UgxUTRErmQTXTYFgPGF4AaABAg

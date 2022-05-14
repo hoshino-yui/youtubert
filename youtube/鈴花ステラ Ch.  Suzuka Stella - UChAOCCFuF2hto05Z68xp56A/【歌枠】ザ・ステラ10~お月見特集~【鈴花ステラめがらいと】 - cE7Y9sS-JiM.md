@@ -1,4 +1,5 @@
-## 【歌枠】ザ・ステラ10~お月見特集~【鈴花ステラめがらいと】
+## 【歌枠】ザ・ステラ10~お月見特集~【鈴花ステラ/めがらいと】
+## 鈴花ステラ Ch. / Suzuka Stella
 ### 2021-09-15 11:30:42
 https://www.youtube.com/watch?v=cE7Y9sS-JiM
 #### UgwNZF3VOeg3YjRoxR54AaABAg

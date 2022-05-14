@@ -1,4 +1,5 @@
-## 【歌枠】ザ・ステラ10 ～泣ける曲特集～【鈴花ステラめがらいと】
+## 【歌枠】ザ・ステラ10 ～泣ける曲特集～【鈴花ステラ/めがらいと】
+## 鈴花ステラ Ch. / Suzuka Stella
 ### 2021-07-14 11:30:14
 https://www.youtube.com/watch?v=1gH_vcyI40U
 #### UgyxdIiZvodQ9GrmNx94AaABAg

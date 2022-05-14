@@ -1,4 +1,5 @@
-## 【視聴者参加型】Among Us！鬼ごっこ！【鈴花ステラめがらいと】
+## 【視聴者参加型】Among Us！鬼ごっこ！【鈴花ステラ/めがらいと】
+## 鈴花ステラ Ch. / Suzuka Stella
 ### 2021-07-02 11:30:18
 https://www.youtube.com/watch?v=pVgfCY1EbjM
 #### UgwnFP2OjcGHwbZPjd54AaABAg

@@ -1,4 +1,5 @@
-## 【歌枠】アニソン・ボカロ歌いまくり！りんりんヒットスタジオ！【鈴花ステラめがらいと】
+## 【歌枠】アニソン・ボカロ歌いまくり！りんりんヒットスタジオ！【鈴花ステラ/めがらいと】
+## 鈴花ステラ Ch. / Suzuka Stella
 ### 2021-10-16 11:30:23
 https://www.youtube.com/watch?v=HCF3A3Jw3oo
 #### UgwDQHOi3pkagzWPoS94AaABAg

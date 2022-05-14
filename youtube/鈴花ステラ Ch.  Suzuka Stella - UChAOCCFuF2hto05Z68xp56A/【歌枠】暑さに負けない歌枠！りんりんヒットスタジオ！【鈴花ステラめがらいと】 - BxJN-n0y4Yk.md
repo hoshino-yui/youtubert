@@ -1,4 +1,5 @@
-## 【歌枠】暑さに負けない歌枠！りんりんヒットスタジオ！【鈴花ステラめがらいと】
+## 【歌枠】暑さに負けない歌枠！りんりんヒットスタジオ！【鈴花ステラ/めがらいと】
+## 鈴花ステラ Ch. / Suzuka Stella
 ### 2021-07-10 00:00:00
 https://www.youtube.com/watch?v=BxJN-n0y4Yk
 #### UgwskP29H9UTfe9rdiV4AaABAg

@@ -1,4 +1,5 @@
-## 【歌枠】Sから始めるステラ週間「頭文字S」【鈴花ステラめがらいと】
+## 【歌枠】Sから始めるステラ週間「頭文字S」【鈴花ステラ/めがらいと】
+## 鈴花ステラ Ch. / Suzuka Stella
 ### 2021-08-30 11:30:11
 https://www.youtube.com/watch?v=2FGJ0AAoAQA
 #### UgznhpBCcLv0wEwXO_p4AaABAg

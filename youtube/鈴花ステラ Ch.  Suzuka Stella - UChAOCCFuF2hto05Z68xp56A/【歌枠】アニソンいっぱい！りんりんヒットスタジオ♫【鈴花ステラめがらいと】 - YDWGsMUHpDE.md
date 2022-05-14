@@ -1,4 +1,5 @@
-## 【歌枠】アニソンいっぱい！りんりんヒットスタジオ♫【鈴花ステラめがらいと】
+## 【歌枠】アニソンいっぱい！りんりんヒットスタジオ♫【鈴花ステラ/めがらいと】
+## 鈴花ステラ Ch. / Suzuka Stella
 ### 2021-11-06 11:00:11
 https://www.youtube.com/watch?v=YDWGsMUHpDE
 #### UgzmTRfQrRqK8k5UWZh4AaABAg

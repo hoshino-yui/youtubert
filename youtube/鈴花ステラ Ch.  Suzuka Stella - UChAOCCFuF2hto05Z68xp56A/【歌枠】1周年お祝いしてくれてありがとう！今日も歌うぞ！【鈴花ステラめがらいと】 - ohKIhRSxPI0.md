@@ -1,4 +1,5 @@
-## 【歌枠】1周年お祝いしてくれてありがとう！今日も歌うぞ！【鈴花ステラめがらいと】
+## 【歌枠】1周年お祝いしてくれてありがとう！今日も歌うぞ！【鈴花ステラ/めがらいと】
+## 鈴花ステラ Ch. / Suzuka Stella
 ### 2022-02-07 11:30:11
 https://www.youtube.com/watch?v=ohKIhRSxPI0
 #### UgwGRt1uXdZKs3GE-RJ4AaABAg

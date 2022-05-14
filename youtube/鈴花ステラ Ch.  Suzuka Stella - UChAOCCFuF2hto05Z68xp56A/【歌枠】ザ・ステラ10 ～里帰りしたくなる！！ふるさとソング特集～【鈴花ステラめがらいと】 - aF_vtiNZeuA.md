@@ -1,4 +1,5 @@
-## 【歌枠】ザ・ステラ10 ～里帰りしたくなる！！ふるさとソング特集～【鈴花ステラめがらいと】
+## 【歌枠】ザ・ステラ10 ～里帰りしたくなる！！ふるさとソング特集～【鈴花ステラ/めがらいと】
+## 鈴花ステラ Ch. / Suzuka Stella
 ### 2021-08-18 11:30:10
 https://www.youtube.com/watch?v=aF_vtiNZeuA
 #### UgzPwyMWEL8Mn-mUWr14AaABAg

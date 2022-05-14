@@ -1,4 +1,5 @@
-## 【歌枠】サンセットビーチライブ！さざ波と音楽♪【鈴花ステラめがらいと】
+## 【歌枠】サンセットビーチライブ！さざ波と音楽♪【鈴花ステラ/めがらいと】
+## 鈴花ステラ Ch. / Suzuka Stella
 ### 2021-08-27 09:00:08
 https://www.youtube.com/watch?v=ondZpGzGGKQ
 #### UgwLMLIb_a7nmCpJNNR4AaABAg

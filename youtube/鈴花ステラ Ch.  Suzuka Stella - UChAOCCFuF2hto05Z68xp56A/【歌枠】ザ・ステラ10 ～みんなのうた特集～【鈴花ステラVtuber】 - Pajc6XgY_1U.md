@@ -1,4 +1,5 @@
-## 【歌枠】ザ・ステラ10 ～みんなのうた特集～【鈴花ステラVtuber】
+## 【歌枠】ザ・ステラ10 ～みんなのうた特集～【鈴花ステラ/Vtuber】
+## 鈴花ステラ Ch. / Suzuka Stella
 ### 2021-05-12 11:30:18
 https://www.youtube.com/watch?v=Pajc6XgY_1U
 #### UgzBsiJcyj8lTUrqqat4AaABAg

@@ -1,4 +1,5 @@
-## 【歌枠】心に響く曲を歌う🎤💗【鈴花ステラめがらいと】
+## 【歌枠】心に響く曲を歌う🎤💗【鈴花ステラ/めがらいと】
+## 鈴花ステラ Ch. / Suzuka Stella
 ### 2022-01-17 11:30:19
 https://www.youtube.com/watch?v=tdErTfBBw_c
 #### UgwpTRJylIbOUwM1n414AaABAg

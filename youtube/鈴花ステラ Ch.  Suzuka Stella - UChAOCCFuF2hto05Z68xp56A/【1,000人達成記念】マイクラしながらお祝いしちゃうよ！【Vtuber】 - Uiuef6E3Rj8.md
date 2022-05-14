@@ -1,4 +1,5 @@
 ## 【1,000人達成記念】マイクラしながらお祝いしちゃうよ！【Vtuber】
+## 鈴花ステラ Ch. / Suzuka Stella
 ### 2021-02-10 11:00:20
 https://www.youtube.com/watch?v=Uiuef6E3Rj8
 #### UgyBQfH78RL_VYRUUEh4AaABAg

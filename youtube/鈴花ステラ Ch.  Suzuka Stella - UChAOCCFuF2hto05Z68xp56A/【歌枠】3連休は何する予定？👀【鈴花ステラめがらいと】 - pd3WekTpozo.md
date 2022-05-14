@@ -1,4 +1,5 @@
-## 【歌枠】3連休は何する予定？👀【鈴花ステラめがらいと】
+## 【歌枠】3連休は何する予定？👀【鈴花ステラ/めがらいと】
+## 鈴花ステラ Ch. / Suzuka Stella
 ### 2022-01-08 11:30:17
 https://www.youtube.com/watch?v=pd3WekTpozo
 #### Ugzv-PTM0xJZ7qtx6Vt4AaABAg

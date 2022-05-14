@@ -1,4 +1,5 @@
-## 【歌枠】オリジナル曲公開記念歌枠！【鈴花ステラめがらいと】
+## 【歌枠】オリジナル曲公開記念歌枠！【鈴花ステラ/めがらいと】
+## 鈴花ステラ Ch. / Suzuka Stella
 ### 2021-10-15 11:30:19
 https://www.youtube.com/watch?v=MGUX-9AdoRw
 #### UgxxRbxaJEz165cpgrl4AaABAg

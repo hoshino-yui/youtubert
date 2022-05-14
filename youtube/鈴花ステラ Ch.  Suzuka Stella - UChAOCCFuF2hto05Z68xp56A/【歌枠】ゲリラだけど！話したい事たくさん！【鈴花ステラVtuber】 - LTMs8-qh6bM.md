@@ -1,4 +1,5 @@
-## 【歌枠】ゲリラだけど！話したい事たくさん！【鈴花ステラVtuber】
+## 【歌枠】ゲリラだけど！話したい事たくさん！【鈴花ステラ/Vtuber】
+## 鈴花ステラ Ch. / Suzuka Stella
 ### 2021-06-28 11:30:20
 https://www.youtube.com/watch?v=LTMs8-qh6bM
 #### UgydXTAlzh92wABIxu14AaABAg

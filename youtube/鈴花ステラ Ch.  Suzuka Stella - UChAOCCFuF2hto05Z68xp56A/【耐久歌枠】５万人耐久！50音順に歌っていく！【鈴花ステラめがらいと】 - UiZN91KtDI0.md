@@ -1,4 +1,5 @@
-## 【耐久歌枠】５万人耐久！50音順に歌っていく！【鈴花ステラめがらいと】
+## 【耐久歌枠】５万人耐久！50音順に歌っていく！【鈴花ステラ/めがらいと】
+## 鈴花ステラ Ch. / Suzuka Stella
 ### 2021-07-31 10:00:14
 https://www.youtube.com/watch?v=UiZN91KtDI0
 #### Ugzs1MWwEhcYeiGJQXN4AaABAg

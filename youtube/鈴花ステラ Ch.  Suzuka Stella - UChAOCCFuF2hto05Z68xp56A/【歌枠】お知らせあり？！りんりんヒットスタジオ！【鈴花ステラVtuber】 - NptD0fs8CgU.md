@@ -1,4 +1,5 @@
-## 【歌枠】お知らせあり？！りんりんヒットスタジオ！【鈴花ステラVtuber】
+## 【歌枠】お知らせあり？！りんりんヒットスタジオ！【鈴花ステラ/Vtuber】
+## 鈴花ステラ Ch. / Suzuka Stella
 ### 2021-06-26 11:30:08
 https://www.youtube.com/watch?v=NptD0fs8CgU
 #### UgwY4GoDRi3gUt2gRD94AaABAg

@@ -1,4 +1,5 @@
-## 【歌枠】2人のステラ！コラボライブ！【鈴花ステラめがらいと】
+## 【歌枠】2人のステラ！コラボライブ！【鈴花ステラ/めがらいと】
+## 鈴花ステラ Ch. / Suzuka Stella
 ### 2021-08-24 14:00:33
 https://www.youtube.com/watch?v=85hHJbTO1JE
 #### Ugx051AXa48122WzR554AaABAg

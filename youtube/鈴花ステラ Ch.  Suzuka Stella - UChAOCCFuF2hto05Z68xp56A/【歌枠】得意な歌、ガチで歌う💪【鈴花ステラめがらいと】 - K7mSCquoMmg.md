@@ -1,4 +1,5 @@
-## 【歌枠】得意な歌、ガチで歌う💪【鈴花ステラめがらいと】
+## 【歌枠】得意な歌、ガチで歌う💪【鈴花ステラ/めがらいと】
+## 鈴花ステラ Ch. / Suzuka Stella
 ### 2021-09-20 11:30:11
 https://www.youtube.com/watch?v=K7mSCquoMmg
 #### UgzKNhGSoAUdVUCz3Xh4AaABAg

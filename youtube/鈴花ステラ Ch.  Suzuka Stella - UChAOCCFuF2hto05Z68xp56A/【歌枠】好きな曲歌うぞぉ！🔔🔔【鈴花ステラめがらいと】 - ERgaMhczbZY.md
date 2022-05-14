@@ -1,4 +1,5 @@
-## 【歌枠】好きな曲歌うぞぉ！🔔🔔【鈴花ステラめがらいと】
+## 【歌枠】好きな曲歌うぞぉ！🔔🔔【鈴花ステラ/めがらいと】
+## 鈴花ステラ Ch. / Suzuka Stella
 ### 2021-11-26 11:30:19
 https://www.youtube.com/watch?v=ERgaMhczbZY
 #### UgyNPTJTQS8B2kSdwq54AaABAg

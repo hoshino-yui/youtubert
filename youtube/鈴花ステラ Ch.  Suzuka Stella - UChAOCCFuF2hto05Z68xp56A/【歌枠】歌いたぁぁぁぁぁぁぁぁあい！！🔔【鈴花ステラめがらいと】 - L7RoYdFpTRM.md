@@ -1,4 +1,5 @@
-## 【歌枠】歌いたぁぁぁぁぁぁぁぁあい！！🔔【鈴花ステラめがらいと】
+## 【歌枠】歌いたぁぁぁぁぁぁぁぁあい！！🔔【鈴花ステラ/めがらいと】
+## 鈴花ステラ Ch. / Suzuka Stella
 ### 2022-01-15 11:30:12
 https://www.youtube.com/watch?v=L7RoYdFpTRM
 #### Ugyoqh_DThLxSuT5SjV4AaABAg

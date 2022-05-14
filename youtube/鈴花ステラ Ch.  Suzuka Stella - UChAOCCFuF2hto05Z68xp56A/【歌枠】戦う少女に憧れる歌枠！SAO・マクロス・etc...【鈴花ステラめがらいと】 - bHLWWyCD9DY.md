@@ -1,4 +1,5 @@
-## 【歌枠】戦う少女に憧れる歌枠！SAO・マクロス・etc...【鈴花ステラめがらいと】
+## 【歌枠】戦う少女に憧れる歌枠！SAO・マクロス・etc...【鈴花ステラ/めがらいと】
+## 鈴花ステラ Ch. / Suzuka Stella
 ### 2021-11-02 11:32:02
 https://www.youtube.com/watch?v=bHLWWyCD9DY
 #### UgxDszMZ9gNzblIUjr14AaABAg
