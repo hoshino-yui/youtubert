@@ -1,8 +1,13 @@
 # 【雜談】補完上次沒讀完的潮文以及和大家分享露娜去大阪的經歷！！【望月露娜/HKvtuber】
+
 ## 望月ルーナ  Mochitsugi Luna Ch.
+
 ### 2021-05-28 06:13:19
+
 https://www.youtube.com/watch?v=D2UpfK5zfMQ
+
 #### UgzyuMgi0vllNPxezPx4AaABAg
+
 潮文部分:
 
 11:28   82年百事潮文
@@ -29,7 +34,10 @@ https://www.youtube.com/watch?v=D2UpfK5zfMQ
 
 1:29:22 冷氣機潮文(冷氣師傅角度)
 
+
+
 #### Ugxw518ooVpZVqcQxHJ4AaABAg
+
 冰之撚樣起源
 
 2:24:54 冰之國國民

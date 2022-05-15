@@ -1,8 +1,13 @@
 # 【コメント振り返り】粗茶ですが、どうぞ #05【Vtuber】
+
 ## 鈴花ステラ Ch. / Suzuka Stella
+
 ### 2021-03-15 00:00:00
+
 https://www.youtube.com/watch?v=JNBwE6uHUK8
+
 #### UgyY_ydlkLjxX70cetl4AaABAg
+
 [Translation]
 
 Now, let’s get started!!
@@ -111,7 +116,10 @@ As same, I’ll do “Have a Cup of Tea” next time, so don’t miss it!
 
 Otsu-sute(goodbye greetings)! Bye bye!
 
+
+
 #### Ugz0F8q6oeey0YUcdzt4AaABAg
+
 0:53 i kinda dont understand 
 
 But she's watching jujutsu and mushoku tensei right?

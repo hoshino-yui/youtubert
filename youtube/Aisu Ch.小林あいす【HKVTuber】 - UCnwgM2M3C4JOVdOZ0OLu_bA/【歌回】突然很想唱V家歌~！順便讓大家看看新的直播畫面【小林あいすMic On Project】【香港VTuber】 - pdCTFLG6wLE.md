@@ -1,8 +1,13 @@
 # 【歌回】突然很想唱V家歌~！順便讓大家看看新的直播畫面【小林あいす/Mic On Project】【香港VTuber】
+
 ## Aisu Ch.小林あいす【HKVTuber】
+
 ### 2021-12-11 13:53:14
+
 https://www.youtube.com/watch?v=pdCTFLG6wLE
+
 #### UgwwDtNl3n4gA8e15md4AaABAg
+
 本日歌會時間點！ 由雪米糍區子文提供///
 
 00:00待機

@@ -1,8 +1,13 @@
 # 【歌枠】とっておきメドレーライブ！【鈴花ステラ/めがらいと】
+
 ## 鈴花ステラ Ch. / Suzuka Stella
+
 ### 2021-08-26 10:00:07
+
 https://www.youtube.com/watch?v=ct28V3IM5Q0
+
 #### UgwE6Ffd3IDJN2X0Hvh4AaABAg
+
 【 歌枠 SET LIST 】 
 
 とっておきメドレーライブ！ ~ステラのお気に入りの曲~

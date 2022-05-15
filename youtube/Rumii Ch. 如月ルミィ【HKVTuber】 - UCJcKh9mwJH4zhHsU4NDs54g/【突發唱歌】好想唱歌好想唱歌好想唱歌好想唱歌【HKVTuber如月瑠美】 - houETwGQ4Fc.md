@@ -1,8 +1,13 @@
 # 【突發唱歌】好想唱歌好想唱歌好想唱歌好想唱歌【HKVTuber/如月瑠美】
+
 ## Rumii Ch. 如月ルミィ【HKVTuber】
+
 ### 2021-04-09 13:30:47
+
 https://www.youtube.com/watch?v=houETwGQ4Fc
+
 #### UgxM2QwI2GcfmCyWktJ4AaABAg
+
 5:12 ニコニコ組曲
 
 18:55 群青
@@ -53,7 +58,10 @@ https://www.youtube.com/watch?v=houETwGQ4Fc
 
 2:52:30 二コ二コ流星群
 
+
+
 #### UgxZ7VhgZu3q6JrRjyx4AaABAg
+
 41:36 Rumii會台語，平平子好像沒教過這句髒話!!無師自通 (靠杯拉)台語代表哭爸的意思，但現在算流行語(算是吧?!)，遇到很誇張的事或很白目的人可以說。
 
 例如:你這個人很靠杯耶! 說明你這個人很白目

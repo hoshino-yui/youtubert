@@ -1,8 +1,13 @@
 # 【歌枠】ゲリラだけど！話したい事たくさん！【鈴花ステラ/Vtuber】
+
 ## 鈴花ステラ Ch. / Suzuka Stella
+
 ### 2021-06-28 11:30:20
+
 https://www.youtube.com/watch?v=LTMs8-qh6bM
+
 #### UgydXTAlzh92wABIxu14AaABAg
+
 8:43	私、アイドル宣言 / CHiCO with HoneyWorks
 
 		Watashi, Idol Sengen / CHiCO with HoneyWorks
@@ -59,7 +64,10 @@ https://www.youtube.com/watch?v=LTMs8-qh6bM
 
 		Hamtaro tottoko uta
 
+
+
 #### UgyS2wCR9mWSpuUMZiN4AaABAg
+
 33:28
 
 このPerfumeのFLASH、ホントに完成度高いわぁ・・・

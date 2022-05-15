@@ -1,8 +1,13 @@
 # 【歌枠】ゲリラ！ラスト配信前に少し歌う！【鈴花ステラ/めがらいと】
+
 ## 鈴花ステラ Ch. / Suzuka Stella
+
 ### 2022-03-29 11:30:08
+
 https://www.youtube.com/watch?v=dwCqxTHhLQ4
+
 #### UgydQedwf5DNyyPdnyp4AaABAg
+
 🔔Start🔔 00:01:57
 
 
@@ -35,7 +40,10 @@ https://www.youtube.com/watch?v=dwCqxTHhLQ4
 
 🔔Ending🔔 01:30:18
 
+
+
 #### UgwDC2cAGKiBySb-BIV4AaABAg
+
 22:01
 
 I regret not being here from the start but im glad I was here to see Stella midway until the end. I hope we could meet her again someday, somewhere.
@@ -44,7 +52,10 @@ I regret not being here from the start but im glad I was here to see Stella midw
 
 Also...I still get a "no"....😅
 
+
+
 #### UgzWaOs2lhazMNm6jut4AaABAg
+
 What an angelic voice ❤️
 
 37:58

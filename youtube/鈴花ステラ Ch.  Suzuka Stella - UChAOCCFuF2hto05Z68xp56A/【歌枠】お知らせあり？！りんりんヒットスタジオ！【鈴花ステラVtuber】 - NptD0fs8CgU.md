@@ -1,8 +1,13 @@
 # 【歌枠】お知らせあり？！りんりんヒットスタジオ！【鈴花ステラ/Vtuber】
+
 ## 鈴花ステラ Ch. / Suzuka Stella
+
 ### 2021-06-26 11:30:08
+
 https://www.youtube.com/watch?v=NptD0fs8CgU
+
 #### UgwY4GoDRi3gUt2gRD94AaABAg
+
 7:03	冒険でしょでしょ? / 平野綾
 
 		Bouken Desho Desho? / Hirano Aya
@@ -117,7 +122,10 @@ https://www.youtube.com/watch?v=NptD0fs8CgU
 
 		Sugar Song and Bitter Step (Again)/ UNISON SQUARE GARDEN
 
+
+
 #### UgzLf4d5DxfZo0lYlGh4AaABAg
+
 As always thank you for the amazing stream Stella! Lot of great songs today, but my favorite will be “inside you” (1:50:05)
 
 Also, congratulations on featuring in アプリスタイル magazine!!!

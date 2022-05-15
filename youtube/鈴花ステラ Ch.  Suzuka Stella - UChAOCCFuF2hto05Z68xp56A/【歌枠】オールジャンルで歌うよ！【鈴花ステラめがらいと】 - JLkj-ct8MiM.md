@@ -1,8 +1,13 @@
 # 【歌枠】オールジャンルで歌うよ！【鈴花ステラ/めがらいと】
+
 ## 鈴花ステラ Ch. / Suzuka Stella
+
 ### 2021-11-22 11:31:38
+
 https://www.youtube.com/watch?v=JLkj-ct8MiM
+
 #### UgxZGCAzxbGsMTcxIWV4AaABAg
+
 🔔Start🔔 00:01:29
 
 
@@ -51,7 +56,10 @@ https://www.youtube.com/watch?v=JLkj-ct8MiM
 
 🔔Ending🔔 01:48:50
 
+
+
 #### UgzfiXzkCHN-lHj2Xl54AaABAg
+
 ステライブ史上最大最草ステ虐事件：『ステラ結婚事件』の始末
 
 

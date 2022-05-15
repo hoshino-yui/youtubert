@@ -1,8 +1,13 @@
 # 【AI：夢境檔案】#8 《迷路 X 門 X 9990》貴圈真亂- ___-⋯【香港Vtuber/月島クロス】
+
 ## Cross Ch. 月島クロス【HKVTuber】
+
 ### 2021-10-30 14:31:07
+
 https://www.youtube.com/watch?v=fBGZQf2iZXQ
+
 #### Ugw6sRH2g_LFFCbWst14AaABAg
+
 #08
 
 
@@ -51,7 +56,10 @@ https://www.youtube.com/watch?v=fBGZQf2iZXQ
 
 03:00:32　萬聖節快樂 & ED & 彩蛋
 
+
+
 #### Ugxh-tGdZ-dHxU3ilSZ4AaABAg
+
 1:28:54 開始的部分
 
 應該可以入選做暫時AI這麼多集中

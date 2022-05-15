@@ -1,8 +1,29 @@
 # 【1000訂閱感謝和慶祝收益化】謝謝大家一直以來的支持！！！！【望月露娜/HKvtuber】
+
 ## 望月ルーナ  Mochitsugi Luna Ch.
+
 ### 2021-06-06 14:01:42
+
 https://www.youtube.com/watch?v=cNn-Y9v3Pa0
+
+#### Ugxf2Jju1XKlCR4mvpR4AaABAg
+
+Dear Luna,
+
+
+
+  Only managed to appear on the last moment of this stream (and drunk) so allow me to rephrase my words here.
+
+   Congrats on monetization and am honoured to be mentioned as one of your fans. Will try to appear as often as I can, while expecting even better streams to come.
+
+   May grace and happiness be with you always,
+
+~Tsuyuri Watanuki(狸) 58:06
+
+
+
 #### UgwCexIctpdAWCgVdtt4AaABAg
+
 戴定頭盔唔知有冇錯, Vtubers可以尋仇用
 
 17:18 多謝Vtubers: 
@@ -61,20 +82,10 @@ https://www.youtube.com/watch?v=cNn-Y9v3Pa0
 
 太多V我諗露娜都唔想唔記得講嘅
 
-#### Ugxf2Jju1XKlCR4mvpR4AaABAg
-Dear Luna,
 
-
-
-  Only managed to appear on the last moment of this stream (and drunk) so allow me to rephrase my words here.
-
-   Congrats on monetization and am honoured to be mentioned as one of your fans. Will try to appear as often as I can, while expecting even better streams to come.
-
-   May grace and happiness be with you always,
-
-~Tsuyuri Watanuki(狸) 58:06
 
 #### UgxlhQlSVW45NlY6j0l4AaABAg
+
 1:41 開始
 
 2:24 左聲道高潮
@@ -121,12 +132,18 @@ Dear Luna,
 
 2:27:01 宵夜係青瓜
 
+
+
 #### Ugw-R1I_swGo0FFCs314AaABAg
+
 1:31:47 道歉信
 
 1:54:33 shut up and take my money
 
+
+
 #### UgyhXFBjy3APJai46QB4AaABAg
+
 1:00:40 自肥
 
 恭喜露娜終於收益化

@@ -1,8 +1,13 @@
 # 【歌枠コラボ】うたうまコラボ! たまステLIVE! 3rd stage!!【鈴花ステラ/久遠たま】
+
 ## 鈴花ステラ Ch. / Suzuka Stella
+
 ### 2021-10-19 11:00:21
+
 https://www.youtube.com/watch?v=8Yl6byyhG_s
+
 #### UgzWbAmUwyuRyQhTHBR4AaABAg
+
 セトリ / SETLIST
 
 5:52 ようこそジャパリパークへ (Youkoso Japari Park e) / どうぶつビスケッツ×PPP (Doubutsu Biscuits x PPP)
@@ -31,7 +36,10 @@ https://www.youtube.com/watch?v=8Yl6byyhG_s
 
 1:42:37 Q&A リサイタル! (Q&A Recital!) / 戸松遥 (Tomatsu Haruka)
 
+
+
 #### UgyfNCt1u4qmGHF2qXJ4AaABAg
+
 ご本人からリクあったTS
 
 

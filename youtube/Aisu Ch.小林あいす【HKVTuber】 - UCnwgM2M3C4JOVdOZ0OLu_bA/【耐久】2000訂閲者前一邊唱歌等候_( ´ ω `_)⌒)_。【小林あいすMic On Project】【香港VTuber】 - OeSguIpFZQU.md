@@ -1,8 +1,13 @@
 # 【耐久】2000訂閲者前一邊唱歌等候_( ´ ω `_)⌒)_。【小林あいす/Mic On Project】【香港VTuber】
+
 ## Aisu Ch.小林あいす【HKVTuber】
+
 ### 2021-03-09 12:00:13
+
 https://www.youtube.com/watch?v=OeSguIpFZQU
+
 #### UgwRWcc2RS9WFsZmkR54AaABAg
+
 雖然知唔係歌回，但都標出黎俾單純想聽歌嘅大家唔使係5個鐘入面大（大）海（陸）撈（揾）針（冰）
 
 1:04 start

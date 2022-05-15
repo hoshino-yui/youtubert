@@ -1,8 +1,13 @@
 # 【歌枠】かっこいいからかわいいまで！新曲も歌うよ〜🔔【鈴花ステラ/めがらいと】
+
 ## 鈴花ステラ Ch. / Suzuka Stella
+
 ### 2021-12-28 11:30:31
+
 https://www.youtube.com/watch?v=r88Ffo_eYeM
+
 #### UgyRoJWUcFtKc67axRJ4AaABAg
+
 🔔Start🔔 00:01:42
 
 
@@ -49,7 +54,10 @@ https://www.youtube.com/watch?v=r88Ffo_eYeM
 
 🔔Ending🔔 02:08:47
 
+
+
 #### Ugylbd5ljAcls5vKW6l4AaABAg
+
 Chock-full of nostalgia and feels like forever since I heard most of these songs, but never before this beautifully!:_かわいい::_テンキュー:
 
 01:20:40 その滑らかな変貌ぶりに素敵にゾクゾクしてします :_テンション:

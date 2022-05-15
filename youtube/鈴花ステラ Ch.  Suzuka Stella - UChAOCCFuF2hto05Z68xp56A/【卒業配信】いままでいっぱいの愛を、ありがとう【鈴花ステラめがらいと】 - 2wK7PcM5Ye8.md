@@ -1,8 +1,27 @@
 # 【卒業配信】いままでいっぱいの愛を、ありがとう【鈴花ステラ/めがらいと】
+
 ## 鈴花ステラ Ch. / Suzuka Stella
+
 ### 2022-04-01 11:30:23
+
 https://www.youtube.com/watch?v=2wK7PcM5Ye8
+
+#### Ugx3uVYnxyCy3KCef8F4AaABAg
+
+謝謝妳一直以來的完美歌回,謝謝妳鈴花
+
+希望我們能在未來的某處再次相遇....
+
+:_ブルーブレード反転::_ステラブレード反転::_かわいい::_おどろき::_テンション::_ようこそ::_ワワワワ::_サイリウム::_ブルーブレード:
+
+
+
+忘了這裡 2:48:43 ....聽到這個聲音我直接哭了...
+
+
+
 #### Ugw6qGxiIBs7nbjILAx4AaABAg
+
 🔔Start🔔 00:01:49
 
 
@@ -65,18 +84,10 @@ https://www.youtube.com/watch?v=2wK7PcM5Ye8
 
 Thank you so much.
 
-#### Ugx3uVYnxyCy3KCef8F4AaABAg
-謝謝妳一直以來的完美歌回,謝謝妳鈴花
 
-希望我們能在未來的某處再次相遇....
-
-:_ブルーブレード反転::_ステラブレード反転::_かわいい::_おどろき::_テンション::_ようこそ::_ワワワワ::_サイリウム::_ブルーブレード:
-
-
-
-忘了這裡 2:48:43 ....聽到這個聲音我直接哭了...
 
 #### UgyBF8bP_NTCQvJsWfB4AaABAg
+
 2:48:57 最後で流したメッセージ　(English Translation at below)
 
 
@@ -115,7 +126,10 @@ Suzuka Stella
 
 Today's ending MV is a special edit of some of my best MV covers in the past! Stella is watching with you too~♪ Let's keep up your spirit till the very last moment, Everyoneeeeee!!
 
+
+
 #### UgzdGyaqjiMdHsv7tXt4AaABAg
+
 おつステ〜 :_かわいい::_テンキュー::_テンキュー:
 
 
@@ -136,7 +150,18 @@ I'm gonna miss Stella so much 😭
 
 2:32:55 superchat well spent:_テンション:
 
+
+
+#### UgxQi6ZmuxEVYcx2a4d4AaABAg
+
+2:16:17 自分用
+
+ステラちゃんのことは一生忘れない
+
+
+
 #### UgweleZCMysxKWgeCXl4AaABAg
+
 本当に行っちゃうんですか。
 
 Well, i wish you find your happiness,
@@ -148,9 +173,4 @@ Thank you for everything 💛💛💛💛💛
 
 
 1:02:02 😭😭😭😭
-
-#### UgxQi6ZmuxEVYcx2a4d4AaABAg
-2:16:17 自分用
-
-ステラちゃんのことは一生忘れない
 

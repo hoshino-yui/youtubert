@@ -1,8 +1,13 @@
 # 【歌枠】戦う少女に憧れる歌枠！SAO・マクロス・etc...【鈴花ステラ/めがらいと】
+
 ## 鈴花ステラ Ch. / Suzuka Stella
+
 ### 2021-11-02 11:32:02
+
 https://www.youtube.com/watch?v=bHLWWyCD9DY
+
 #### UgxDszMZ9gNzblIUjr14AaABAg
+
 🔔Start🔔 00:01:01
 
 
@@ -61,7 +66,10 @@ https://www.youtube.com/watch?v=bHLWWyCD9DY
 
 02:41:48 檄！帝国華撃団
 
+
+
 #### UgzFbbAFDy1_hNo-ssN4AaABAg
+
 2:17:09 すーちゃんの何気ない一言から鈴どもの反乱が勃発。
 
 これが後に語られる『友達料の乱』であった。

@@ -1,8 +1,13 @@
 # 【歌枠】きまぐれ歌枠！自由気ままに歌う！【鈴花ステラ/めがらいと】
+
 ## 鈴花ステラ Ch. / Suzuka Stella
+
 ### 2021-09-23 11:32:03
+
 https://www.youtube.com/watch?v=llMVjG4EHEw
+
 #### UgyPtht8Gu0-u0I-lhp4AaABAg
+
 6:49	私、アイドル宣言 / CHiCO with HoneyWorks
 
 		Watashi, Idol Sengen / CHiCO with HoneyWorks

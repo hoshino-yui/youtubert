@@ -1,8 +1,23 @@
 # 【歌枠】暑さに負けない歌枠！りんりんヒットスタジオ！【鈴花ステラ/めがらいと】
+
 ## 鈴花ステラ Ch. / Suzuka Stella
+
 ### 2021-07-10 00:00:00
+
 https://www.youtube.com/watch?v=BxJN-n0y4Yk
+
+#### UgxoaZQjZx103v5yvP54AaABAg
+
+1:33:58
+
+ステラさんのO2が大好きです！
+
+1:36:06 高音後の顔が好き
+
+
+
 #### UgwskP29H9UTfe9rdiV4AaABAg
+
 9:53	God knows... / 涼宮ハルヒ(CV:平野綾)
 
 		God knows... / Suzumiya Haruhi(CV:Hirano Aya)
@@ -112,11 +127,4 @@ https://www.youtube.com/watch?v=BxJN-n0y4Yk
 2:06:35	No, Thank You! / 放課後ティータイム
 
 		No, Thank You! / Houkago Tea Time
-
-#### UgxoaZQjZx103v5yvP54AaABAg
-1:33:58
-
-ステラさんのO2が大好きです！
-
-1:36:06 高音後の顔が好き
 

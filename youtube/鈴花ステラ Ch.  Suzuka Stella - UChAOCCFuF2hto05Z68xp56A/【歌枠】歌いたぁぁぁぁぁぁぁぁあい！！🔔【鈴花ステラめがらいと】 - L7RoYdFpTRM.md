@@ -1,8 +1,13 @@
 # 【歌枠】歌いたぁぁぁぁぁぁぁぁあい！！🔔【鈴花ステラ/めがらいと】
+
 ## 鈴花ステラ Ch. / Suzuka Stella
+
 ### 2022-01-15 11:30:12
+
 https://www.youtube.com/watch?v=L7RoYdFpTRM
+
 #### Ugyoqh_DThLxSuT5SjV4AaABAg
+
 🔔Start🔔 00:01:57
 
 
@@ -43,7 +48,10 @@ https://www.youtube.com/watch?v=L7RoYdFpTRM
 
 🔔Ending🔔 02:05:14
 
+
+
 #### UgyrRm8tC3XLrhI2WDh4AaABAg
+
 心がぴょんぴょんする歌がとても可愛いかったです:_かわいい: 00:31:49
 
 ありがとう！

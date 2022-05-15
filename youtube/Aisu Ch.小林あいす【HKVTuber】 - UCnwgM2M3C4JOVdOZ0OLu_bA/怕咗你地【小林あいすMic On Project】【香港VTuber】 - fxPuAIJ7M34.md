@@ -1,8 +1,13 @@
 # 怕咗你地【小林あいす/Mic On Project】【香港VTuber】
+
 ## Aisu Ch.小林あいす【HKVTuber】
+
 ### 2021-04-27 16:07:42
+
 https://www.youtube.com/watch?v=fxPuAIJ7M34
+
 #### Ugw3kg2WkthHawFJrJF4AaABAg
+
 今日要返學，所以琴日只係見到不留檔3個字就去左訓（並沒有，而係去左睇其他％￠™©￥……
 
 唔好問我點解我有d冇標名，絕對唔係我唔記歌名

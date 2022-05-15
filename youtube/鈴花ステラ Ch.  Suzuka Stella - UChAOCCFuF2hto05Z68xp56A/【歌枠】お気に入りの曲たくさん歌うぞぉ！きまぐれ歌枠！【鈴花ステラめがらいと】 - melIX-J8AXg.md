@@ -1,8 +1,13 @@
 # 【歌枠】お気に入りの曲たくさん歌うぞぉ！きまぐれ歌枠！【鈴花ステラ/めがらいと】
+
 ## 鈴花ステラ Ch. / Suzuka Stella
+
 ### 2021-10-21 11:30:10
+
 https://www.youtube.com/watch?v=melIX-J8AXg
+
 #### UgxIrJlltuCXtaY0U_x4AaABAg
+
 :_サイリウム:セットリスト:_サイリウム:
 
 0:07:14　ロマンチシズム / Mrs. GREEN APPLE
@@ -61,7 +66,10 @@ https://www.youtube.com/watch?v=melIX-J8AXg
 
 2:33:09　「群青」 https://youtu.be/JhgMOvDIZwE
 
+
+
 #### UgzUQeXynwN6L0hew0l4AaABAg
+
 Youtube really recommended me this livestream, then hits me with music nostalgia 1:42:09
 
 

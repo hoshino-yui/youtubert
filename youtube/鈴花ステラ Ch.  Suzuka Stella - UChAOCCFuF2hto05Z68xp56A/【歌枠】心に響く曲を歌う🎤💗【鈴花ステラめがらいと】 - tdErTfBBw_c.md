@@ -1,8 +1,13 @@
 # 【歌枠】心に響く曲を歌う🎤💗【鈴花ステラ/めがらいと】
+
 ## 鈴花ステラ Ch. / Suzuka Stella
+
 ### 2022-01-17 11:30:19
+
 https://www.youtube.com/watch?v=tdErTfBBw_c
+
 #### UgwpTRJylIbOUwM1n414AaABAg
+
 🔔Start🔔 00:01:53
 
 
@@ -59,7 +64,10 @@ https://www.youtube.com/watch?v=tdErTfBBw_c
 
 🔔Ending🔔 01:58:55
 
+
+
 #### Ugx5Kv_FcNhAYoQkhwB4AaABAg
+
 Sooo good!:_テンション: :_テンキュー:
 
 
@@ -70,7 +78,10 @@ Sooo good!:_テンション: :_テンキュー:
 
 いつか、ステージで３Dスーちゃんがみる楽しみにです　（期待:_かわいい:）
 
+
+
 #### UgysxG3pRIahDuxTNlN4AaABAg
+
 30:33 
 
 Ryori haishin wa itsuka kuru kana!? 😅 Sore wa mittai na...

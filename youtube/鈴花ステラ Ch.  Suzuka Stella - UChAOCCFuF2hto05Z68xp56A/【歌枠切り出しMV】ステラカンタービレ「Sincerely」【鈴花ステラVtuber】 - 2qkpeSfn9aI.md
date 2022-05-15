@@ -1,8 +1,13 @@
 # 【歌枠切り出しMV】ステラカンタービレ「Sincerely」【鈴花ステラ/Vtuber】
+
 ## 鈴花ステラ Ch. / Suzuka Stella
+
 ### 2021-05-17 00:00:00
+
 https://www.youtube.com/watch?v=2qkpeSfn9aI
+
 #### UgwPTeA6DlSq71WL-HV4AaABAg
+
 Tried to translate the letter from stella if theres something off let me know.
 
 Im still studying japanese and english is hard also 😊 

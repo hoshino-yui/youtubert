@@ -1,8 +1,13 @@
 # 【マイクラ】ゆったり♪掘ったり♪歌ったり♪【鈴花ステラ/めがらいと】
+
 ## 鈴花ステラ Ch. / Suzuka Stella
+
 ### 2021-09-07 11:31:03
+
 https://www.youtube.com/watch?v=hdxPiST3YEY
+
 #### UgzxE0QC2rRhRKUT6NF4AaABAg
+
 放送お疲れ様でした! 
 
 あまり歌ばかり聞かないでマインクラフトも見てください！

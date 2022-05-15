@@ -1,8 +1,13 @@
 # 【歌枠】 アイドルステラ、オンステージ！りんりんヒットスタジオ！【鈴花ステラ/めがらいと】
+
 ## 鈴花ステラ Ch. / Suzuka Stella
+
 ### 2021-09-04 11:00:21
+
 https://www.youtube.com/watch?v=TCVfU__Cods
+
 #### Ugyr72ipc5iw-tcCfa14AaABAg
+
 歌リスト  Song List
 
 01.  00:08:57  私、アイドル宣言
@@ -53,7 +58,10 @@ END
 
 02:32:38  七色ジェット彗星
 
+
+
 #### UgyFQZYh3lmgbAnCaEx4AaABAg
+
 8:54	私、アイドル宣言 / CHiCO with HoneyWorks
 
 		Watashi, Idol Sengen / CHiCO with HoneyWorks

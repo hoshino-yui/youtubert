@@ -1,8 +1,13 @@
 # 【歌枠】オリジナル曲公開記念歌枠！【鈴花ステラ/めがらいと】
+
 ## 鈴花ステラ Ch. / Suzuka Stella
+
 ### 2021-10-15 11:30:19
+
 https://www.youtube.com/watch?v=MGUX-9AdoRw
+
 #### UgxxRbxaJEz165cpgrl4AaABAg
+
 歌リスト  Song List
 
 01. 00:09:55  花は咲く / 花は咲くプロジェクト
@@ -25,7 +30,10 @@ https://www.youtube.com/watch?v=MGUX-9AdoRw
 
 01:01:02  月花 / 鈴花ステラ
 
+
+
 #### UgxRiCbT22evBRDWfN14AaABAg
+
 オリジナル曲おめでとうございます💕
 
 16:37　世界に一つだけの花

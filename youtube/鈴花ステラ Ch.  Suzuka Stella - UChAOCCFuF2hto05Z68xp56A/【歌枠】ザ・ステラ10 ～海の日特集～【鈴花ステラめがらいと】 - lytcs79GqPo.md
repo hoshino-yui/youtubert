@@ -1,18 +1,29 @@
 # 【歌枠】ザ・ステラ10 ～海の日特集～【鈴花ステラ/めがらいと】
+
 ## 鈴花ステラ Ch. / Suzuka Stella
+
 ### 2021-07-21 11:30:12
+
 https://www.youtube.com/watch?v=lytcs79GqPo
+
 #### UgyX9lkM40VZIU4zVTx4AaABAg
+
 I heard one of my favourite songs and cover by Stella, Thank You!!!
 
 1:32:29
 
+
+
 #### UgzvuKOpO7T041YOe6F4AaABAg
+
 That night su chan voice  is  perfect
 
 7月24日 19:00公演 楽しみにしています。 素敵な姿でファンを魅了しましょう
 
+
+
 #### UgzouYmmjJpfkcol1jJ4AaABAg
+
 SET LIST
 
 1.	0:12:32	ウミユリ海底譚

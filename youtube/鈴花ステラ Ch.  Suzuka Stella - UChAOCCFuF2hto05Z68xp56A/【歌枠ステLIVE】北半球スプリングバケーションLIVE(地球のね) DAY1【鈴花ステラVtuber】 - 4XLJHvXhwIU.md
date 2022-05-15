@@ -1,8 +1,13 @@
 # 【歌枠/ステLIVE】北半球スプリングバケーションLIVE(地球のね) DAY1【鈴花ステラ/Vtuber】
+
 ## 鈴花ステラ Ch. / Suzuka Stella
+
 ### 2021-03-20 11:00:18
+
 https://www.youtube.com/watch?v=4XLJHvXhwIU
+
 #### Ugwhu8CMefbPEPaCsY14AaABAg
+
 セットリスト
 
 7:38　　 １．私、アイドル宣言
@@ -19,7 +24,10 @@ https://www.youtube.com/watch?v=4XLJHvXhwIU
 
 1:09:18　アンコール．花に亡霊
 
+
+
 #### UgyhPAfBm4ZJ15uilrp4AaABAg
+
 セトリ／Set List
 
 

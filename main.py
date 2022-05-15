@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 import json
+import os.path
 import sys
 
 import yt_dlp
@@ -13,34 +14,49 @@ from typing import List
 
 def write_video(video: Video):
     try:
-        write_file(video.channel,
-                   video.channel_id,
-                   video.title,
-                   video.video_id,
-                   video.webpage_url,
-                   video.timestamp,
-                   video.comments)
+        file_lines = generate_markdown_lines(video.channel,
+                                             video.title,
+                                             video.webpage_url,
+                                             video.timestamp,
+                                             video.comments)
+        if file_lines:
+            filename = generate_filename(video.channel, video.channel_id, video.title, video.video_id)
+            write_file(filename, file_lines)
     except IOError as e:
         print(f"Failed to write video {video.video_id} - {video.title}")
         print(e)
 
 
-def write_file(channel, channel_id, title, video_id, webpage_url, timestamp, comments: List[Comment]):
-    if len(comments) == 0:
-        return
+def create_and_write_file(filename):
+    Path(os.path.dirname(filename)).mkdir(parents=True, exist_ok=True)
+    return Path(filename).open('w')
 
+
+def generate_filename(channel, channel_id, title, video_id):
     folder_name = f"youtube/{utils.clean_filename(channel)} - {channel_id}"
     filename = f"{folder_name}/{utils.clean_filename(title)} - {video_id}.md"
-    Path(folder_name).mkdir(parents=True, exist_ok=True)
-    with Path(filename).open('w') as file:
-        file.write(f"# {title}\n")
-        file.write(f"## {channel}\n")
-        file.write(f"### {timestamp}\n")
-        file.write(f"{webpage_url}\n")
-        for comment in comments:
-            file.write(f"#### {comment.id}\n")
-            file.write(f"{comment.text_markdown()}\n")
-            file.write("\n")
+    return filename
+
+
+def generate_markdown_lines(channel, title, webpage_url, timestamp, comments: List[Comment]):
+    if len(comments) == 0:
+        return None
+
+    lines = [f"# {title}",
+             f"## {channel}",
+             f"### {timestamp}",
+             f"{webpage_url}"]
+
+    for comment in comments:
+        lines.append(f"#### {comment.id}")
+        lines.extend(comment.text_lines())
+        lines.append('')
+    return lines
+
+
+def write_file(filename, lines):
+    with create_and_write_file(filename) as file:
+        file.write("\n\n".join(lines))
 
 
 def extract_timestamp(video):
