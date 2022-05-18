@@ -6,50 +6,6 @@
 
 https://www.youtube.com/watch?v=GZPAWDBqRP4
 
-#### UgwixVuMYz1BbgvmS0d4AaABAg
-
-~ Setlist, part 2 (ENGLISH) ~
-
-continued from https://www.youtube.com/watch?v=cE7Y9sS-JiM
-
-
-
-3:26	7: Moonlight Densetsu | DALI
-
-11:44	6: Tsuki no Waltz | Mio Isayama
-
-18:45	5: Tsukiakari no Michishirube | Stereopony
-
-26:23	4: Tsuki no Shizuku | Kou Shibasaki
-
-34:15	3: Oborozukiyo (traditional)
-
-38:08	2: Mikazuki | Ayaka
-
-43:54	1: Gekkou | Chihiro Onitsuka
-
-
-
-~ ENCORE ~
-
-52:55	Karma | Bump of Chicken
-
-58:06	Rolling Star | YUI
-
-1:02:42	Arigatou | Ikimonogakari
-
-1:11:08	Tenshi ni Furetayo! | Ho-kago Tea Time
-
-
-
-~ ENDING ~
-
-1:17:51 Gekkou | Chihiro Onitsuka
-
-Music video can be viewed here: https://www.youtube.com/watch?v=RMWISckQv64
-
-
-
 #### Ugxkh3nvrlAuH97wVml4AaABAg
 
 歌枠  SET LIST セットリスト 
@@ -117,4 +73,48 @@ Part 1 / 10~7位 ▶ https://youtu.be/cE7Y9sS-JiM
 ~ END ~
 
 1:17:50 ▶ 【 月光 】 ◀ https://youtu.be/RMWISckQv64
+
+
+
+#### UgwixVuMYz1BbgvmS0d4AaABAg
+
+~ Setlist, part 2 (ENGLISH) ~
+
+continued from https://www.youtube.com/watch?v=cE7Y9sS-JiM
+
+
+
+3:26	7: Moonlight Densetsu | DALI
+
+11:44	6: Tsuki no Waltz | Mio Isayama
+
+18:45	5: Tsukiakari no Michishirube | Stereopony
+
+26:23	4: Tsuki no Shizuku | Kou Shibasaki
+
+34:15	3: Oborozukiyo (traditional)
+
+38:08	2: Mikazuki | Ayaka
+
+43:54	1: Gekkou | Chihiro Onitsuka
+
+
+
+~ ENCORE ~
+
+52:55	Karma | Bump of Chicken
+
+58:06	Rolling Star | YUI
+
+1:02:42	Arigatou | Ikimonogakari
+
+1:11:08	Tenshi ni Furetayo! | Ho-kago Tea Time
+
+
+
+~ ENDING ~
+
+1:17:51 Gekkou | Chihiro Onitsuka
+
+Music video can be viewed here: https://www.youtube.com/watch?v=RMWISckQv64
 
