@@ -6,28 +6,6 @@
 
 https://www.youtube.com/watch?v=orRYJvs6M_Q
 
-#### UgyUf0W06_lIAPTPQc54AaABAg
-
-2:30
-
-3:15
-
-3:19
-
-17:54
-
-21:03
-
-21:33
-
-21:57
-
-22:35
-
-31:49
-
-
-
 #### Ugxmu_LXIOgrGQRqNDl4AaABAg
 
 以為全篇精華就標唔到時間點？nonono peko
@@ -79,4 +57,26 @@ https://www.youtube.com/watch?v=orRYJvs6M_Q
 28:20
 
 28:45
+
+
+
+#### UgyUf0W06_lIAPTPQc54AaABAg
+
+2:30
+
+3:15
+
+3:19
+
+17:54
+
+21:03
+
+21:33
+
+21:57
+
+22:35
+
+31:49
 
