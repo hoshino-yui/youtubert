@@ -1,61 +1,27 @@
 #!/usr/bin/env python3
 import json
-import os.path
 import sys
 
 import yt_dlp
 import utils
 from datetime import datetime
-from pathlib import Path
 from model.Comment import Comment
 from model.Video import Video
-from typing import List
 
 
 def write_video(video: Video):
     try:
-        file_lines = generate_markdown_lines(video.channel,
-                                             video.title,
-                                             video.webpage_url,
-                                             video.timestamp,
-                                             video.comments)
+        file_lines = video.generate_markdown_lines()
         if file_lines:
-            filename = generate_filename(video.channel, video.channel_id, video.title, video.video_id)
+            filename = video.generate_filename()
             write_file(filename, file_lines)
     except IOError as e:
         print(f"Failed to write video {video.video_id} - {video.title}")
         print(e)
 
 
-def create_and_write_file(filename):
-    Path(os.path.dirname(filename)).mkdir(parents=True, exist_ok=True)
-    return Path(filename).open('w')
-
-
-def generate_filename(channel, channel_id, title, video_id):
-    folder_name = f"youtube/{utils.clean_filename(channel)} - {channel_id}"
-    filename = f"{folder_name}/{utils.clean_filename(title)} - {video_id}.md"
-    return filename
-
-
-def generate_markdown_lines(channel, title, webpage_url, timestamp, comments: List[Comment]):
-    if len(comments) == 0:
-        return None
-
-    lines = [f"# {title}",
-             f"## {channel}",
-             f"### {timestamp}",
-             f"{webpage_url}"]
-
-    for comment in comments:
-        lines.append(f"#### {comment.id}")
-        lines.extend(comment.text_lines())
-        lines.append('')
-    return lines
-
-
 def write_file(filename, lines):
-    with create_and_write_file(filename) as file:
+    with utils.create_and_write_file(filename) as file:
         file.write("\n\n".join(lines))
 
 
@@ -114,8 +80,9 @@ def extract_channel_or_video(url):
         if info['_type'] == 'video':
             process_video(info)
         else:
-            for video in filter(None, info["entries"]):
-                process_video(video)
+            for video in info["entries"]:
+                if video:
+                    process_video(video)
 
 
 if __name__ == '__main__':
