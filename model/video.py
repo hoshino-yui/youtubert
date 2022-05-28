@@ -1,5 +1,5 @@
 import utils
-from model.Comment import Comment
+from model.comment import Comment
 from datetime import datetime
 from dataclasses import dataclass
 from typing import List

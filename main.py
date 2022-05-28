@@ -5,8 +5,8 @@ import sys
 import yt_dlp
 import utils
 from datetime import datetime
-from model.Comment import Comment
-from model.Video import Video
+from model.comment import Comment
+from model.video import Video
 
 
 def write_video(video: Video):
