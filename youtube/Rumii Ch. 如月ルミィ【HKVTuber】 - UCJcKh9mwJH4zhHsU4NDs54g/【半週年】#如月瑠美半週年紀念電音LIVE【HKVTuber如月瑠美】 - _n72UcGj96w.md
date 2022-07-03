@@ -40,23 +40,3 @@ Waves 33:00
 
 1:05:13 -ERROR
 
-
-
-#### UgyVimyWSalNCwi7Fm54AaABAg
-
-1. 5:54 KING
-
-2. 12:31 Gimme×Gimme
-
-3. 21:58 Masked bitcH
-
-4. 32:59 WAVE
-
-5 41:43 lllトゥルティンアンテナlll
-
-6. 51:54 極楽浄土
-
-7. 59:30 ECHO
-
-Encore 1:05:14 ERROR
-
