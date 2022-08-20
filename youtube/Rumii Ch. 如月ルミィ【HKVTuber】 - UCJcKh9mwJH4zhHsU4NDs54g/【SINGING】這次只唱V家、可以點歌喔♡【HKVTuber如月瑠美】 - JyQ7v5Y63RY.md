@@ -6,6 +6,22 @@
 
 https://www.youtube.com/watch?v=JyQ7v5Y63RY
 
+#### UgzQGi-KzSM7b5Tt61p4AaABAg
+
+32:49 9叫
+
+41:59 為左滿足你哋 我加油發出令你地如月嘅聲音
+
+42:55 第一次嘗試唱6
+
+43:30 如月的聲音 +開始唱
+
+44:23 同上
+
+46:21 同上
+
+
+
 #### UgyFXUEk2LkHxDE6-9V4AaABAg
 
 VOCALOID ONLY回
@@ -101,20 +117,4 @@ VOCALOID ONLY回
 1:13:24 結尾
 
 1:14:12 ED
-
-
-
-#### UgzQGi-KzSM7b5Tt61p4AaABAg
-
-32:49 9叫
-
-41:59 為左滿足你哋 我加油發出令你地如月嘅聲音
-
-42:55 第一次嘗試唱6
-
-43:30 如月的聲音 +開始唱
-
-44:23 同上
-
-46:21 同上
 

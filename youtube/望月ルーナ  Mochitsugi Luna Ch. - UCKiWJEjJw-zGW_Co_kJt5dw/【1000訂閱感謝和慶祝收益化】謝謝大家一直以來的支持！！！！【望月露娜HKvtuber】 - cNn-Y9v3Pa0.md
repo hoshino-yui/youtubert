@@ -6,22 +6,6 @@
 
 https://www.youtube.com/watch?v=cNn-Y9v3Pa0
 
-#### Ugxf2Jju1XKlCR4mvpR4AaABAg
-
-Dear Luna,
-
-
-
-  Only managed to appear on the last moment of this stream (and drunk) so allow me to rephrase my words here.
-
-   Congrats on monetization and am honoured to be mentioned as one of your fans. Will try to appear as often as I can, while expecting even better streams to come.
-
-   May grace and happiness be with you always,
-
-~Tsuyuri Watanuki(狸) 58:06
-
-
-
 #### UgwCexIctpdAWCgVdtt4AaABAg
 
 戴定頭盔唔知有冇錯, Vtubers可以尋仇用
@@ -81,6 +65,22 @@ Dear Luna,
 33:09 雪見とら YukimiTora 
 
 太多V我諗露娜都唔想唔記得講嘅
+
+
+
+#### Ugxf2Jju1XKlCR4mvpR4AaABAg
+
+Dear Luna,
+
+
+
+  Only managed to appear on the last moment of this stream (and drunk) so allow me to rephrase my words here.
+
+   Congrats on monetization and am honoured to be mentioned as one of your fans. Will try to appear as often as I can, while expecting even better streams to come.
+
+   May grace and happiness be with you always,
+
+~Tsuyuri Watanuki(狸) 58:06
 
 
 
