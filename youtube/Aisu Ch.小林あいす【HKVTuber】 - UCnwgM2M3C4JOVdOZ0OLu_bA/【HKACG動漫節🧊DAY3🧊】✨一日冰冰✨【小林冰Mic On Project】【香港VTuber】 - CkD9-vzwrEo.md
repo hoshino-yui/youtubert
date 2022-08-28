@@ -16,19 +16,19 @@ NEVER GONNA GIVE YOU UP
 
 
 
-#### UgysWnMwtgN2kQvCkiN4AaABAg
-
-1:58:05
-
-一萬訂的瞬間
-
-
-
 #### UgyYXfSjUEMst73rRsh4AaABAg
 
 4:34:50 
 
 我是這位龜頭先生的粉絲
+
+
+
+#### UgysWnMwtgN2kQvCkiN4AaABAg
+
+1:58:05
+
+一萬訂的瞬間
 
 
 
