@@ -8,15 +8,15 @@ https://www.youtube.com/watch?v=7EkyGVvATsA
 
 #### Ugyb6QhbLKYw0Ss0EWp4AaABAg
 
-Song List:_rice::_rice::_rice:
+Song List□□□
 
 07:14 深海(水母)少女□
 
-25:36 海闊天空:_kusa:
+25:36 海闊天空□
 
-36:30 相對濕度:_NOOO:
+36:30 相對濕度□
 
-41:42 我我我我我有胸部(清唱):_kusa:
+41:42 我我我我我有胸部(清唱)□
 
 46:08 花海□
 
@@ -26,7 +26,7 @@ Song List:_rice::_rice::_rice:
 
 同場加映
 
-17:56 水母烹調法？！□:_反眼殿:
+17:56 水母烹調法？！□□
 
-以上:_raburabu:
+以上□
 

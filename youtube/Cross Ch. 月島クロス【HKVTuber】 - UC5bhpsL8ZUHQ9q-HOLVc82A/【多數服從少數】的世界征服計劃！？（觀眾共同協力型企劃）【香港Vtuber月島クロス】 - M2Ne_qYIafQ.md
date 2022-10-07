@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=M2Ne_qYIafQ
 
 00:04:57 玩法說明
 
-（大量寵殿選擇題:_raburabu:）
+（大量寵殿選擇題□）
 
 01:14:35 全文朗讀
 

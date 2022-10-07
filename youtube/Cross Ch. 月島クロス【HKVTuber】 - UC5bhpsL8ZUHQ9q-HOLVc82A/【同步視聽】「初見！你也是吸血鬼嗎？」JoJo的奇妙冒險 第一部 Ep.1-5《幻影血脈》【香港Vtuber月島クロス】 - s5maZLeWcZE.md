@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=s5maZLeWcZE
 
 #### UgxjpjE3ruyPizjQdNp4AaABAg
 
-因為開工跟唔到台。。。:_WTF:
+因為開工跟唔到台。。。□
 
 只能打個招呼
 

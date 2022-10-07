@@ -6,6 +6,14 @@
 
 https://www.youtube.com/watch?v=Fp3_F-usj_I
 
+#### Ugw2LLhncNgMSlDUyWN4AaABAg
+
+殿下：Why am i still here? Just to suffer?
+
+這集真的超好笑www 1:29:18 你SC了沒啊，沒有SC不能握手的耶
+
+
+
 #### Ugwq8kpYfQutJ29JGK94AaABAg
 
 1:27:43

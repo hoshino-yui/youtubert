@@ -10,5 +10,5 @@ https://www.youtube.com/watch?v=fo_hpiM_MPI
 
 47:04
 
-殿下悅耳的叫聲:_raburabu:
+殿下悅耳的叫聲□
 
