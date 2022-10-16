@@ -68,7 +68,7 @@ def extract_channel_or_video(url):
         "ignoreerrors": True,
         "extractor_args": {'youtube': {
             # 'max_comments': ['100'],
-            'skip': ['dash', 'hls'],
+            'skip': ['dash'],
             'comment_sort': ['top']}}
     }
     with yt_dlp.YoutubeDL(ydl_opts) as ydl:
