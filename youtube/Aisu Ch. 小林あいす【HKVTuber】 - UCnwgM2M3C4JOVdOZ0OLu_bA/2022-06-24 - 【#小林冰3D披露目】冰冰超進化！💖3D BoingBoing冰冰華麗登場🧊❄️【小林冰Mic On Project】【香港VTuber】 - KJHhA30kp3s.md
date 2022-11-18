@@ -1,6 +1,6 @@
 # 【#小林冰3D披露目】冰冰超進化！💖3D BoingBoing冰冰華麗登場🧊❄️【小林冰/Mic On Project】【香港VTuber】
 
-## Aisu Ch.小林あいす【HKVTuber】
+## Aisu Ch. 小林あいす【HKVTuber】
 
 ### 2022-06-24 12:31:29
 

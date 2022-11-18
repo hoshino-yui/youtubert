@@ -1,6 +1,6 @@
 # 【歌枠】今晚只唱動漫歌！來聽最可愛的冰唱歌吧⁽⁽ ◟(灬 ˊωˋ 灬)◞ ⁾⁾ 【小林あいす/Mic On Project】【香港VTuber】
 
-## Aisu Ch.小林あいす【HKVTuber】
+## Aisu Ch. 小林あいす【HKVTuber】
 
 ### 2021-04-08 12:30:54
 

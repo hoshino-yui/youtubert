@@ -1,20 +1,10 @@
 # 【Among Us】冰冰對雪米糍發出了挑戰！爾虞我詐的宇宙人狼殺！【小林あいす/Mic On Project】【香港VTuber】
 
-## Aisu Ch.小林あいす【HKVTuber】
+## Aisu Ch. 小林あいす【HKVTuber】
 
 ### 2021-03-02 12:30:38
 
 https://www.youtube.com/watch?v=lZI1QwiT1-k
-
-#### UgwmWP6c8g7SOGqNW3B4AaABAg
-
-18:48 我認為係最刺激，最緊張的一場
-
-29:39 最冇嫌疑嗰個先係殺手，冇錯橙色嗰個就係我
-
-1:49:31 我認為係一場好難到的 緣分， 我明白阿冰一守護阿糖，  阿冰唔會為咗又係身份係殺手而出賣同伴阿糖， 所以我殺其他人先
-
-
 
 #### UgyyJZFA7l_brM5vcVx4AaABAg
 
@@ -35,6 +25,16 @@ https://www.youtube.com/watch?v=lZI1QwiT1-k
 1:52:13
 
 2:07:22
+
+
+
+#### UgwmWP6c8g7SOGqNW3B4AaABAg
+
+18:48 我認為係最刺激，最緊張的一場
+
+29:39 最冇嫌疑嗰個先係殺手，冇錯橙色嗰個就係我
+
+1:49:31 我認為係一場好難到的 緣分， 我明白阿冰一守護阿糖，  阿冰唔會為咗又係身份係殺手而出賣同伴阿糖， 所以我殺其他人先
 
 
 

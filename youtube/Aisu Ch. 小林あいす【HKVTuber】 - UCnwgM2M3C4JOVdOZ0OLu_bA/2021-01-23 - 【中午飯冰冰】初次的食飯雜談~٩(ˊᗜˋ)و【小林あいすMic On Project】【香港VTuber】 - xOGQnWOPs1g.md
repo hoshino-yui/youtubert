@@ -1,6 +1,6 @@
 # 【中午飯冰冰】初次的食飯雜談~٩(ˊᗜˋ*)و【小林あいす/Mic On Project】【香港VTuber】
 
-## Aisu Ch.小林あいす【HKVTuber】
+## Aisu Ch. 小林あいす【HKVTuber】
 
 ### 2021-01-23 05:00:06
 

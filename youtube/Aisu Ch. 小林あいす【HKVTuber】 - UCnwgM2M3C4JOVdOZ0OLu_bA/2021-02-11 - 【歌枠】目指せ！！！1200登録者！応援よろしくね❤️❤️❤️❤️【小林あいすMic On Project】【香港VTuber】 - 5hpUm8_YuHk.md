@@ -1,6 +1,6 @@
 # 【歌枠】目指せ！！！1200登録者！応援よろしくね❤️❤️❤️❤️【小林あいす/Mic On Project】【香港VTuber】
 
-## Aisu Ch.小林あいす【HKVTuber】
+## Aisu Ch. 小林あいす【HKVTuber】
 
 ### 2021-02-11 12:00:37
 

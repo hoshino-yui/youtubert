@@ -1,6 +1,6 @@
 # 【貓貓日】嗚喵嗚喵嗚喵嗚喵【小林あいす/Mic On Project】【香港VTuber】
 
-## Aisu Ch.小林あいす【HKVTuber】
+## Aisu Ch. 小林あいす【HKVTuber】
 
 ### 2022-02-22 14:09:30
 

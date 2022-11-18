@@ -1,6 +1,6 @@
 # 【歌回】μ's限定【小林あいす/Mic On Project】【香港VTuber】
 
-## Aisu Ch.小林あいす【HKVTuber】
+## Aisu Ch. 小林あいす【HKVTuber】
 
 ### 2021-10-17 07:08:52
 

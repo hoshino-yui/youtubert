@@ -1,6 +1,6 @@
 # 【ゲリラ】小林冰：我要養聲；也是小林冰：我要開突發歌雜【小林冰/Mic On Project】【香港VTuber】
 
-## Aisu Ch.小林あいす【HKVTuber】
+## Aisu Ch. 小林あいす【HKVTuber】
 
 ### 2022-06-18 14:26:54
 

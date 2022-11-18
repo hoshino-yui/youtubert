@@ -1,6 +1,6 @@
 # 【耐久】2000訂閲者前一邊唱歌等候_( ´ ω `_)⌒)_。【小林あいす/Mic On Project】【香港VTuber】
 
-## Aisu Ch.小林あいす【HKVTuber】
+## Aisu Ch. 小林あいす【HKVTuber】
 
 ### 2021-03-09 12:00:13
 

@@ -1,6 +1,6 @@
 # 【棉花糖】來用營業聲線讀半週年主題的棉花糖✧٩(ˊωˋ*)و✧ 【小林あいす/Mic On Project】【香港VTuber】
 
-## Aisu Ch.小林あいす【HKVTuber】
+## Aisu Ch. 小林あいす【HKVTuber】
 
 ### 2021-06-22 12:30:38
 

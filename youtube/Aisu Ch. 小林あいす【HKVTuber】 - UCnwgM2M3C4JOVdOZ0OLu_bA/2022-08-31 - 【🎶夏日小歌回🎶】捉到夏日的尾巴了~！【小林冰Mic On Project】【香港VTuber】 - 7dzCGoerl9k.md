@@ -1,6 +1,6 @@
 # 【🎶夏日小歌回🎶】捉到夏日的尾巴了~！【小林冰/Mic On Project】【香港VTuber】
 
-## Aisu Ch.小林あいす【HKVTuber】
+## Aisu Ch. 小林あいす【HKVTuber】
 
 ### 2022-08-31 12:33:35
 

@@ -1,6 +1,6 @@
 # 【HKACG動漫節🧊DAY3🧊】✨一日冰冰✨【小林冰/Mic On Project】【香港VTuber】
 
-## Aisu Ch.小林あいす【HKVTuber】
+## Aisu Ch. 小林あいす【HKVTuber】
 
 ### 2022-07-31 05:57:07
 
@@ -16,6 +16,14 @@ NEVER GONNA GIVE YOU UP
 
 
 
+#### UgysWnMwtgN2kQvCkiN4AaABAg
+
+1:58:05
+
+一萬訂的瞬間
+
+
+
 #### UgyYXfSjUEMst73rRsh4AaABAg
 
 4:34:50 
@@ -24,11 +32,11 @@ NEVER GONNA GIVE YOU UP
 
 
 
-#### UgysWnMwtgN2kQvCkiN4AaABAg
+#### UgxpMWpB-l9buLrklJF4AaABAg
 
-1:58:05
+2:52:42
 
-一萬訂的瞬間
+冰冰撞鬼（青鬼）🤣🤣
 
 
 

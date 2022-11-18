@@ -1,6 +1,6 @@
 # 【Getting Over It #5】...爆粗即收台。【小林あいす/Mic On Project】【香港VTuber】
 
-## Aisu Ch.小林あいす【HKVTuber】
+## Aisu Ch. 小林あいす【HKVTuber】
 
 ### 2022-01-05 12:29:54
 

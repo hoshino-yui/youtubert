@@ -1,6 +1,6 @@
 # 【歌會】V家老人會呼哈呼哈(´ε｀；)【小林あいす/Mic On Project】【香港VTuber】
 
-## Aisu Ch.小林あいす【HKVTuber】
+## Aisu Ch. 小林あいす【HKVTuber】
 
 ### 2021-10-07 12:32:23
 

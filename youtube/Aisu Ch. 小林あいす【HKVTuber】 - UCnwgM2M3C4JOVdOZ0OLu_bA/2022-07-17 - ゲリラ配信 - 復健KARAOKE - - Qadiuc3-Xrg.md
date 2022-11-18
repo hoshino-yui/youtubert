@@ -1,6 +1,6 @@
 # ゲリラ配信 - 復健KARAOKE -
 
-## Aisu Ch.小林あいす【HKVTuber】
+## Aisu Ch. 小林あいす【HKVTuber】
 
 ### 2022-07-17 15:31:18
 

@@ -1,6 +1,6 @@
 # 【歌枠】あけおめ！！！初めての歌枠ヾ(*´∀｀*)ﾉ♪ 【小林あいす/Mic On Project】【香港VTuber】
 
-## Aisu Ch.小林あいす【HKVTuber】
+## Aisu Ch. 小林あいす【HKVTuber】
 
 ### 2021-01-02 12:31:15
 

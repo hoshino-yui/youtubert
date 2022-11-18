@@ -1,6 +1,6 @@
 # 【10K訂閱紀念歌回】謝謝你們一直的支持。請聽我的歌吧！【小林冰/Mic On Project】【香港VTuber】
 
-## Aisu Ch.小林あいす【HKVTuber】
+## Aisu Ch. 小林あいす【HKVTuber】
 
 ### 2022-08-08 12:30:09
 
