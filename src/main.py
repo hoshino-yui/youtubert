@@ -39,8 +39,12 @@ def extract_comment(comment):
     return Comment(comment["id"], comment["text"])
 
 
-def extract_comments(comments):
-    return [extract_comment(comment) for comment in comments if utils.comment_is_song_list(comment["text"])]
+def extract_comments(video):
+    if video["comments"]:
+        comments = video["comments"]
+        return [extract_comment(comment) for comment in comments if utils.comment_is_song_list(comment["text"])]
+    else:
+        return []
 
 
 def extract_video(video) -> Video:
@@ -51,7 +55,7 @@ def extract_video(video) -> Video:
         video["id"],
         video["webpage_url"],
         extract_timestamp(video),
-        extract_comments(video["comments"])
+        extract_comments(video)
     )
 
 
