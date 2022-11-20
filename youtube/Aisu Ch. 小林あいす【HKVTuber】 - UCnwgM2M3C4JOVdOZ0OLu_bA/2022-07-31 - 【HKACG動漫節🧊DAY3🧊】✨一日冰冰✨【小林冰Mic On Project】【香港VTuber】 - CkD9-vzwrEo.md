@@ -16,6 +16,14 @@ NEVER GONNA GIVE YOU UP
 
 
 
+#### UgyYXfSjUEMst73rRsh4AaABAg
+
+4:34:50 
+
+我是這位龜頭先生的粉絲
+
+
+
 #### UgysWnMwtgN2kQvCkiN4AaABAg
 
 1:58:05
@@ -24,7 +32,7 @@ NEVER GONNA GIVE YOU UP
 
 
 
-#### UgyYXfSjUEMst73rRsh4AaABAg
+#### UgxhBW4dBmKrHVnIS6d4AaABAg
 
 4:34:50 
 
@@ -37,12 +45,4 @@ NEVER GONNA GIVE YOU UP
 2:52:42
 
 冰冰撞鬼（青鬼）🤣🤣
-
-
-
-#### UgxhBW4dBmKrHVnIS6d4AaABAg
-
-4:34:50 
-
-我是這位龜頭先生的粉絲
 
