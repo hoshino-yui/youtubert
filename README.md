@@ -9,5 +9,5 @@ pip3 install yt-dlp
 
 ## Run
 ```
-python3 main.py "https://www.youtube.com/watch?v=K4VKJAK3kyU"
+python3 src/main.py "https://www.youtube.com/watch?v=K4VKJAK3kyU"
 ```
