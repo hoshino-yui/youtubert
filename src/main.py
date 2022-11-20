@@ -61,11 +61,19 @@ def extract_video(video) -> Video:
 
 def process_video(video):
     video = extract_video(video)
-    print(video)
     write_video(video)
 
 
-def extract_channel_or_video(url):
+def extract_entry(entry):
+    if entry.get('_type') == 'playlist':
+        for sub_entry in entry["entries"]:
+            if sub_entry:
+                extract_entry(sub_entry)
+    else:
+        process_video(entry)
+
+
+def extract_url(url):
     ydl_opts = {
         "getcomments": True,
         "extractor_retries": 3,
@@ -80,15 +88,9 @@ def extract_channel_or_video(url):
         info = ydl.sanitize_info(info)
         # json.dump(info, sys.stdout)
         # print()
-
-        if info['_type'] == 'video':
-            process_video(info)
-        else:
-            for video in info["entries"]:
-                if video:
-                    process_video(video)
+        extract_entry(info)
 
 
 if __name__ == '__main__':
     for arg in sys.argv[1:]:
-        extract_channel_or_video(arg)
+        extract_url(arg)
