@@ -28,6 +28,8 @@ https://www.youtube.com/watch?v=5pQ1fxDorLs
 
 1:06:58 誇り高きアイドル
 
+1:13:05 Happy Birthday (EN)
+
 -------------------------------------------------------------------------
 
 Rumii生日快樂:_rumiiheart::_rumiiheart: 頭先有嘢做唔得閒:_smile:

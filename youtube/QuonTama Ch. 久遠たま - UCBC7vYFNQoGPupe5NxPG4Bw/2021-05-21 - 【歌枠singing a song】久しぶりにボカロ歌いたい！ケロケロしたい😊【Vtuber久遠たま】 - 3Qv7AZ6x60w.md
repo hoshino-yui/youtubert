@@ -62,7 +62,7 @@ ED. 1:36:35 夜もすがら君想ふ ／ TOKOTOKO(西沢さんP)
 
 #### Ugw_0HDTB62MKrMpSJF4AaABAg.9NbKt9RROQ99NbWmVpOmGW
 
- @レノ   ok, I can't edit message ,there is a bug. I post here.
+ レノ   ok, I can't edit message ,there is a bug. I post here.
 
 
 

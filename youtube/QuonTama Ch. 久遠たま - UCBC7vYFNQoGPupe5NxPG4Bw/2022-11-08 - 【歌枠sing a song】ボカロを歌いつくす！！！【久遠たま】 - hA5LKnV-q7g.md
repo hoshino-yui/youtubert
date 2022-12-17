@@ -128,6 +128,20 @@ https://www.youtube.com/watch?v=hA5LKnV-q7g
 
 
 
+#### UgzihEIng7jBT1MhD-Z4AaABAg.9iAfh5vZT9n9iAkl7jCfSF
+
+1:06:40 ちゅ
+
+1:59:49 薬飲みアラーム音:_www:
+
+2:15:35 トイレ！
+
+3:02:25 誰がいる！？ホラー！？:_てんてんてん:
+
+3:02:41 ママー！
+
+
+
 #### UgzTWiSnM93ns6ijc2x4AaABAg
 
 ボカロ歌枠、お疲れさまでした。本日もとても良い歌声でした。
@@ -141,18 +155,4 @@ https://www.youtube.com/watch?v=hA5LKnV-q7g
 
 
 もし、次回がございましたら、Cメロから感情込めて切なく力強く歌うバージョンも聞きたいです。
-
-
-
-#### UgzihEIng7jBT1MhD-Z4AaABAg.9iAfh5vZT9n9iAkl7jCfSF
-
-1:06:40 ちゅ
-
-1:59:49 薬飲みアラーム音:_www:
-
-2:15:35 トイレ！
-
-3:02:25 誰がいる！？ホラー！？:_てんてんてん:
-
-3:02:41 ママー！
 

@@ -110,44 +110,6 @@ https://www.youtube.com/watch?v=BpU0aySc0G4
 
 
 
-#### Ugw9o067bL-JvRvUvJN4AaABAg
-
-【セットリスト】
-
-01. 0:01:59 ピースサイン ／ 米津玄師
-
-02. 0:10:32 LOVE GOOD TIME ／ SpecialThanks 
-
-03. 0:16:25 三つ葉の結び目 ／ 柳凪
-
-04. 0:21:36 GIRAFFE BLUES ／ ワルキューレ
-
-05. 0:29:51 愛錠 ／ LiSA
-
-06. 0:37:46 Deal with the devil ／ Tia
-
-07. 0:44:10 ダダダダ天使 ／ ナナヲアカリ
-
-08. 0:50:21 ニンジーン Loves you yeah! ／ 中島愛
-
-09. 0:52:41 放課後オーバーフロウ ／ 中島愛
-
-10. 1:00:27 射手座☆午後九時Don't be late ／ シェリル・ノームstarring May'n
-
-11. 1:09:16 エブリデイワールド ／ 早見沙織＆東山奈央
-
-12. 1:14:50 侵略ノススメ☆ ／ 野宮あゆみ
-
-13. 1:18:40 Fallen ／ EGOIST
-
-14. 1:24:31 Planetes ／ EGOIST
-
-15. 1:33:43 Hacking to the Gate ／ いとうかなこ
-
-ED. 1:39:25 夜もすがら君想ふ ／ TOKOTOKO(西沢さんP)
-
-
-
 #### UgyJ6MmHFr-bwzV0Rrt4AaABAg
 
 (セットリスト)
@@ -185,6 +147,44 @@ ED. 1:39:25 夜もすがら君想ふ ／ TOKOTOKO(西沢さんP)
 15.1:33:38 Hacking to the Gate/いとうかなこ
 
 ED.1:39:25 夜もすがら君想ふ／TOKOTOKO(西沢さんP)
+
+
+
+#### Ugw9o067bL-JvRvUvJN4AaABAg
+
+【セットリスト】
+
+01. 0:01:59 ピースサイン ／ 米津玄師
+
+02. 0:10:32 LOVE GOOD TIME ／ SpecialThanks 
+
+03. 0:16:25 三つ葉の結び目 ／ 柳凪
+
+04. 0:21:36 GIRAFFE BLUES ／ ワルキューレ
+
+05. 0:29:51 愛錠 ／ LiSA
+
+06. 0:37:46 Deal with the devil ／ Tia
+
+07. 0:44:10 ダダダダ天使 ／ ナナヲアカリ
+
+08. 0:50:21 ニンジーン Loves you yeah! ／ 中島愛
+
+09. 0:52:41 放課後オーバーフロウ ／ 中島愛
+
+10. 1:00:27 射手座☆午後九時Don't be late ／ シェリル・ノームstarring May'n
+
+11. 1:09:16 エブリデイワールド ／ 早見沙織＆東山奈央
+
+12. 1:14:50 侵略ノススメ☆ ／ 野宮あゆみ
+
+13. 1:18:40 Fallen ／ EGOIST
+
+14. 1:24:31 Planetes ／ EGOIST
+
+15. 1:33:43 Hacking to the Gate ／ いとうかなこ
+
+ED. 1:39:25 夜もすがら君想ふ ／ TOKOTOKO(西沢さんP)
 
 
 
