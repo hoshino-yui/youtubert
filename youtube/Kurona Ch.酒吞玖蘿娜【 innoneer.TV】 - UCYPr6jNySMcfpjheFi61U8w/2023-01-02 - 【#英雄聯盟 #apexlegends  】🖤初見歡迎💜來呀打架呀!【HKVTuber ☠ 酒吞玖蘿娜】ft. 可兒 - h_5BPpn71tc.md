@@ -1,6 +1,6 @@
 # 【#英雄聯盟 #apexlegends  】🖤初見歡迎💜來呀打架呀!【HKVTuber ☠ 酒吞玖蘿娜】ft. 可兒
 
-## Kurona Ch.酒吞玖蘿娜
+## Kurona Ch.酒吞玖蘿娜【 innoneer.TV】
 
 ### 2023-01-02 16:58:16
 

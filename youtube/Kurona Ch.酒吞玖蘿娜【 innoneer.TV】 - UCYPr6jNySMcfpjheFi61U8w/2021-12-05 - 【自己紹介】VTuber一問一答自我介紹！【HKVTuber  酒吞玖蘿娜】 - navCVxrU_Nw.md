@@ -1,6 +1,6 @@
 # 【自己紹介】VTuber一問一答自我介紹！【HKVTuber | 酒吞玖蘿娜】
 
-## Kurona Ch.酒吞玖蘿娜
+## Kurona Ch.酒吞玖蘿娜【 innoneer.TV】
 
 ### 2021-12-05 07:00:12
 

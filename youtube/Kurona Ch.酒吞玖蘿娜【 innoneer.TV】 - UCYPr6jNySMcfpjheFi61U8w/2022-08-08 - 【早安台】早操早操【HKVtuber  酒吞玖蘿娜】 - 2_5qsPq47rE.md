@@ -1,6 +1,6 @@
 # 【早安台】早操早操【HKVtuber | 酒吞玖蘿娜】
 
-## Kurona Ch.酒吞玖蘿娜
+## Kurona Ch.酒吞玖蘿娜【 innoneer.TV】
 
 ### 2022-08-08 01:59:33
 

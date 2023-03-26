@@ -1,6 +1,6 @@
 # 【睡吧歌台】你沒看錯【HKvtuber/酒吞クロナ】
 
-## Kurona Ch.酒吞玖蘿娜
+## Kurona Ch.酒吞玖蘿娜【 innoneer.TV】
 
 ### 2022-04-20 19:00:17
 

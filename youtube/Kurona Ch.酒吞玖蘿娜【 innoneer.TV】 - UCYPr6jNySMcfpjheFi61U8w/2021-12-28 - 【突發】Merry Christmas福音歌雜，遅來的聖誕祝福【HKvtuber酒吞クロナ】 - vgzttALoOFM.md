@@ -1,6 +1,6 @@
 # 【突發】Merry Christmas福音歌雜，遅來的聖誕祝福【HKvtuber/酒吞クロナ】
 
-## Kurona Ch.酒吞玖蘿娜
+## Kurona Ch.酒吞玖蘿娜【 innoneer.TV】
 
 ### 2021-12-28 05:45:53
 

@@ -1,6 +1,6 @@
 # 【壺男】一小時的挑戰【HKvtuber/酒吞クロナ】
 
-## Kurona Ch.酒吞玖蘿娜
+## Kurona Ch.酒吞玖蘿娜【 innoneer.TV】
 
 ### 2022-01-14 06:03:02
 

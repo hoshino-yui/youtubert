@@ -1,6 +1,6 @@
 # 【#apexlegends ☠參加型】初見歡迎❤槍槍時間來了【HKVTuber ☠ 酒吞玖蘿娜】
 
-## Kurona Ch.酒吞玖蘿娜
+## Kurona Ch.酒吞玖蘿娜【 innoneer.TV】
 
 ### 2022-10-24 03:30:40
 
