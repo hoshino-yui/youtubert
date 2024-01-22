@@ -35,7 +35,7 @@ function App() {
   const [searchText, setSearchText] = useState();
   const [selectedChannel, setSelectedChannel] = useState(new Set([Array.from(channels.keys())[0]]));
   const [selectedVideos, setSelectedVideos] = useState(new Set());
-  const theSearchText = searchText.trim();
+  const theSearchText = searchText ?.trim();
 
 
   let videosList = Array.from(videosMap.values());
