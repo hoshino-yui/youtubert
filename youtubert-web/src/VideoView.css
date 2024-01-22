@@ -1,0 +1,28 @@
+.video-view {
+  display: block;
+  padding: 20px;
+  margin: 5px;
+  border: 1px solid var(--border-color);
+  border-radius: 6px;
+  width: 100%;
+}
+
+span .search-text {
+  font-weight: bold;
+  background-color: var(--highlight-background);
+  color: var(--highlight-foreground);
+  border-radius: 5px;
+}
+
+.comment {
+  padding: 10px;
+  background-color: var(--highlight-pressed);
+  border-radius: 10px;
+  font-size: 0.9em;
+}
+
+iframe {
+    aspect-ratio: 16 / 9;
+    height: auto;
+    width: 100%;
+}

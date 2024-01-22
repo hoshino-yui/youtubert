@@ -1,0 +1,84 @@
+@import "@react-aria/example-theme/src/index.css";
+
+.react-aria-ListBox {
+  display: flex;
+  flex-direction: column;
+  overflow: auto;
+  max-height: 600px;
+  min-height: 600px;
+  max-width: 40%;
+  min-width: 40%;
+  margin: 5px;
+  padding: 2px;
+  border: 1px solid var(--border-color);
+  border-radius: 6px;
+  background: var(--overlay-background);
+  forced-color-adjust: none;
+  outline: none;
+  width: 40%;
+  height: 100%;
+  box-sizing: border-box;
+
+  &[data-focus-visible] {
+    outline: 2px solid var(--focus-ring-color);
+    outline-offset: -1px;
+  }
+}
+
+.react-aria-ListBoxItem {
+  margin: 2px;
+  padding: 0.286rem 0.571rem;
+  border-radius: 6px;
+  cursor: default;
+  color: var(--text-color);
+  font-size: 1.072rem;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+
+  background: var(--highlight-pressed);
+
+
+  .left-subtitle {
+    color: var(--field-text-color);
+    font-size: 0.8em;
+    margin: 5px 0;
+    float: left;
+  }
+
+  .right-subtitle {
+    color: var(--field-text-color);
+    font-size: 0.8em;
+    margin: 5px 0;
+    float: right;
+  }
+
+  h4 {
+    margin-top: 0;
+    margin-bottom: 5px;
+    font-size: 0.85em;
+  }
+
+  &[data-focus-visible] {
+    outline: 2px solid var(--focus-ring-color);
+    outline-offset: -2px;
+  }
+
+  &[data-selected] {
+    background: var(--highlight-background);
+    color: var(--highlight-foreground);
+
+    .right-subtitle {
+      color: var(--highlight-foreground);
+    }
+
+    .left-subtitle {
+      color: var(--highlight-foreground);
+    }
+
+    &[data-focus-visible] {
+      outline-color: var(--highlight-foreground);
+      outline-offset: -4px;
+    }
+  }
+}

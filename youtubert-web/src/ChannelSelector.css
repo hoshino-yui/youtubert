@@ -1,0 +1,59 @@
+.react-aria-TagList {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+}
+
+.react-aria-Tag {
+  color: var(--text-color);
+  border: 1px solid var(--border-color);
+  forced-color-adjust: none;
+  border-radius: 4px;
+  padding: 2px 8px;
+  font-size: 0.929rem;
+  outline: none;
+  cursor: default;
+  display: flex;
+  align-items: center;
+  transition: border-color 200ms;
+
+  &[data-hovered] {
+    border-color: var(--border-color-hover);
+  }
+
+  &[data-focus-visible] {
+    outline: 2px solid var(--focus-ring-color);
+    outline-offset: 2px;
+  }
+
+  &[data-selected] {
+    border-color: var(--highlight-background);
+    background: var(--highlight-background);
+    color: var(--highlight-foreground);
+
+  }
+}
+
+Button {
+  color: var(--highlight-foreground);
+  forced-color-adjust: none;
+  border-radius: 4px;
+  padding: 2px 8px;
+  margin-right: 2px;
+  margin-bottom: 2px;
+  font-size: 0.929rem;
+  outline: none;
+  cursor: default;
+  align-items: center;
+  transition: border-color 200ms;
+
+  &.positive {
+    background: #179848;
+   border: 1px solid #179848;
+ }
+
+  &.negative {
+    background: var(--invalid-color-pressed);
+  border: 1px solid var(--invalid-color-pressed);
+  }
+}
