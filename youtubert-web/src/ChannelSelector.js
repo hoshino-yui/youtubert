@@ -10,7 +10,7 @@ function ChannelSelector({channels, selectedChannel, setSelectedChannel}) {
       <Button className="negative" onPress={() => setSelectedChannel(new Set())}>Deselect All</Button>
     </div>
     <TagList>
-      {Array.from(channels).map(([c_id, c_name]) => <Tag id={c_id}>{c_name}</Tag>)}
+      {Array.from(channels).map(([c_id, c_name]) => <Tag id={c_id} key={c_id}>{c_name}</Tag>)}
     </TagList>
   </TagGroup>
 }
