@@ -35,12 +35,13 @@ function App() {
   const [searchText, setSearchText] = useState();
   const [selectedChannel, setSelectedChannel] = useState(new Set([Array.from(channels.keys())[0]]));
   const [selectedVideos, setSelectedVideos] = useState(new Set());
+  const theSearchText = searchText.trim();
 
 
   let videosList = Array.from(videosMap.values());
   videosList = videosList.filter(v => Array.from(selectedChannel).includes(v.channel_id));
-  if (searchText) {
-    videosList = videosList.filter(v => v.comments.flatMap(c => c.text.toLowerCase()).join().includes(searchText.toLowerCase()));
+  if (theSearchText) {
+    videosList = videosList.filter(v => v.comments.flatMap(c => c.text.toLowerCase()).join().includes(theSearchText.toLowerCase()));
   }
   const theVideo = videosMap.get(selectedVideos.values().next().value);
   return (
@@ -58,11 +59,11 @@ function App() {
       </div>
       <div style={{display: 'flex'}}>
         <VideoSelector videos={videosList} selectedVideos={selectedVideos} handleSelectVideo={setSelectedVideos}/>
-        <VideoView video={theVideo} searchText={searchText}/>
+        <VideoView video={theVideo} searchText={theSearchText}/>
       </div>
 
       <div>
-        searchText = {searchText}<br/>
+        searchText = {theSearchText}<br/>
         selectedVideos = {selectedVideos}<br/>
         selectedChannel = {Array.from(selectedChannel).join(', ')}<br/>
       </div>

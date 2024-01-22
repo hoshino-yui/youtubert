@@ -4,7 +4,7 @@ Archive Song List of YouTube Videos from Comments
 
 ## Install dependencies
 ```
-pip install -r .\requirements.txt
+pip install -r ./requirements.txt
 ```
 
 ## Run

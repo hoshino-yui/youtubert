@@ -19,7 +19,9 @@ function highlightText(text, searchText) {
 function VideoView({video, searchText}) {
   return (video &&
     <div className="video-view">
-      <iframe title="youtube" src={`https://www.youtube.com/embed/${video.video_id}`} allowFullScreen/>
+      <div style={{textAlign: "center"}}>
+        <iframe title="youtube" src={`https://www.youtube.com/embed/${video.video_id}`} allowFullScreen/>
+      </div>
       <div>
         <p>{video.timestamp}</p>
         <h3><a href={video.webpage_url} target="_blank" rel="noopener noreferrer">{video.title}</a></h3>
