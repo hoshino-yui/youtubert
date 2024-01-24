@@ -1,5 +1,8 @@
 name: Deploy Web
 
+permissions:
+  contents: write
+
 on:
   push:
     branches:
@@ -27,4 +30,4 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./youtubert-web/build
+          publish_dir: ./youtubert-web/public
