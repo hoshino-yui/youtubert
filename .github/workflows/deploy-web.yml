@@ -17,12 +17,14 @@ jobs:
 
       - name: Install 🔧
         run: npm install
+        working-directory: ./youtubert-web
 
       - name: Build 🏗️
         run: npm build
+        working-directory: ./youtubert-web
 
       - name: Deploy to GH Pages 🚀
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: build
+          publish_dir: ./youtubert-web/build
