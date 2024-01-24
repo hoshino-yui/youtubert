@@ -20,7 +20,7 @@ jobs:
         working-directory: ./youtubert-web
 
       - name: Build 🏗️
-        run: npm build
+        run: npm run build
         working-directory: ./youtubert-web
 
       - name: Deploy to GH Pages 🚀
