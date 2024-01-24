@@ -22,7 +22,12 @@ span .search-text {
 }
 
 iframe {
-    aspect-ratio: 16 / 9;
-    height: auto;
-    width: 90%;
+  aspect-ratio: 16 / 9;
+  height: auto;
+  width: 100%;
+}
+
+.react-aria-Link {
+  color: var(--link-color);
+  text-decoration: underline;
 }
