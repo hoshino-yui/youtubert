@@ -18,6 +18,9 @@ jobs:
         with:
           persist-credentials: false
 
+      - name: Copy data 📋
+        run: cp -r ./data ./youtubert-web/src/data
+
       - name: Install 🔧
         run: npm install
         working-directory: ./youtubert-web
