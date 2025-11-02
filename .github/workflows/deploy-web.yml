@@ -23,7 +23,7 @@ jobs:
 
       - name: Copy public data 📋
         run: |
-          apt install rename
+          sudo apt install rename
           cp -r ./data ./youtubert-web/public/data
           cd ./youtubert-web/public/data
           rename 's/^.* - (.*[.]json)$/$1/' *.json
