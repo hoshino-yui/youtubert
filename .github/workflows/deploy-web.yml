@@ -21,6 +21,13 @@ jobs:
       - name: Copy data 📋
         run: cp -r ./data ./youtubert-web/src/data
 
+      - name: Copy public data 📋
+        run: |
+          apt install rename
+          cp -r ./data ./youtubert-web/public/data
+          cd ./youtubert-web/public/data
+          rename 's/^.* - (.*[.]json)$/$1/' *.json
+
       - name: Install 🔧
         run: npm install
         working-directory: ./youtubert-web
