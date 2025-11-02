@@ -19,9 +19,6 @@ jobs:
           persist-credentials: false
 
       - name: Copy data 📋
-        run: cp -r ./data ./youtubert-web/src/data
-
-      - name: Copy public data 📋
         run: |
           sudo apt-get remove --purge man-db
           sudo apt install rename
