@@ -29,7 +29,7 @@ jobs:
       - name: Stamp build number 💮
         env:
           BUILD_NUMBER: ${{github.run_number}}
-        run: echo "$(date +'%Y%m%d.%H%M').$BUILD_NUMBER"
+        run: sed -i -- "s/%BUILD_NUMBER%/$(date +'%Y%m%d.%H%M').$BUILD_NUMBER/g" ./youtubert-web/public/index.html
 
       - name: Install 🔧
         run: npm install
