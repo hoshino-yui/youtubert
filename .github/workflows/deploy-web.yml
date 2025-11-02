@@ -20,7 +20,7 @@ jobs:
 
       - name: Copy data 📋
         run: |
-          sudo apt-get remove --purge man-db
+          echo "set man-db/auto-update false" | debconf-communicate; dpkg-reconfigure man-db
           sudo apt install rename
           cp -r ./data ./youtubert-web/public/data
           cd ./youtubert-web/public/data
