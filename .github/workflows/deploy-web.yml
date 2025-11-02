@@ -26,6 +26,11 @@ jobs:
           cd ./youtubert-web/public/data
           rename 's/^.* - (.*[.]json)$/$1/' *.json
 
+      - name: Stamp build number 💮
+        env:
+          BUILD_NUMBER: ${{github.run_number}}
+        run: echo "$(date +'%Y%m%d.%H%M').$BUILD_NUMBER"
+
       - name: Install 🔧
         run: npm install
         working-directory: ./youtubert-web
