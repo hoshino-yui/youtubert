@@ -24,7 +24,7 @@ function getAllChannels() {
 
 const retrieveChannelVideos = async ({queryKey: [_, channel_id]}) => {
   console.log('channel_id', channel_id);
-  const response = await fetch(`youtubert/data/${channel_id}.json`);
+  const response = await fetch(`data/${channel_id}.json`);
   return await response.json();
 };
 
