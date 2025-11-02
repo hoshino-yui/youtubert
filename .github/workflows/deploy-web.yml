@@ -23,6 +23,7 @@ jobs:
 
       - name: Copy public data 📋
         run: |
+          sudo apt-get remove --purge man-db
           sudo apt install rename
           cp -r ./data ./youtubert-web/public/data
           cd ./youtubert-web/public/data
