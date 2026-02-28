@@ -26,7 +26,7 @@ jobs:
           cp -r ./data ./youtubert-web/public/data
           cd ./youtubert-web/public/data
           rename 's/^.* - (.*[.]json)$/$1/' *.json
-          python3 src/data_reader.py > ./youtubert-web/public/data/channels.json
+          python3 src/data_reader.py > channels.json
 
       - name: Stamp build number 💮
         env:
