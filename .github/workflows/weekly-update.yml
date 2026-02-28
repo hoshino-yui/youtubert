@@ -18,11 +18,23 @@ jobs:
         with:
           persist-credentials: true
 
+      - name: Connect Wireguard
+        env:
+          SECRET_WG: ${{ secrets.SECRET_WG }}
+        run: |
+          sudo apt install wireguard
+          echo "$SECRET_WG" > /etc/wireguard/proton
+          sudo wg-quick up proton
+          sudo wg
+
       - name: Dependencies
         run: pip install -r ./requirements.txt
 
       - name: Main
         run: python3 src/main.py 180 "https://www.youtube.com/@QuonTama"
+
+      - name: Disconnect Wireguard
+        run: sudo wg-quick down proton
 
       - name: Commit
         run: |
