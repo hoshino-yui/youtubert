@@ -8,21 +8,6 @@ import ChannelSelector from "./ChannelSelector";
 import {useQueries} from "@tanstack/react-query";
 
 
-function getAllChannels() {
-  return new Map(Object.entries({
-    'UChAOCCFuF2hto05Z68xp56A': '鈴花ステラ Ch.  Suzuka Stella',
-    'UCKiWJEjJw-zGW_Co_kJt5dw': '望月ルーナ  Mochitsugi Luna Ch.',
-    'UC5bhpsL8ZUHQ9q-HOLVc82A': 'Cross Ch. 月島クロス【HKVTuber】',
-    'UCYPr6jNySMcfpjheFi61U8w': 'Kurona Ch.酒吞玖蘿娜【innoneer.TV】',
-    'UCBC7vYFNQoGPupe5NxPG4Bw': 'QuonTama Ch. 久遠たま',
-    'UCDqno_7LWobowaVc_vzUuCA': '稍 麦 - yayamugi -',
-    'UCJcKh9mwJH4zhHsU4NDs54g': 'Rumii Ch. 如月ルミィ【HKVTuber】',
-    'UCnwgM2M3C4JOVdOZ0OLu_bA': '小林冰 Aisu Ch.',
-    'UCwwvI-bV0CQ4FwkF-Kg0NBQ': '瑠凜紗紀-RuriSaki【HKVtuber】',
-    'UCNqQfIrZMLNNJNLB0AOnfAg': '真黑makuro【HKVTuber】',
-  }));
-}
-
 const retrieveChannels = async () => {
   const response = await fetch('data/channels.json');
   return await response.json();
