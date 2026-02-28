@@ -5,14 +5,13 @@ from typing import List
 
 
 @dataclass
-class Video:
+class VideoSimple:
     channel: str
     channel_id: str
     title: str
     video_id: str
     webpage_url: str
     timestamp: datetime.timestamp
-    comments: List[Comment]
 
     def fix_timestamp(self):
         if type(self.timestamp) is str:

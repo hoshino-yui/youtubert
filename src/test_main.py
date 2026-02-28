@@ -1,3 +1,4 @@
+import datetime
 from unittest import TestCase
 import utils
 
@@ -9,3 +10,4 @@ class Test(TestCase):
 
     def test_clean_filename(self):
         self.assertEqual(utils.clean_filename('test"<>/:\\|*?:.md'), 'test.md')
+

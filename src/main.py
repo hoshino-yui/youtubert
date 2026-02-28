@@ -1,59 +1,20 @@
 #!/usr/bin/env python3
+import json
 import sys
 import logging
-import multiprocessing
+import time
 from typing import List
 
 import yt_dlp
+
+import data_reader
 import utils
-from datetime import datetime
-from model.comment import Comment
+from model.channel import Channel
+from model.channels import Channels
 from model.video import Video
-
-
-WORKERS = 16
-
-
-def extract_timestamp(video):
-    date_format = "%Y%m%d"
-    if video["release_timestamp"]:
-        return datetime.utcfromtimestamp(video["release_timestamp"])
-    elif video["upload_date"]:
-        return datetime.strptime(video["upload_date"], date_format)
-    else:
-        return None
-
-
-def extract_comment(comment):
-    return Comment(comment["id"], comment["text"])
-
-
-def extract_comments(video):
-    if video["comments"]:
-        comments = video["comments"]
-        return [extract_comment(comment) for comment in comments if utils.comment_is_song_list(comment["text"])]
-    else:
-        return []
-
-
-def extract_video(video) -> Video:
-    return Video(
-        video["channel"],
-        video["channel_id"],
-        video["title"],
-        video["id"],
-        video["webpage_url"],
-        extract_timestamp(video),
-        extract_comments(video)
-    )
-
-
-def process_video(video) -> List[Video]:
-    video = extract_video(video)
-    if video:
-        return [video]
-    else:
-        return []
+from model.video_simple import VideoSimple
+from video_mapper import process_video
+from video_url_fetcher import fetch_videos
 
 
 def extract_entry(entry) -> List[Video]:
@@ -67,70 +28,76 @@ def extract_entry(entry) -> List[Video]:
         return process_video(entry)
 
 
-def extract_url(url) -> List[Video]:
+def extract_url(video: VideoSimple) -> List[Video]:
     ydl_opts = {
+        # "debug_printtraffic": True,
         "getcomments": True,
-        "extractor_retries": 3,
+        "extractor_retries": 2,
         "ignoreerrors": True,
+        'skip_download': True,
+        # 'cookiesfrombrowser': ('firefox', ),
         "extractor_args": {'youtube': {
-            'skip': ['dash'],
-            'comment_sort': ['top']}}
+            'player_client': ['android'],
+            'player_skip': ['configs', 'js', 'initial_data'],
+            'skip': ['https', 'dash', 'hls'],
+            'comment_sort': ['top']
+        }}
     }
     with yt_dlp.YoutubeDL(ydl_opts) as ydl:
-        info = ydl.extract_info(url, download=False)
+        info = ydl.extract_info(video.webpage_url, download=False)
         info = ydl.sanitize_info(info)
+        # print(json.dumps(info))
         if info:
-            return extract_entry(info)
+            print("Extracted something?")
+            entry = extract_entry(info)
+            if entry:
+                if len(entry) == 1:
+                    print("Extracted a thing!")
+                else:
+                    print("Extracted {} things!".format(len(entry)))
+            else:
+                print("Extracted no thing!")
+            return entry
         else:
-            return []
+            print("Extracted nothing!")
+    return []
 
 
-def process_urls(info):
-    if info["_type"] == 'playlist':
-        return [video for playlist in info['entries'] for video in process_urls(playlist)]
-    elif info["_type"] == 'url':
-        return [info['url']]
+def extract_urls(data: Channels, url: str, since) -> List[Video]:
+    video_list = fetch_videos(data, url, since)
+
+    start = time.time()
+    videos: List[List[Video]] = utils.parallel_process(extract_url, video_list)
+    end = time.time()
+    length = end - start
+    print("It took", length, "seconds!")
+    return [v for vs in videos for v in vs]
 
 
-def extract_urls(url) -> List[Video]:
-    ydl_opts = {
-        "extractor_retries": 3,
-        "ignoreerrors": True,
-        'extract_flat': True
-    }
-    with yt_dlp.YoutubeDL(ydl_opts) as ydl:
-        info = ydl.extract_info(url, download=False)
-        info = ydl.sanitize_info(info)
-        urls = process_urls(info)
-        with multiprocessing.Pool(processes=WORKERS) as pool:
-            videos: List[List[Video]] = pool.map(extract_url, urls)
-            return [v for vs in videos for v in vs]
+def write_channels(data: Channels, videos: List[Video]):
+    data.append_videos(videos)
+    for channel in data.channels:
+        write_file(channel)
 
 
-def write_channels(videos: List[Video]):
-    videos = [video for video in videos if video.comments]
-    videos = sorted(videos, key=lambda v: v.timestamp)
-    channel_ids = set([video.channel_id for video in videos])
-    for channel_id in channel_ids:
-        channel_videos = [video for video in videos if video.channel_id == channel_id]
-        write_file(channel_videos)
-
-
-def write_file(videos: List[Video]):
-    channel_id = videos[0].channel_id
-    channel_name = videos[0].channel
-    filename = 'data/' + channel_name + ' - ' + channel_id + '.json'
+def write_file(channel: Channel):
+    filename = 'data/' + channel.channel + ' - ' + channel.channel_id + '.json'
     with utils.create_and_write_file(filename) as file:
-        file.write(utils.videos_to_json_string(videos))
+        file.write(utils.videos_to_json_string(channel.videos))
 
 
-def main(urls):
-    videos: List[Video] = [v for url in urls for v in extract_urls(url)]
+def main(days_ago, urls):
+    now = utils.now()
+    since = utils.minus_days(now, days_ago)
+
+    data: Channels = data_reader.read_data_files()
+    videos: List[Video] = [v for url in urls for v in extract_urls(data, url, since)]
     print("Processed videos: ", len(videos))
-    write_channels(videos)
+    write_channels(data, videos)
 
 
 if __name__ == '__main__':
     logging.getLogger().setLevel(logging.DEBUG)
-    args = sys.argv[1:]
-    main(args)
+    days_ago_arg = sys.argv[1]
+    url_args = sys.argv[2:]
+    main(days_ago_arg, url_args)

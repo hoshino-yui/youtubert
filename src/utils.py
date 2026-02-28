@@ -1,5 +1,7 @@
 import dataclasses
+import datetime
 import json
+import multiprocessing
 import re
 import os.path
 from pathlib import Path
@@ -21,3 +23,16 @@ def create_and_write_file(filename):
 def videos_to_json_string(videos):
     return json.dumps([dataclasses.asdict(v) for v in videos], indent=2, ensure_ascii=False, default=str)
 
+
+def parallel_process(func, items):
+    WORKERS = 1
+    with multiprocessing.Pool(processes=WORKERS) as pool:
+        return pool.map(func, items)
+
+
+def now():
+    return datetime.datetime.now(datetime.UTC)
+
+
+def minus_days(timestamp, days):
+    return timestamp - datetime.timedelta(days=days)
