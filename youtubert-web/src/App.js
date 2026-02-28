@@ -1,6 +1,6 @@
 import './App.css';
 
-import React, {useState} from "react";
+import React, {useEffect, useState} from "react";
 import {Button, Input, Label, SearchField} from 'react-aria-components';
 import VideoSelector from "./VideoSelector";
 import VideoView from "./VideoView";
@@ -23,6 +23,11 @@ function getAllChannels() {
   }));
 }
 
+const retrieveChannels = async () => {
+  const response = await fetch('data/channels.json');
+  return await response.json();
+}
+
 const retrieveChannelVideos = async ({queryKey: [_, channel_id]}) => {
   console.log('channel_id', channel_id);
   const response = await fetch(`data/${channel_id}.json`);
@@ -30,11 +35,22 @@ const retrieveChannelVideos = async ({queryKey: [_, channel_id]}) => {
 };
 
 function App() {
-  const channels = getAllChannels();
+  const [channels, setChannels] = useState(new Map());
   const [searchText, setSearchText] = useState();
-  const [selectedChannel, setSelectedChannel] = useState(new Set([Array.from(channels.keys())[0]]));
+  const [selectedChannel, setSelectedChannel] = useState(new Set());
   const [selectedVideos, setSelectedVideos] = useState(new Set());
   const theSearchText = searchText?.trim();
+
+
+  useEffect(() => {
+    const fetchChannels = async () => {
+      const resultChannels = await retrieveChannels()
+      const channelsMap = new Map(Object.entries(resultChannels))
+      setChannels(channelsMap);
+      setSelectedChannel(new Set([Array.from(channelsMap.keys())[0]]));
+    }
+    fetchChannels()
+  }, []);
 
   const results = useQueries({
     queries: Array.from(selectedChannel).map((channel_id) => ({

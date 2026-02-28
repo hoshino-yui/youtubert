@@ -30,7 +30,6 @@ jobs:
       - name: Create channel index
         run: python3 src/data_reader.py > ./youtubert-web/public/data/channels.json
 
-
       - name: Stamp build number 💮
         env:
           BUILD_NUMBER: ${{github.run_number}}
