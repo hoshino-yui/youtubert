@@ -18,6 +18,8 @@ jobs:
         with:
           persist-credentials: false
 
+      - run: find ./data -maxdepth 1 -type f | sed "s/\.\/data\/(.*) - (.*)\.json/\1 \2/g"
+
       - name: Copy data 📋
         run: |
           echo "set man-db/auto-update false" | sudo debconf-communicate; sudo dpkg-reconfigure man-db
