@@ -18,7 +18,7 @@ jobs:
         with:
           persist-credentials: false
 
-      - run: find ./data -maxdepth 1 -type f | sed "s/\.\/data\/(.*) - (.*)\.json/\1 \2/g"
+      - run: python3 src/data_reader.py
 
       - name: Copy data 📋
         run: |

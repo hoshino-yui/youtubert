@@ -13,8 +13,13 @@ def list_files() -> List[str]:
     return filenames
 
 
-def read_file(filename: str) -> Channel:
+def parse_filename(filename: str):
     channel, channel_id = filename.rstrip(".json").rsplit(" - ", maxsplit=1)
+    return channel, channel_id
+
+
+def read_file(filename: str) -> Channel:
+    channel, channel_id = parse_filename(filename)
 
     with open("data/" + filename, "r") as f:
         data = f.read()
@@ -35,10 +40,12 @@ def read_data_files() -> Channels:
 
 
 def main():
-    channels = read_data_files()
-    for channel in channels.channels:
-        print(channel.channel)
-        print(len(channel.videos))
+    filenames = list_files()
+    channels = {}
+    for filename in filenames:
+        channel, channel_id = parse_filename(filename)
+        channels[channel_id] = channel
+    print(json.dumps(channels, indent=2, ensure_ascii=False, default=str))
 
 
 if __name__ == "__main__":
