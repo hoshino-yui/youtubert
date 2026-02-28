@@ -18,7 +18,7 @@ jobs:
         with:
           persist-credentials: false
 
-      - run: python3 src/data_reader.py
+      - run: python3 src/data_reader.py > ./youtubert-web/public/data/channels.json
 
       - name: Copy data 📋
         run: |
