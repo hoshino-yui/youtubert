@@ -9,7 +9,7 @@ pip install -r ./requirements.txt
 
 ## Run
 ```
-python3 src/main.py "https://www.youtube.com/watch?v=K4VKJAK3kyU"
+python3 src/main.py 180 "https://www.youtube.com/watch?v=K4VKJAK3kyU"
 ```
 
 ## Some beautiful CSS
