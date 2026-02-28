@@ -25,7 +25,8 @@ jobs:
           sudo apt install wireguard
           echo "Write file"
           mkdir /etc/wireguard
-          sudo echo "$SECRET_WG" > /etc/wireguard/proton.conf
+          echo "$SECRET_WG" > proton.conf
+          sudo mv proton.conf /etc/wireguard/
           echo "Finish writing file"
           sudo wg-quick up proton
           sudo wg
