@@ -100,4 +100,4 @@ if __name__ == '__main__':
     logging.getLogger().setLevel(logging.DEBUG)
     days_ago_arg = sys.argv[1]
     url_args = sys.argv[2:]
-    main(days_ago_arg, url_args)
+    main(int(days_ago_arg), url_args)
