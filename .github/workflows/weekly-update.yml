@@ -23,7 +23,10 @@ jobs:
           SECRET_WG: ${{ secrets.SECRET_WG }}
         run: |
           sudo apt install wireguard
-          sudo echo "$SECRET_WG" > /etc/wireguard/proton
+          echo "Write file"
+          mkdir /etc/wireguard
+          sudo echo "$SECRET_WG" > /etc/wireguard/proton.conf
+          echo "Finish writing file"
           sudo wg-quick up proton
           sudo wg
 
