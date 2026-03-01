@@ -28,7 +28,7 @@ jobs:
           sudo mv proton.conf /etc/wireguard/
           echo "Finish writing file"
           sudo wg-quick up proton
-          sudo wg | sed "s/(.*)public key: .*/\1public key: \(hidden\)/g" | sed "s/(.*)peer: .*/\1peer: \(hidden\)/g" | sed "s/(.*)endpoint: .*/\1endpoint: \(hidden\)/g"
+          sudo wg | sed "s/(.*(public key|peer|endpoint)): .*/\1: \(hidden\)/g"
 
       - name: Dependencies
         run: pip install -r ./requirements.txt
