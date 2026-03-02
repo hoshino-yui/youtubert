@@ -4,9 +4,10 @@ permissions:
   contents: write
 
 on:
-  workflow_dispatch:
   schedule:
-    - cron: '0 11 * * 1'  # Weekly
+    - cron: "0 2 * * 1"
+    # At 02:00 on Monday.
+  workflow_dispatch:
 
 jobs:
   deploy:
