@@ -1,15 +1,15 @@
-name: Weekly Update
+name: Daily Update
 
 permissions:
   contents: write
 
 on:
   schedule:
-    - cron: "39 11 * * 1"
+    - cron: "50 11 * * *"
   workflow_dispatch:
 
 jobs:
-  deploy:
+  daily-fetch:
     runs-on: ubuntu-latest
 
     steps:
