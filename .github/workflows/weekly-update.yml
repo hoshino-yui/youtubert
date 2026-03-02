@@ -6,7 +6,7 @@ permissions:
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 * * 1'  # Weekly
+    - cron: '0 11 * * 1'  # Weekly
 
 jobs:
   deploy:
