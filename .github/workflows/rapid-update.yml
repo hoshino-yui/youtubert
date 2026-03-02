@@ -2,8 +2,7 @@ name: Rapid Update
 
 on:
   schedule:
-    - cron: "* * * * *"
-  workflow_dispatch:
+    - cron: "*/5 * * * *"
 
 jobs:
   deploy:
