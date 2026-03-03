@@ -51,7 +51,7 @@ jobs:
             exit 0
           fi
           
-          git config user.name "GitHub Actions Weekly Update Bot"
+          git config user.name "GitHub Actions Daily Update Bot"
           git config user.email "<>"
           git add data
           git commit -m "Daily update"
