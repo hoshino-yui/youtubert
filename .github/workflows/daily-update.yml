@@ -16,6 +16,7 @@ jobs:
       - name: Checkout 🛎️
         uses: actions/checkout@master
         with:
+          token: ${{ secrets.SECRET_PAT }}
           persist-credentials: true
 
       - name: Connect Wireguard
@@ -45,6 +46,11 @@ jobs:
 
       - name: Commit
         run: |
+          if git diff --quiet && git diff --cached --quiet; then
+            echo "No changes"
+            exit 0
+          fi
+          
           git config user.name "GitHub Actions Weekly Update Bot"
           git config user.email "<>"
           git add data
