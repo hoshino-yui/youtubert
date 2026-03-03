@@ -34,7 +34,11 @@ jobs:
         run: pip install -r ./requirements.txt
 
       - name: Main
-        run: python3 src/main.py 180 "https://www.youtube.com/@QuonTama"
+        run: |
+          python3 src/main.py 180 "https://www.youtube.com/@QuonTama"
+          python3 src/main.py 180 "https://www.youtube.com/@makuroon99"
+          python3 src/main.py 180 "https://www.youtube.com/channel/UC5bhpsL8ZUHQ9q-HOLVc82A"
+          python3 src/main.py 180 "https://www.youtube.com/@yayamugi222"
 
       - name: Disconnect Wireguard
         run: sudo wg-quick down proton
