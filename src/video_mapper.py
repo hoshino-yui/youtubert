@@ -51,20 +51,22 @@ def extract_video(video) -> Video:
 
 
 def extract_video_simple(video) -> [VideoSimple]:
+    if "channel" not in video:
+        print("Skipping video without channel", video)
+        return None
     timestamp = extract_timestamp(video)
-    url = video["url"] if "url" in video else video["webpage_url"] if "webpage_url" in video else video["original_url"]
-    if timestamp:
-        return VideoSimple(
-            video["channel"],
-            video["channel_id"],
-            video["title"],
-            video["id"],
-            url,
-            timestamp
-        )
-    else:
+    if not timestamp:
         print("Skipping video without timestamp", video)
         return None
+    url = video["url"] if "url" in video else video["webpage_url"] if "webpage_url" in video else video["original_url"]
+    return VideoSimple(
+        video["channel"],
+        video["channel_id"],
+        video["title"],
+        video["id"],
+        url,
+        timestamp
+    )
 
 
 def process_video_simple(video) -> List[VideoSimple]:
