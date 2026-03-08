@@ -1,7 +1,6 @@
 {
   "name": "youtubert-web",
   "version": "0.1.0",
-  "homepage": ".",
   "private": true,
   "dependencies": {
     "@react-aria/example-theme": "^1.0.0",
