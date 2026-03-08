@@ -6,5 +6,8 @@ export default defineConfig({
     html: {
         template: './public/index.html',
     },
+    output: {
+        assetPrefix: '/youtubert/',
+    },
     plugins: [pluginReact()],
 });
