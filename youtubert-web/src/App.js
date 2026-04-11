@@ -93,7 +93,7 @@ function App() {
         </a>
       </div>
 
-      <div style={{textAlign: "center", fontSize: "14px", color: "#555"}}>
+      <div style={{marginTop: "5px", textAlign: "center", fontSize: "14px", color: "#555"}}>
         Build Number {document.querySelector('meta[name="build-number"]')?.getAttribute('content')}
       </div>
 
