@@ -6,7 +6,7 @@ import VideoSelector from "./VideoSelector";
 import VideoView from "./VideoView";
 import ChannelSelector from "./ChannelSelector";
 import {useQueries} from "@tanstack/react-query";
-
+import {SearchIcon, MarkGithubIcon} from '@primer/octicons-react'
 
 const retrieveChannels = async () => {
   const response = await fetch('data/channels.json');
@@ -59,15 +59,23 @@ function App() {
     <div style={{margin: "10px"}}>
       <div style={{margin: "5px"}}>
         <div style={{display: "flex", justifyContent: "center"}}>
-          <SearchField onChange={setSearchText} onClear={() => setSearchText('')}>
-            <Label>Search</Label>
-            <Input/>
-            <Button>✕</Button>
-          </SearchField>
+          <div style={{position: "relative", display: "inline-block", width: "80%"}}>
+            <SearchIcon style={{
+              position: "absolute",
+              left: "10px",
+              top: "50%",
+              transform: "translateY(-50%)",
+              pointerEvents: "none"
+            }} />
+            <SearchField onChange={setSearchText} onClear={() => setSearchText('')} style={{width: "100%"}}>
+              <Input style={{paddingLeft: "36px"}}/>
+              <Button>✕</Button>
+            </SearchField>
+          </div>
         </div>
         <ChannelSelector channels={channels} selectedChannel={selectedChannel} setSelectedChannel={setSelectedChannel}/>
-
       </div>
+
       <div style={{display: 'flex'}}>
         <VideoSelector videos={videosList} selectedVideos={selectedVideos} handleSelectVideo={setSelectedVideos}/>
         <VideoView key={theVideo?.video_id} video={theVideo} searchText={theSearchText}/>
@@ -77,6 +85,16 @@ function App() {
         searchText = {theSearchText}<br/>
         selectedVideos = {selectedVideos}<br/>
         selectedChannel = {Array.from(selectedChannel).join(', ')}<br/>
+      </div>
+
+      <div style={{marginTop: "20px", textAlign: "center"}}>
+        <a href="https://github.com/hoshino-yui/youtubert" target="_blank" rel="noopener noreferrer">
+          <MarkGithubIcon size={30} />
+        </a>
+      </div>
+
+      <div style={{textAlign: "center", fontSize: "14px", color: "#555"}}>
+        Build Number {document.querySelector('meta[name="build-number"]')?.getAttribute('content')}
       </div>
 
     </div>

@@ -5,29 +5,51 @@
   border: 1px solid var(--border-color);
   border-radius: 6px;
   width: 100%;
-}
+  background: var(--field-background);
+  color: var(--text-color);
 
-span .search-text {
-  font-weight: bold;
-  background-color: var(--highlight-background);
-  color: var(--highlight-foreground);
-  border-radius: 5px;
-}
+  span .search-text {
+    font-weight: bold;
+    background-color: var(--highlight-background);
+    color: var(--highlight-foreground);
+    border-radius: 5px;
+  }
 
-.comment {
-  padding: 10px;
-  background-color: var(--highlight-pressed);
-  border-radius: 10px;
-  font-size: 0.9em;
-}
+  .comment {
+    padding: 10px;
+    background-color: var(--highlight-pressed);
+    border-radius: 10px;
+    font-size: 0.9em;
+  }
 
-iframe {
-  aspect-ratio: 16 / 9;
-  height: auto;
-  width: 100%;
-}
+  iframe {
+    aspect-ratio: 16 / 9;
+    height: auto;
+    width: 100%;
+  }
 
-.react-aria-Link {
-  color: var(--link-color);
-  text-decoration: underline;
+  .react-aria-Link {
+    color: var(--link-color);
+    text-decoration: underline;
+  }
+
+  a {
+    color: var(--link-color);
+    text-decoration: underline;
+    transition: color 0.2s ease;
+  }
+
+  a:visited {
+    color: var(--link-color-secondary);
+  }
+
+  a:hover {
+    color: var(--link-color-pressed);
+    text-decoration: none;
+  }
+
+  a:active {
+    color: var(--link-color-pressed);
+    text-decoration: underline;
+  }
 }
