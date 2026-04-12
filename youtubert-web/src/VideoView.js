@@ -19,7 +19,7 @@ function parseTimeMark(timeMarkString) {
 function makeTimeMarkClickable(text, setTimeMark) {
 
   const parts = text.split(new RegExp(`(${timeMarkRegexString})`, 'g'));
-  return (<span> {
+  return (<span>{
     parts.map(part => {
         if (part.match(`^${timeMarkRegexString}$`)) {
           return <Link onPress={e => {
@@ -30,18 +30,18 @@ function makeTimeMarkClickable(text, setTimeMark) {
         }
       }
     )
-  } </span>);
+  }</span>);
 }
 
 function highlightText(text, searchText, setTimeMark) {
   const parts = searchText ? text.split(new RegExp(`(${searchText})`, 'gi')) : [text];
-  return (<span> {
+  return (<span>{
     parts.map(part =>
       part.toLowerCase() === searchText?.toLowerCase()
         ? <span className="search-text">{part}</span>
         : <span>{makeTimeMarkClickable(part, setTimeMark)}</span>
     )
-  } </span>);
+  }</span>);
 }
 
 function VideoView({video, searchText}) {
