@@ -89,7 +89,7 @@ function App() {
 
       <div style={{marginTop: "20px", textAlign: "center"}}>
         <a href="https://github.com/hoshino-yui/youtubert" target="_blank" rel="noopener noreferrer">
-          <MarkGithubIcon size={30} />
+          <MarkGithubIcon size={30} fill="var(--fgColor-default)" />
         </a>
       </div>
 
