@@ -1,7 +1,7 @@
 import './App.css';
 
 import React, {useEffect, useState} from "react";
-import {Button, Input, Label, SearchField} from 'react-aria-components';
+import {Button, Input, SearchField} from 'react-aria-components';
 import VideoSelector from "./VideoSelector";
 import VideoView from "./VideoView";
 import ChannelSelector from "./ChannelSelector";
@@ -68,27 +68,17 @@ function App() {
               transform: "translateY(-50%)",
               pointerEvents: "none"
             }} />
-            <SearchField onChange={setSearchText} onClear={() => setSearchText('')} style={{width: "100%"}}>
-              <Input style={{height: "35px", paddingLeft: "36px"}}/>
+            <SearchField onChange={setSearchText} onClear={() => setSearchText('')}>
+              <Input />
               <Button>✕</Button>
             </SearchField>
           </div>
-          <div>
-            <Button
-              onClick={() => setAudioOnly(!audioOnly)}
-              className={audioOnly ? "positive" : "disabled"}
-              style={{
-                height: "35px",
-                padding: "8px 12px",
-                borderRadius: "20px",
-                cursor: "pointer",
-                fontSize: "14px",
-                margin: 0
-              }}
-            >
-              <UnmuteIcon size={16} /> Audio only
-            </Button>
-          </div>
+          <Button
+            onClick={() => setAudioOnly(!audioOnly)}
+            className={audioOnly ? "audio-only-button positive" : "audio-only-button disabled"}
+          >
+            <UnmuteIcon size={16} /> Audio only
+          </Button>
         </div>
         <ChannelSelector channels={channels} selectedChannel={selectedChannel} setSelectedChannel={setSelectedChannel}/>
       </div>

@@ -7,13 +7,14 @@
                        "help  help";
   grid-template-columns: 1fr auto;
   align-items: center;
-  width: 80%;
+  width: 100%;
   color: var(--text-color);
 
   .react-aria-Input {
+    height: 35px;
     box-shadow: 0 2px 5px 1px rgba(64, 60, 67, .16);
     grid-area: input;
-    padding: 0.286rem 1.714rem 0.286rem 0.886rem;
+    padding: 0.286rem 36px;
     margin: 0;
     border: 1px solid var(--border-color);
     border-radius: 20px;
@@ -55,4 +56,14 @@
   &[data-empty] button {
     display: none;
   }
+}
+
+.audio-only-button  {
+  box-shadow: 0 2px 5px 1px rgba(64, 60, 67, .16);
+  height: 35px;
+  padding: 8px 12px;
+  border-radius: 20px;
+  cursor: pointer;
+  font-size: 14px;
+  margin: 0;
 }
