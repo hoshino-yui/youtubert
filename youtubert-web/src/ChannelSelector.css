@@ -49,11 +49,17 @@ Button {
 
   &.positive {
     background: #179848;
-   border: 1px solid #179848;
+    border: 1px solid #179848;
  }
 
   &.negative {
     background: var(--invalid-color-pressed);
-  border: 1px solid var(--invalid-color-pressed);
+    border: 1px solid var(--invalid-color-pressed);
   }
+
+  &.disabled {
+    background: var(--text-color-disabled);
+    border: 1px solid var(--text-color-disabled);
+  }
+
 }

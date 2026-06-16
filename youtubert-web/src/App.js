@@ -6,7 +6,7 @@ import VideoSelector from "./VideoSelector";
 import VideoView from "./VideoView";
 import ChannelSelector from "./ChannelSelector";
 import {useQueries} from "@tanstack/react-query";
-import {SearchIcon, MarkGithubIcon} from '@primer/octicons-react'
+import {SearchIcon, MarkGithubIcon, UnmuteIcon} from '@primer/octicons-react'
 
 const retrieveChannels = async () => {
   const response = await fetch('data/channels.json');
@@ -24,6 +24,7 @@ function App() {
   const [searchText, setSearchText] = useState();
   const [selectedChannel, setSelectedChannel] = useState(new Set());
   const [selectedVideos, setSelectedVideos] = useState(new Set());
+  const [audioOnly, setAudioOnly] = useState(false);
   const theSearchText = searchText?.trim();
 
 
@@ -56,9 +57,9 @@ function App() {
   }
   const theVideo = videosMap.get(selectedVideos.values().next().value);
   return (
-    <div style={{margin: "10px"}}>
+    <div style={{margin: "10px 5px"}}>
       <div style={{margin: "5px"}}>
-        <div style={{display: "flex", justifyContent: "center"}}>
+        <div style={{display: "flex", justifyContent: "center", alignItems: "center", gap: "15px"}}>
           <div style={{position: "relative", display: "inline-block", width: "80%"}}>
             <SearchIcon style={{
               position: "absolute",
@@ -68,9 +69,25 @@ function App() {
               pointerEvents: "none"
             }} />
             <SearchField onChange={setSearchText} onClear={() => setSearchText('')} style={{width: "100%"}}>
-              <Input style={{paddingLeft: "36px"}}/>
+              <Input style={{height: "35px", paddingLeft: "36px"}}/>
               <Button>✕</Button>
             </SearchField>
+          </div>
+          <div>
+            <Button
+              onClick={() => setAudioOnly(!audioOnly)}
+              className={audioOnly ? "positive" : "disabled"}
+              style={{
+                height: "35px",
+                padding: "8px 12px",
+                borderRadius: "20px",
+                cursor: "pointer",
+                fontSize: "14px",
+                margin: 0
+              }}
+            >
+              <UnmuteIcon size={16} /> Audio only
+            </Button>
           </div>
         </div>
         <ChannelSelector channels={channels} selectedChannel={selectedChannel} setSelectedChannel={setSelectedChannel}/>
@@ -78,7 +95,7 @@ function App() {
 
       <div style={{display: 'flex'}}>
         <VideoSelector videos={videosList} selectedVideos={selectedVideos} handleSelectVideo={setSelectedVideos}/>
-        <VideoView key={theVideo?.video_id} video={theVideo} searchText={theSearchText}/>
+        <VideoView key={theVideo?.video_id} video={theVideo} searchText={theSearchText} audioOnly={audioOnly}/>
       </div>
 
       <div>

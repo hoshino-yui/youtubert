@@ -23,8 +23,8 @@ function makeTimeMarkClickable(text, setTimeMark) {
     parts.map(part => {
         if (part.match(`^${timeMarkRegexString}$`)) {
           return <Link onPress={e => {
-              setTimeMark(parseTimeMark(part))
-            }}>{part}</Link>;
+            setTimeMark(parseTimeMark(part))
+          }}>{part}</Link>;
         } else {
           return <span>{part}</span>;
         }
@@ -44,7 +44,7 @@ function highlightText(text, searchText, setTimeMark) {
   }</span>);
 }
 
-function VideoView({video, searchText}) {
+function VideoView({video, searchText, audioOnly}) {
   const [timeMark, setTimeMark] = useState(0);
   const [timeMarkKey, setTimeMarkKey] = useState(0);
   const setTimeMarkAndKey = e => {
@@ -54,12 +54,33 @@ function VideoView({video, searchText}) {
   return (video &&
     <div className="video-view">
       <div style={{textAlign: "center"}}>
-        <iframe title="youtube"
-                src={`https://www.youtube.com/embed/${video.video_id}?autoplay=${timeMark ? 1 : 0}&amp;start=${timeMark}`}
-                frameBorder="0"
-                allow={"autoplay; picture-in-picture; web-share"}
-                key={timeMarkKey}
-                allowFullScreen/>
+        {audioOnly ? (
+          <div>
+            <div style={{
+              position: "relative",
+              display: "inline-block",
+              width: "300px",
+              height: "25px",
+              overflow: "hidden"
+            }}>
+              <object style={{position: "absolute", top: "-276px", left: "0px"}}>
+                <iframe title="youtube"
+                        frameBorder="0"
+                        src={`https://www.youtube.com/embed/${video.video_id}?autoplay=${timeMark ? 1 : 0}&amp;start=${timeMark}`}
+                        style={{width: "300px", height: "300px"}}
+                        allow={"autoplay; picture-in-picture; web-share"}
+                        key={timeMarkKey}/>
+              </object>
+            </div>
+          </div>
+        ) : (
+          <iframe title="youtube"
+                  src={`https://www.youtube.com/embed/${video.video_id}?autoplay=${timeMark ? 1 : 0}&amp;start=${timeMark}`}
+                  frameBorder="0"
+                  allow={"autoplay; picture-in-picture; web-share"}
+                  key={timeMarkKey}
+                  allowFullScreen/>
+        )}
       </div>
       <div>
         <p>{video.timestamp}</p>
@@ -69,7 +90,9 @@ function VideoView({video, searchText}) {
         </p>
         {video.comments.map(comment =>
           <p className="comment" id={comment.id}>
-            {comment.text.split('\n').map(line => (<span>{highlightText(line, searchText, setTimeMarkAndKey)}<br/></span>))}
+            {comment.text.split('\n').map(line => (
+              <span>{highlightText(line, searchText, setTimeMarkAndKey)}<br/></span>
+            ))}
           </p>
         )}
       </div>
