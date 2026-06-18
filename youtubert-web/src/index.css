@@ -1,7 +1,3 @@
-html {
-  overflow: auto;
-  scrollbar-gutter: stable both-edges;
-}
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -11,6 +7,12 @@ body {
   -moz-osx-font-smoothing: grayscale;
   background: var(--background-color);
   color: var(--text-color);
+}
+
+#root {
+  height: 100vh;
+  overflow: auto;
+  scrollbar-gutter: stable both-edges;
 }
 
 code {

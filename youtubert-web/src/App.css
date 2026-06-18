@@ -16,7 +16,7 @@
     grid-area: input;
     padding: 0.286rem 36px;
     margin: 0;
-    border: 1px solid var(--border-color);
+    border: 0;
     border-radius: 20px;
     background: var(--field-background);
     font-size: 1.143rem;
