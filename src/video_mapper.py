@@ -38,16 +38,21 @@ def extract_comments(video):
         return []
 
 
-def extract_video(video) -> Video:
-    return Video(
-        video["channel"],
-        video["channel_id"],
-        video["title"],
-        video["id"],
-        video["webpage_url"],
-        extract_timestamp(video),
-        extract_comments(video)
-    )
+def extract_video(video) -> List[Video]:
+    if "channel" not in video:
+        return []
+
+    return [
+        Video(
+            video["channel"],
+            video["channel_id"],
+            video["title"],
+            video["id"],
+            video["webpage_url"],
+            extract_timestamp(video),
+            extract_comments(video)
+        )
+    ]
 
 
 def extract_video_simple(video) -> VideoSimple:
@@ -78,11 +83,7 @@ def process_video_simple(video) -> List[VideoSimple]:
 
 def process_video(video) -> List[Video]:
     try:
-        video = extract_video(video)
-        if video:
-            return [video]
-        else:
-            return []
+        return extract_video(video)
     except Exception as e:
         print("Exception processing video", video, e)
         raise Exception("Exception processing video")

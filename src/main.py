@@ -48,7 +48,7 @@ def extract_url(video: VideoSimple) -> List[Video]:
         info = ydl.sanitize_info(info)
         # print(json.dumps(info))
         if info:
-            print("Extracted something?")
+            print("Extracting webpage URL", video.webpage_url)
             entry = extract_entry(info)
             if entry:
                 if len(entry) == 1:
