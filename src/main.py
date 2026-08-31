@@ -31,13 +31,14 @@ def extract_entry(entry) -> List[Video]:
 def extract_url(video: VideoSimple) -> List[Video]:
     ydl_opts = {
         # "debug_printtraffic": True,
+        'ignore_no_formats_error': True,
         "getcomments": True,
         "extractor_retries": 2,
         "ignoreerrors": True,
         'skip_download': True,
         # 'cookiesfrombrowser': ('firefox', ),
         "extractor_args": {'youtube': {
-            'player_client': ['android'],
+            'player_client': ['web'],
             'player_skip': ['configs', 'js', 'initial_data'],
             'skip': ['https', 'dash', 'hls'],
             'comment_sort': ['top']
