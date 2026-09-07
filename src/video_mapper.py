@@ -39,7 +39,12 @@ def extract_comments(video):
 
 
 def extract_video(video) -> List[Video]:
-    if "channel" not in video:
+    if "channel" not in video or video["channel"] is None:
+        print("Skipping video without channel", video["webpage_url"], video)
+        return []
+
+    if "channel_id" not in video or video["channel_id"] is None:
+        print("Skipping video without channel ID", video["webpage_url"], video)
         return []
 
     return [
