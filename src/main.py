@@ -38,7 +38,7 @@ def extract_url(video: VideoSimple) -> List[Video]:
         'skip_download': True,
         # 'cookiesfrombrowser': ('firefox', ),
         "extractor_args": {'youtube': {
-            'player_client': ['web'],
+            # 'player_client': ['web'],
             'player_skip': ['configs', 'js', 'initial_data'],
             'skip': ['https', 'dash', 'hls'],
             'comment_sort': ['top']
